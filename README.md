@@ -1,4 +1,4 @@
-Open Domain Event Detection
+# Open Domain Event Detection
 
 This repository provides a dataset used in our [COLING 2018
 paper](http://junaraki.net/pubs/coling2018-event.pdf) titled ``Open-Domain
