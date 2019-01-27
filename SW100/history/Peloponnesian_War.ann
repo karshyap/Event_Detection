@@ -1,0 +1,160 @@
+T2	Event 65 73	conflict
+E2	Event:T2 
+T3	Event 75 81	fought
+E3	Event:T3 
+T4	Event 142 145	led
+E4	Event:T4 
+T7	Event 298 304	fought
+E7	Event:T7 
+T9	Event 337 342	trade
+E9	Event:T9 
+T11	Event 412 415	won
+E11	Event:T11 
+T13	Event 472 478	Events
+E13	Event:T13 
+T16	Event 624 632	launched
+E16	Event:T16 
+T17	Event 633 641	repeated
+E17	Event:T17 
+T18	Event 642 651	invasions
+E18	Event:T18 
+T21	Event 717 721	raid
+E21	Event:T21 
+T22	Event 751 761	attempting
+E22	Event:T22 
+T23	Event 765 773	suppress
+E23	Event:T23 
+T25	Event 783 789	unrest
+E25	Event:T25 
+T26	Event 824 827	war
+E26	Event:T26 
+T27	Event 828 833	ended
+E27	Event:T27 
+T28	Event 854 861	signing
+E28	Event:T28 
+T30	Event 917 927	undermined
+E30	Event:T30 
+T31	Event 931 938	renewed
+E31	Event:T31 
+T32	Event 939 947	fighting
+E32	Event:T32 
+T33	Event 986 996	dispatched
+E33	Event:T33 
+T35	Event 1014 1020	attack
+E35	Event:T35 
+T36	Event 1045 1051	attack
+E36	Event:T36 
+T37	Event 1052 1058	failed
+E37	Event:T37 
+T38	Event 1069 1080	destruction
+E38	Event:T38 
+T40	Event 1136 1139	war
+E40	Event:T40 
+T41	Event 1143 1149	called
+E41	Event:T41 
+T46	Event 1245 1254	supported
+E46	Event:T46 
+T47	Event 1255 1265	rebellions
+E47	Event:T47 
+T48	Event 1321 1332	undermining
+E48	Event:T48 
+T49	Event 1368 1372	lost
+E49	Event:T49 
+T50	Event 1398 1409	destruction
+E50	Event:T50 
+T51	Event 1437 1443	battle
+E51	Event:T51 
+T52	Event 1463 1468	ended
+E52	Event:T52 
+T53	Event 1473 1476	war
+E53	Event:T53 
+T54	Event 1489 1500	surrendered
+E54	Event:T54 
+T57	Event 1555 1563	reshaped
+E57	Event:T57 
+T58	Event 1643 1646	war
+E58	Event:T58 
+T59	Event 1647 1654	started
+E59	Event:T59 
+T60	Event 1660 1667	reduced
+E60	Event:T60 
+T61	Event 1715 1721	became
+E61	Event:T61 
+T64	Event 1777 1780	war
+E64	Event:T64 
+T65	Event 1786 1790	felt
+E65	Event:T65 
+T67	Event 1878 1888	devastated
+E67	Event:T67 
+T68	Event 1900 1908	regained
+E68	Event:T68 
+T69	Event 1937 1940	war
+E69	Event:T69 
+T70	Event 1946 1953	wrought
+E70	Event:T70 
+T72	Event 1992 2000	conflict
+E72	Event:T72 
+T73	Event 2064 2073	supported
+E73	Event:T73 
+T74	Event 2123 2127;2147 2157	made occurrence
+E74	Event:T74 
+T77	Event 2184 2191	warfare
+E77	Event:T77 
+T78	Event 2237 2245	conflict
+E78	Event:T78 
+T79	Event 2251 2262	transformed
+E79	Event:T79 
+T80	Event 2279 2287	struggle
+E80	Event:T80 
+T81	Event 2323 2333	atrocities
+E81	Event:T81 
+T82	Event 2352 2362	Shattering
+E82	Event:T82 
+T84	Event 2394 2405	devastating
+E84	Event:T84 
+T85	Event 2439 2449	destroying
+E85	Event:T85 
+T87	Event 2486 2492;2506 2509	marked end
+E87	Event:T87 
+T1	Event 4 21	Peloponnesian War
+E1	Event:T1 
+T5	Event 212 230	Greco-Persian Wars
+E5	Event:T5 
+T8	Event 420 437	Pelopennesian War
+E8	Event:T8 
+T10	Event 600 615	Archidamian War
+E10	Event:T10 
+T14	Event 1154 1166	Decelean War
+E14	Event:T14 
+T15	Event 1175 1185	Ionian War
+E15	Event:T15 
+T19	Event 1214 1231	receiving support
+E19	Event:T19 
+T20	Event 1537 1554	Peloponnesian War
+E20	Event:T20 
+T24	Event 1818 1835	became widespread
+E24	Event:T24 
+T34	Event 2206 2213	limited
+E34	Event:T34 
+T39	Event 2218 2228	formalized
+E39	Event:T39 
+T42	Event 2468 2485	Peloponnesian War
+E42	Event:T42 
+T43	Event 1696 1706	subjection
+E43	Event:T43 
+T6	Event 239 248	stood for
+E6	Event:T6 
+T44	Event 2128 2137	civil war
+E44	Event:T44 
+T45	Event 355 364	dominance
+E45	Event:T45 
+T12	Event 676 693	took advantage of
+E12	Event:T12 
+T55	Event 1524 1531	Results
+E55	Event:T55 
+T56	Event 1810 1817	poverty
+E56	Event:T56 
+T62	Event 1921 1931	prosperity
+E62	Event:T62 
+T29	Event 1962 1969	changes
+E29	Event:T29 

@@ -1,0 +1,98 @@
+T2	Event 146 153	erupted
+E2	Event:T2 
+T3	Event 166 174	climaxed
+E3	Event:T3 
+T4	Event 204 215;225 233	destructive eruption
+E4	Event:T4 
+T6	Event 265 274	estimated
+E6	Event:T6 
+T8	Event 319 327	eruption
+E8	Event:T8 
+T10	Event 395 402	ejected
+E10	Event:T10 
+T11	Event 415 424	explosion
+E11	Event:T11 
+T12	Event 551 559	eruption
+E12	Event:T12 
+T13	Event 560 569	destroyed
+E13	Event:T13 
+T14	Event 593 598	known
+E14	Event:T14 
+T15	Event 647 653	deaths
+E15	Event:T15 
+T16	Event 663 671	eruption
+E16	Event:T16 
+T17	Event 697 704	disease
+E17	Event:T17 
+T19	Event 721 727	ruined
+E19	Event:T19 
+T21	Event 761 766	death
+E21	Event:T21 
+T23	Event 827 833	killed
+E23	Event:T23 
+T24	Event 850 858	eruption
+E24	Event:T24 
+T26	Event 900 906	killed
+E26	Event:T26 
+T27	Event 910 918	believed
+E27	Event:T27 
+T28	Event 925 938	overestimated
+E28	Event:T28 
+T29	Event 943 951	launched
+E29	Event:T29 
+T30	Event 1035 1041	caused
+E30	Event:T30 
+T31	Event 1042 1048	famine
+E31	Event:T31 
+T32	Event 1116 1124	eruption
+E32	Event:T32 
+T34	Event 1150 1159	explosion
+E34	Event:T34 
+T35	Event 1164 1169	heard
+E35	Event:T35 
+T37	Event 1254 1262	observed
+E37	Event:T37 
+T39	Event 1341 1349	eruption
+E39	Event:T39 
+T40	Event 1350 1356	caused
+E40	Event:T40 
+T42	Event 1381 1386	known
+E42	Event:T42 
+T46	Event 1530 1536	failed
+E46	Event:T46 
+T47	Event 1551 1555	died
+E47	Event:T47 
+T49	Event 1615 1621	famine
+E49	Event:T49 
+T1	Event 682 692	starvation
+E1	Event:T1 
+T5	Event 1082 1090	outburst
+E5	Event:T5 
+T7	Event 1128 1136	recorded
+E7	Event:T7 
+T9	Event 864 875	often-cited
+E9	Event:T9 
+T18	Event 1030 1034	This
+E18	Event:T18 
+T20	Event 1239 1248	ash falls
+E20	Event:T20 
+T22	Event 1366 1380	climate change
+E22	Event:T22 
+T25	Event 1418 1430	became known
+E25	Event:T25 
+T33	Event 1321 1335	Climate change
+E33	Event:T33 
+T36	Event 45 51	active
+E36	Event:T36 
+T38	Event 188 190	It
+E38	Event:T38 
+T41	Event 280 282	it
+E41	Event:T41 
+T43	Event 728 735	farming
+E43	Event:T43 
+T44	Event 1477 1483	effect
+E44	Event:T44 
+T45	Event 1592 1604	resulting in
+E45	Event:T45 
+T48	Event 1395 1410	volcanic winter
+E48	Event:T48 

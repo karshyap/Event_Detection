@@ -1,0 +1,110 @@
+T1	Event 57 63	change
+E1	Event:T1 
+T2	Event 207 213	change
+E2	Event:T2 
+T3	Event 258 265	cooling
+E3	Event:T3 
+T5	Event 302 312	compacting
+E5	Event:T5 
+T6	Event 314 323	squeezing
+E6	Event:T6 
+T7	Event 343 352	cementing
+E7	Event:T7 
+T8	Event 358 366	pressure
+E8	Event:T8 
+T10	Event 415 420	enter
+E10	Event:T10 
+T11	Event 442 448	heated
+E11	Event:T11 
+T13	Event 522 528	called
+E13	Event:T13 
+T14	Event 569 576	erosion
+E14	Event:T14 
+T15	Event 581 591	weathering
+E15	Event:T15 
+T17	Event 658 666	hardened
+E17	Event:T17 
+T18	Event 684 690	happen
+E18	Event:T18 
+T19	Event 721 725	melt
+E19	Event:T19 
+T20	Event 738 743	erode
+E20	Event:T20 
+T21	Event 765 772	pressed
+E21	Event:T21 
+T23	Event 875 881	heated
+E23	Event:T23 
+T24	Event 886 894	squeezed
+E24	Event:T24 
+T25	Event 903 908	erode
+E25	Event:T25 
+T26	Event 926 930	melt
+E26	Event:T26 
+T27	Event 946 952	formed
+E27	Event:T27 
+T29	Event 1070 1074	come
+E29	Event:T29 
+T31	Event 1120 1126	living
+E31	Event:T31 
+T32	Event 1142 1147	erode
+E32	Event:T32 
+T33	Event 1174 1185	pressurized
+E33	Event:T33 
+T34	Event 1229 1234	occur
+E34	Event:T34 
+T37	Event 1293 1296	has
+E37	Event:T37 
+T38	Event 1319 1327	changing
+E38	Event:T38 
+T40	Event 1354 1360	create
+E40	Event:T40 
+T41	Event 1386 1394	movement
+E41	Event:T41 
+T42	Event 1433 1440;1450 1454	creates heat
+E42	Event:T42 
+T45	Event 1474 1481	affects
+E45	Event:T45 
+T46	Event 1508 1516	converts
+E46	Event:T46 
+T47	Event 1556 1563	rejoins
+E47	Event:T47 
+T4	Event 267 274	melting
+E4	Event:T4 
+T48	Event 282 292	weathering
+E48	Event:T48 
+T49	Event 293 300	erosion
+E49	Event:T49 
+T16	Event 1041 1050	compacted
+E16	Event:T16 
+T28	Event 22 29	process
+E28	Event:T28 
+T30	Event 247 256	processes
+E30	Event:T30 
+T35	Event 276 280	heat
+E35	Event:T35 
+T22	Event 793 811	become metamorphic
+E22	Event:T22 
+T39	Event 1215 1224	processes
+E39	Event:T39 
+T36	Event 1264 1269	cycle
+E36	Event:T36 
+T43	Event 1270 1277	goes on
+E43	Event:T43 
+T44	Event 1305 1314	processes
+E44	Event:T44 
+T50	Event 1497 1507	Subduction
+E50	Event:T50 
+T51	Event 1568 1573	cycle
+E51	Event:T51 
+T52	Event 4 14	rock cycle
+E52	Event:T52 
+T53	Event 425 435	rock cycle
+E53	Event:T53 
+T9	Event 398 404	become
+E9	Event:T9 
+T12	Event 474 480	become
+E12	Event:T12 
+T54	Event 1335 1339	Wind
+E54	Event:T54 
+T55	Event 1433 1440;1459 1467	creates pressure
+E55	Event:T55 

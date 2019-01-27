@@ -1,0 +1,96 @@
+T1	Event 32 38	formed
+E1	Event:T1 
+T2	Event 46 54	collapse
+E2	Event:T2 
+T3	Event 97 105	eruption
+E3	Event:T3 
+T4	Event 118 126	eruption
+E4	Event:T4 
+T5	Event 198 202	drop
+E5	Event:T5 
+T7	Event 270 274	made
+E7	Event:T7 
+T8	Event 278 286	blasting
+E8	Event:T8 
+T9	Event 303 313	collapsing
+E9	Event:T9 
+T13	Event 425 432	erupted
+E13	Event:T13 
+T14	Event 460 468	released
+E14	Event:T14 
+T15	Event 498 506	covering
+E15	Event:T15 
+T16	Event 566 576	comparison
+E16	Event:T16 
+T17	Event 600 607	erupted
+E17	Event:T17 
+T18	Event 620 628	released
+E18	Event:T18 
+T21	Event 685 693	eruption
+E21	Event:T21 
+T22	Event 720 724	seen
+E22	Event:T22 
+T24	Event 756 764	eruption
+E24	Event:T24 
+T25	Event 833 841	released
+E25	Event:T25 
+T26	Event 896 904	eruption
+E26	Event:T26 
+T28	Event 1085 1094	suggested
+E28	Event:T28 
+T29	Event 1118 1125	induced
+E29	Event:T29 
+T30	Event 1134 1142	eruption
+E30	Event:T30 
+T31	Event 1143 1150	reduced
+E31	Event:T31 
+T33	Event 1242 1251	suggested
+E33	Event:T33 
+T35	Event 1276 1283	reduced
+E35	Event:T35 
+T38	Event 1433 1440	decline
+E38	Event:T38 
+T39	Event 1444 1454	extinction
+E39	Event:T39 
+T41	Event 1539 1548	continued
+E41	Event:T41 
+T42	Event 1568 1576	eruption
+E42	Event:T42 
+T44	Event 1651 1660	Eruptions
+E44	Event:T44 
+T45	Event 1661 1668	forming
+E45	Event:T45 
+T46	Event 1694 1699	known
+E46	Event:T46 
+T47	Event 1796 1803	blasted
+E47	Event:T47 
+T48	Event 1826 1834	eruption
+E48	Event:T48 
+T50	Event 1913 1921	appeared
+E50	Event:T50 
+T51	Event 1981 1986	found
+E51	Event:T51 
+T52	Event 2041 2047	formed
+E52	Event:T52 
+T53	Event 2151 2158	erupted
+E53	Event:T53 
+T6	Event 158 163	empty
+E6	Event:T6 
+T12	Event 890 895	known
+E12	Event:T12 
+T19	Event 869 873	This
+E19	Event:T19 
+T20	Event 976 981	known
+E20	Event:T20 
+T23	Event 1528 1538	habitation
+E23	Event:T23 
+T27	Event 982 1000	explosive eruption
+E27	Event:T27 
+T10	Event 670 677	effects
+E10	Event:T10 
+T11	Event 1197 1209	resulting in
+E11	Event:T11 
+T32	Event 1102 1117	volcanic winter
+E32	Event:T32 
+T34	Event 1212 1233	population bottleneck
+E34	Event:T34 

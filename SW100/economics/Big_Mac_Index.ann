@@ -1,0 +1,44 @@
+T1	Event 43 51	compares
+E1	Event:T1 
+T8	Event 184 191	written
+E8	Event:T8 
+T9	Event 253 262	published
+E9	Event:T9 
+T10	Event 322 328	chosen
+E10	Event:T10 
+T11	Event 343 347	made
+E11	Event:T11 
+T12	Event 474 482	compared
+E12	Event:T12 
+T13	Event 486 494	dividing
+E13	Event:T13 
+T14	Event 634 642	compared
+E14	Event:T14 
+T21	Event 788 796	compared
+E21	Event:T21 
+T24	Event 912 917	using
+E24	Event:T24 
+T25	Event 1060 1065	using
+E25	Event:T25 
+T26	Event 1127 1133	bought
+E26	Event:T26 
+T27	Event 1148 1155	implied
+E27	Event:T27 
+T30	Event 1225 1232	divided
+E30	Event:T30 
+T31	Event 1272 1280	compares
+E31	Event:T31 
+T34	Event 1356 1366	overvalued
+E34	Event:T34 
+T36	Event 1423 1430	divided
+E36	Event:T36 
+T37	Event 1434 1441	implied
+E37	Event:T37 
+T39	Event 1465 1472	divided
+E39	Event:T39 
+T2	Event 95 103	looks at
+E2	Event:T2 
+T3	Event 723 735	under-valued
+E3	Event:T3 
+T4	Event 885 896	over-valued
+E4	Event:T4 

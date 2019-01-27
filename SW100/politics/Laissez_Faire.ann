@@ -1,0 +1,94 @@
+T5	Event 182 189;200 209;249 253	Finance decisions make
+E5	Event:T5 
+T8	Event 214 218	left
+E8	Event:T8 
+T9	Event 313 323	represents
+E9	Event:T9 
+T11	Event 341 349	progress
+E11	Event:T11 
+T12	Event 362 367	claim
+E12	Event:T12 
+T14	Event 403 410	creates
+E14	Event:T14 
+T15	Event 421 428	balance
+E15	Event:T15 
+T18	Event 475 483	supposed
+E18	Event:T18 
+T20	Event 595 600	named
+E20	Event:T20 
+T22	Event 620 625	asked
+E22	Event:T22 
+T23	Event 651 655	help
+E23	Event:T23 
+T24	Event 656 664	commerce
+E24	Event:T24 
+T26	Event 676 683	replied
+E26	Event:T26 
+T27	Event 685 688	Let
+E27	Event:T27 
+T28	Event 692 694	do
+E28	Event:T28 
+T29	Event 703 707	want
+E29	Event:T29 
+T30	Event 711 713	do
+E30	Event:T30 
+T31	Event 798 806	believed
+E31	Event:T31 
+T32	Event 870 878	included
+E32	Event:T32 
+T33	Event 912 916	have
+E33	Event:T33 
+T34	Event 941 948	created
+E34	Event:T34 
+T35	Event 1011 1016	split
+E35	Event:T35 
+T36	Event 1128 1137	developed
+E36	Event:T36 
+T37	Event 1182 1190	believed
+E37	Event:T37 
+T38	Event 1207 1218	involvement
+E38	Event:T38 
+T39	Event 1294 1302	believed
+E39	Event:T39 
+T40	Event 1319 1331	intervention
+E40	Event:T40 
+T41	Event 1335 1339	help
+E41	Event:T41 
+T42	Event 1372 1376;1382 1386	made lazy
+E42	Event:T42 
+T44	Event 1530 1538	promoted
+E44	Event:T44 
+T45	Event 1508 1518	free trade
+E45	Event:T45 
+T47	Event 1602 1609	favored
+E47	Event:T47 
+T48	Event 1655 1661;1667 1674	placed tariffs
+E48	Event:T48 
+T49	Event 1678 1686	imported
+E49	Event:T49 
+T50	Event 1695 1702	protect
+E50	Event:T50 
+T10	Event 384 395	unregulated
+E10	Event:T10 
+T51	Event 375 379	free
+E51	Event:T51 
+T16	Event 525 532	meeting
+E16	Event:T16 
+T17	Event 829 841	interference
+E17	Event:T17 
+T52	Event 1372 1376;1391 1400	made dependent
+E52	Event:T52 
+T53	Event 1443 1449	debate
+E53	Event:T53 
+T1	Event 194 209;249 253	trade decisions make
+E1	Event:T1 
+T2	Event 277 288	unregulated
+E2	Event:T2 
+T3	Event 289 300	competition
+E3	Event:T3 
+T6	Event 97 108	leave alone
+E6	Event:T6 
+T7	Event 145 154	interfere
+E7	Event:T7 
+T4	Event 1548 1563	economic growth
+E4	Event:T4 

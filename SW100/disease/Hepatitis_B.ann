@@ -1,0 +1,124 @@
+T1	Event 17 24	disease
+E1	Event:T1 
+T2	Event 45 51	caused
+E2	Event:T2 
+T3	Event 81 87	spread
+E3	Event:T3 
+T5	Event 106 113	contact
+E5	Event:T5 
+T6	Event 125 131	spread
+E6	Event:T6 
+T8	Event 222 232	childbirth
+E8	Event:T8 
+T9	Event 249 255	spread
+E9	Event:T9 
+T12	Event 341 350	Infection
+E12	Event:T12 
+T13	Event 375 384	prevented
+E13	Event:T13 
+T14	Event 410 419;423 428	injection given
+E14	Event:T14 
+T15	Event 435 440;450 456	makes immune
+E15	Event:T15 
+T16	Event 477 488	recommended
+E16	Event:T16 
+T17	Event 509 514;533 541	given vaccines
+E17	Event:T17 
+T20	Event 584 590	ensure
+E20	Event:T20 
+T21	Event 596 606	protection
+E21	Event:T21 
+T22	Event 653 661	provides
+E22	Event:T22 
+T23	Event 666 676	protection
+E23	Event:T23 
+T24	Event 701 707	remove
+E24	Event:T24 
+T26	Event 720 729	infection
+E26	Event:T26 
+T27	Event 751 759	infected
+E27	Event:T27 
+T28	Event 772 776	beat
+E28	Event:T28 
+T29	Event 812 820	infected
+E29	Event:T29 
+T30	Event 844 848;859 867	have symptoms
+E30	Event:T30 
+T32	Event 892 899	damaged
+E32	Event:T32 
+T33	Event 910 917	causing
+E33	Event:T33 
+T35	Event 942 949	symptom
+E35	Event:T35 
+T39	Event 1034 1042	build-up
+E39	Event:T39 
+T41	Event 1084 1092	filtered
+E41	Event:T41 
+T42	Event 1115 1122	problem
+E42	Event:T42 
+T43	Event 1155 1160	cause
+E43	Event:T43 
+T46	Event 1198 1202	find
+E46	Event:T46 
+T48	Event 1233 1240	damaged
+E48	Event:T48 
+T49	Event 1252 1256;1263 1268	have signs
+E49	Event:T49 
+T51	Event 1270 1279	treatment
+E51	Event:T51 
+T52	Event 1300 1307	prevent
+E52	Event:T52 
+T53	Event 1318 1324	damage
+E53	Event:T53 
+T54	Event 1325 1331	caused
+E54	Event:T54 
+T56	Event 1356 1367;1372 1377	medications given
+E56	Event:T56 
+T57	Event 1385 1392	prevent
+E57	Event:T57 
+T4	Event 164 172	infected
+E4	Event:T4 
+T18	Event 275 280	reuse
+E18	Event:T18 
+T37	Event 388 399	vaccination
+E37	Event:T37 
+T61	Event 636 647	vaccination
+E61	Event:T61 
+T25	Event 0 11	Hepatitis B
+E25	Event:T25 
+T40	Event 39 41	It
+E40	Event:T40 
+T47	Event 356 367	hepatitis B
+E47	Event:T47 
+T19	Event 678 680	it
+E19	Event:T19 
+T34	Event 918 931	liver failure
+E34	Event:T34 
+T36	Event 953 966	liver failure
+E36	Event:T36 
+T62	Event 970 978	jaundice
+E62	Event:T62 
+T38	Event 1013 1024	turn yellow
+E38	Event:T38 
+T63	Event 1128 1139	hepatitis B
+E63	Event:T63 
+T64	Event 1148 1150	it
+E64	Event:T64 
+T65	Event 1203 1208	signs
+E65	Event:T65 
+T66	Event 1284 1295	hepatitis B
+E66	Event:T66 
+T55	Event 1408 1421	making copies
+E55	Event:T55 
+T58	Event 1496 1506	get rid of
+E58	Event:T58 
+T45	Event 1182 1193	Blood tests
+E45	Event:T45 
+T7	Event 192 195	get
+E7	Event:T7 
+T10	Event 259 273	sexual contact
+E10	Event:T10 
+T11	Event 297 318	transfusions of blood
+E11	Event:T11 
+T31	Event 1161 1167	cancer
+E31	Event:T31 

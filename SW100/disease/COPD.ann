@@ -1,0 +1,134 @@
+T2	Event 51 56	known
+E2	Event:T2 
+T6	Event 167 175	diseases
+E6	Event:T6 
+T7	Event 182 186;212 221	make difficult
+E7	Event:T7 
+T8	Event 187 196	breathing
+E8	Event:T8 
+T9	Event 223 231	Symptoms
+E9	Event:T9 
+T13	Event 336 342	caused
+E13	Event:T13 
+T14	Event 346 353	smoking
+E14	Event:T14 
+T15	Event 396 401	smoke
+E15	Event:T15 
+T16	Event 429 436	develop
+E16	Event:T16 
+T21	Event 518 523;528 532	fires used
+E21	Event:T21 
+T22	Event 541 552	ventilation
+E22	Event:T22 
+T24	Event 578 585	disease
+E24	Event:T24 
+T26	Event 636 646	exercising
+E26	Event:T26 
+T29	Event 742 749	sitting
+E29	Event:T29 
+T31	Event 777 781	lead
+E31	Event:T31 
+T32	Event 785 795	infections
+E32	Event:T32 
+T33	Event 840 845	cause
+E33	Event:T33 
+T34	Event 846 851	death
+E34	Event:T34 
+T36	Event 880 888	treating
+E36	Event:T36 
+T37	Event 900 904	stop
+E37	Event:T37 
+T38	Event 905 912	smoking
+E38	Event:T38 
+T39	Event 914 922	Exercise
+E39	Event:T39 
+T41	Event 948 952	help
+E41	Event:T41 
+T42	Event 972 976	used
+E42	Event:T42 
+T44	Event 993 999	called
+E44	Event:T44 
+T45	Event 1023 1027	help
+E45	Event:T45 
+T47	Event 1055 1060	allow
+E47	Event:T47 
+T51	Event 1138 1141	die
+E51	Event:T51 
+T52	Event 1183 1191	predicts
+E52	Event:T52 
+T53	Event 1207 1213	become
+E53	Event:T53 
+T56	Event 1241 1246	death
+E56	Event:T56 
+T57	Event 1272 1279	thought
+E57	Event:T57 
+T58	Event 1302 1305	die
+E58	Event:T58 
+T59	Event 1347 1353	living
+E59	Event:T59 
+T60	Event 1368 1378	increasing
+E60	Event:T60 
+T61	Event 1409 1414	smoke
+E61	Event:T61 
+T1	Event 0 37	Chronic obstructive pulmonary disease
+E1	Event:T1 
+T5	Event 39 43	COPD
+E5	Event:T5 
+T3	Event 60 92	chronic obstructive lung disease
+E3	Event:T3 
+T10	Event 94 98	COLD
+E10	Event:T10 
+T4	Event 105 139	chronic obstructive airway disease
+E4	Event:T4 
+T17	Event 141 145	COAD
+E17	Event:T17 
+T23	Event 235 239	COPD
+E23	Event:T23 
+T11	Event 248 268	difficulty breathing
+E11	Event:T11 
+T35	Event 273 278	cough
+E35	Event:T35 
+T12	Event 294 305;314 320	coughing up phlegm
+E12	Event:T12 
+T40	Event 322 324	It
+E40	Event:T40 
+T48	Event 437 441	COPD
+E48	Event:T48 
+T19	Event 591 611	difficulty breathing
+E19	Event:T19 
+T20	Event 668 670	it
+E20	Event:T20 
+T25	Event 681 694	becomes worse
+E25	Event:T25 
+T27	Event 711 731	difficulty breathing
+E27	Event:T27 
+T28	Event 753 763	lying down
+E28	Event:T28 
+T30	Event 765 767	It
+E30	Event:T30 
+T49	Event 889 893	COPD
+E49	Event:T49 
+T46	Event 1031 1038	open up
+E46	Event:T46 
+T50	Event 1121 1125	COPD
+E50	Event:T50 
+T54	Event 1147 1151	COPD
+E54	Event:T54 
+T55	Event 1197 1201	COPD
+E55	Event:T55 
+T62	Event 1311 1313	it
+E62	Event:T62 
+T63	Event 927 938	medications
+E63	Event:T63 
+T64	Event 472 477	cause
+E64	Event:T64 
+T18	Event 443 456	Air pollution
+E18	Event:T18 
+T43	Event 620 630	noticeable
+E43	Event:T43 
+T65	Event 1232 1237	cause
+E65	Event:T65 
+T66	Event 1096 1106	disability
+E66	Event:T66 
+T67	Event 1110 1117	related
+E67	Event:T67 

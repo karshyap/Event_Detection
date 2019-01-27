@@ -1,0 +1,176 @@
+T2	Event 25 33	happened
+E2	Event:T2 
+T3	Event 55 59	fire
+E3	Event:T3 
+T4	Event 60 66	lasted
+E4	Event:T4 
+T5	Event 122 132	threatened
+E5	Event:T5 
+T6	Event 283 288	reach
+E6	Event:T6 
+T9	Event 418 426	believed
+E9	Event:T9 
+T10	Event 435 444	destroyed
+E10	Event:T10 
+T11	Event 491 496	lived
+E11	Event:T11 
+T12	Event 520 525	known
+E12	Event:T12 
+T13	Event 542 546	died
+E13	Event:T13 
+T14	Event 554 558	fire
+E14	Event:T14 
+T15	Event 571 577	deaths
+E15	Event:T15 
+T17	Event 652 656	fire
+E17	Event:T17 
+T18	Event 666 674	cremated
+E18	Event:T18 
+T19	Event 681 688	leaving
+E19	Event:T19 
+T20	Event 718 722	fire
+E20	Event:T20 
+T21	Event 723 730	started
+E21	Event:T21 
+T22	Event 797 802	began
+E22	Event:T22 
+T23	Event 850 854;860 864	grew fast
+E23	Event:T23 
+T26	Event 918 928	destroying
+E26	Event:T26 
+T29	Event 971 977	spread
+E29	Event:T29 
+T30	Event 992 998	happen
+E30	Event:T30 
+T31	Event 1082 1084	do
+E31	Event:T31 
+T33	Event 1101 1108	ordered
+E33	Event:T33 
+T35	Event 1145 1149	fire
+E35	Event:T35 
+T36	Event 1150 1156	pushed
+E36	Event:T36 
+T37	Event 1214 1221	thought
+E37	Event:T37 
+T38	Event 1243 1250;1255 1260	setting fires
+E38	Event:T38 
+T40	Event 1267 1275	believed
+E40	Event:T40 
+T42	Event 1376 1379	war
+E42	Event:T42 
+T43	Event 1389 1398	happening
+E43	Event:T43 
+T45	Event 1430 1434	fire
+E45	Event:T45 
+T46	Event 1435 1441	spread
+E46	Event:T46 
+T47	Event 1465 1475	destroying
+E47	Event:T47 
+T48	Event 1501 1508	crossed
+E48	Event:T48 
+T51	Event 1600 1607	attempt
+E51	Event:T51 
+T53	Event 1623 1627	fire
+E53	Event:T53 
+T54	Event 1631 1639	believed
+E54	Event:T54 
+T59	Event 1743 1750	causing
+E59	Event:T59 
+T60	Event 1755 1759	fire
+E60	Event:T60 
+T61	Event 1763 1769	spread
+E61	Event:T61 
+T63	Event 1801 1805	used
+E63	Event:T63 
+T64	Event 1819 1823;1829 1839	make firebreaks
+E64	Event:T64 
+T65	Event 1845 1852	stopped
+E65	Event:T65 
+T66	Event 1857 1861	fire
+E66	Event:T66 
+T67	Event 1867 1876	spreading
+E67	Event:T67 
+T69	Event 1923 1930	created
+E69	Event:T69 
+T70	Event 1938 1946	disaster
+E70	Event:T70 
+T71	Event 1962 1969	Leaving
+E71	Event:T71 
+T72	Event 1980 1982	go
+E72	Event:T72 
+T73	Event 1987 1991	live
+E73	Event:T73 
+T74	Event 2015 2025	encouraged
+E74	Event:T74 
+T75	Event 2044 2050	feared
+E75	Event:T75 
+T76	Event 2060 2069	rebellion
+E76	Event:T76 
+T77	Event 2099 2103	lost
+E77	Event:T77 
+T79	Event 2145 2154	proposals
+E79	Event:T79 
+T80	Event 2167 2180	reconstructed
+E80	Event:T80 
+T82	Event 2217 2221	used
+E82	Event:T82 
+T83	Event 2233 2237	fire
+E83	Event:T83 
+T84	Event 2243 2247	fire
+E84	Event:T84 
+T85	Event 2251 2255	said
+E85	Event:T85 
+T86	Event 2269 2275	helped
+E86	Event:T86 
+T88	Event 2317 2320	hit
+E88	Event:T88 
+T89	Event 2341 2347	killed
+E89	Event:T89 
+T1	Event 4 24	Great Fire of London
+E1	Event:T1 
+T8	Event 119 121	It
+E8	Event:T8 
+T16	Event 272 274	it
+E16	Event:T16 
+T24	Event 306 308	It
+E24	Event:T24 
+T27	Event 432 434	it
+E27	Event:T27 
+T28	Event 794 796	It
+E28	Event:T28 
+T25	Event 899 914	made firebreaks
+E25	Event:T25 
+T34	Event 979 983	This
+E34	Event:T34 
+T39	Event 1350 1372	Second Anglo-Dutch War
+E39	Event:T39 
+T41	Event 1547 1559	setting fire
+E41	Event:T41 
+T44	Event 1611 1618	put out
+E44	Event:T44 
+T49	Event 1653 1663	successful
+E49	Event:T49 
+T50	Event 1713 1724	slowed down
+E50	Event:T50 
+T52	Event 1914 1922	problems
+E52	Event:T52 
+T55	Event 2279 2289	get rid of
+E55	Event:T55 
+T56	Event 2294 2306	Great Plague
+E56	Event:T56 
+T7	Event 309 320	burned down
+E7	Event:T7 
+T57	Event 692 704	recognisable
+E57	Event:T57 
+T32	Event 1066 1073	certain
+E32	Event:T32 
+T58	Event 958 960	it
+E58	Event:T58 
+T62	Event 950 954	fire
+E62	Event:T62 
+T68	Event 1732 1737	winds
+E68	Event:T68 
+T78	Event 1707 1712	winds
+E78	Event:T78 
+T81	Event 1679 1685	things
+E81	Event:T81 

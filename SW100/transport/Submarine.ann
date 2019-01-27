@@ -1,0 +1,150 @@
+T1	Event 38 42	goes
+E1	Event:T1 
+T2	Event 115 119	used
+E2	Event:T2 
+T4	Event 173 179	called
+E4	Event:T4 
+T6	Event 216 220;226 230	stay away
+E6	Event:T6 
+T7	Event 259 262	buy
+E7	Event:T7 
+T8	Event 276 283	explore
+E8	Event:T8 
+T10	Event 338 344	called
+E10	Event:T10 
+T12	Event 413 420	powered
+E12	Event:T12 
+T14	Event 472 480	invented
+E14	Event:T14 
+T15	Event 510 518	designed
+E15	Event:T15 
+T16	Event 525 529	used
+E16	Event:T16 
+T17	Event 534 537	war
+E17	Event:T17 
+T18	Event 556 559	try
+E18	Event:T18 
+T19	Event 563 567	sink
+E19	Event:T19 
+T22	Event 613 621	drilling
+E22	Event:T22 
+T23	Event 659 664	tried
+E23	Event:T23 
+T24	Event 668 675	blow up
+E24	Event:T24 
+T25	Event 695 704	destroyed
+E25	Event:T25 
+T26	Event 744 749;761 771	First World Wars
+E26	Event:T26 
+T27	Event 796 800	made
+E27	Event:T27 
+T28	Event 754 771	Second World Wars
+E28	Event:T28 
+T29	Event 839 846	created
+E29	Event:T29 
+T30	Event 879 886	powered
+E30	Event:T30 
+T31	Event 940 944	used
+E31	Event:T31 
+T32	Event 948 952	turn
+E32	Event:T32 
+T33	Event 986 992	charge
+E33	Event:T33 
+T35	Event 1082 1086	used
+E35	Event:T35 
+T36	Event 1090 1095	power
+E36	Event:T36 
+T37	Event 1118 1122	went
+E37	Event:T37 
+T39	Event 1198 1201	see
+E39	Event:T39 
+T40	Event 1238 1244	attack
+E40	Event:T40 
+T41	Event 1285 1295	recharging
+E41	Event:T41 
+T42	Event 1351 1357	battle
+E42	Event:T42 
+T43	Event 1374 1380	fought
+E43	Event:T43 
+T45	Event 1431 1435	wars
+E45	Event:T45 
+T46	Event 1446 1450	jobs
+E46	Event:T46 
+T49	Event 1497 1501	sink
+E49	Event:T49 
+T51	Event 1531 1539	attacked
+E51	Event:T51 
+T52	Event 1561 1569	shooting
+E52	Event:T52 
+T53	Event 1595 1601	hiding
+E53	Event:T53 
+T54	Event 1634 1638	used
+E54	Event:T54 
+T55	Event 1733 1737	lost
+E55	Event:T55 
+T56	Event 1765 1771	combat
+E56	Event:T56 
+T57	Event 1780 1786	combat
+E57	Event:T57 
+T58	Event 1787 1793	causes
+E58	Event:T58 
+T59	Event 1708 1720	World War II
+E59	Event:T59 
+T60	Event 1828 1834	helped
+E60	Event:T60 
+T62	Event 1864 1868	find
+E62	Event:T62 
+T63	Event 1873 1877	kill
+E63	Event:T63 
+T64	Event 1802 1814	World War II
+E64	Event:T64 
+T65	Event 1919 1922	had
+E65	Event:T65 
+T66	Event 1950 1958	dragging
+E66	Event:T66 
+T67	Event 2002 2008	slowed
+E67	Event:T67 
+T68	Event 1976 1986	made noise
+E68	Event:T68 
+T69	Event 2081 2088	powered
+E69	Event:T69 
+T70	Event 2133 2137	have
+E70	Event:T70 
+T72	Event 2201 2206	allow
+E72	Event:T72 
+T73	Event 2215 2219	stay
+E73	Event:T73 
+T75	Event 2288 2297	attacking
+E75	Event:T75 
+T76	Event 2307 2316	launching
+E76	Event:T76 
+T78	Event 2456 2462	attack
+E78	Event:T78 
+T79	Event 2531 2537	called
+E79	Event:T79 
+T81	Event 2594 2599	built
+E81	Event:T81 
+T82	Event 2603 2608	shoot
+E82	Event:T82 
+T83	Event 2686 2691	carry
+E83	Event:T83 
+T84	Event 2706 2712	launch
+E84	Event:T84 
+T3	Event 206 208	go
+E3	Event:T3 
+T5	Event 302 309	look at
+E5	Event:T5 
+T9	Event 684 688	This
+E9	Event:T9 
+T11	Event 1302 1330	First Battle of the Atlantic
+E11	Event:T11 
+T20	Event 1903 1914	streamlined
+E20	Event:T20 
+T21	Event 2157 2160	get
+E21	Event:T21 
+T34	Event 430 434	This
+E34	Event:T34 
+T13	Event 1473 1480	enforce
+E13	Event:T13 
+T38	Event 1481 1489	blockade
+E38	Event:T38 

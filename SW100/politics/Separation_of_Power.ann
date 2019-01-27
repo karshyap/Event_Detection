@@ -1,0 +1,90 @@
+T3	Event 136 146	makes laws
+E3	Event:T3 
+T6	Event 252 258	decide
+E6	Event:T6 
+T9	Event 177 188	carries out
+E9	Event:T9 
+T10	Event 309 314	helps
+E10	Event:T10 
+T11	Event 318 327	make sure
+E11	Event:T11 
+T15	Event 366 377	carries out
+E15	Event:T15 
+T16	Event 506 514	punished
+E16	Event:T16 
+T17	Event 571 577	ignore
+E17	Event:T17 
+T20	Event 475 486	making sure
+E20	Event:T20 
+T23	Event 652 658	called
+E23	Event:T23 
+T26	Event 766 769;774 780	get strong
+E26	Event:T26 
+T27	Event 802 810	balanced
+E27	Event:T27 
+T29	Event 1064 1072	provided
+E29	Event:T29 
+T31	Event 1110 1114	says
+E31	Event:T31 
+T32	Event 1132 1138	happen
+E32	Event:T32 
+T35	Event 1445 1452	refuses
+E35	Event:T35 
+T36	Event 1456 1460	pass
+E36	Event:T36 
+T37	Event 1493 1496	has
+E37	Event:T37 
+T39	Event 1529 1539	controlled
+E39	Event:T39 
+T40	Event 1544 1552	balanced
+E40	Event:T40 
+T41	Event 1560 1564	need
+E41	Event:T41 
+T42	Event 1568 1571	act
+E42	Event:T42 
+T43	Event 1596 1599	use
+E43	Event:T43 
+T46	Event 1730 1736	called
+E46	Event:T46 
+T47	Event 1774 1778	talk
+E47	Event:T47 
+T50	Event 1867 1876	published
+E50	Event:T50 
+T5	Event 288 308	Separation of Powers
+E5	Event:T5 
+T7	Event 398 407	make laws
+E7	Event:T7 
+T12	Event 411 415;427 435	make powerful
+E12	Event:T12 
+T13	Event 459 470	responsible
+E13	Event:T13 
+T14	Event 607 615	check on
+E14	Event:T14 
+T18	Event 623 643	Separation of powers
+E18	Event:T18 
+T19	Event 671 690	checks and balances
+E19	Event:T19 
+T21	Event 716 727	check up on
+E21	Event:T21 
+T22	Event 1026 1031	mixed
+E22	Event:T22 
+T24	Event 1040 1059	checks and balances
+E24	Event:T24 
+T25	Event 1159 1161;1171 1175	it done
+E25	Event:T25 
+T28	Event 1415 1421	advice
+E28	Event:T28 
+T30	Event 1737 1748	responsible
+E30	Event:T30 
+T38	Event 1785 1805	separation of powers
+E38	Event:T38 
+T34	Event 1391 1393	do
+E34	Event:T34 
+T1	Event 279 285	broken
+E1	Event:T1 
+T2	Event 190 198	executes
+E2	Event:T2 
+T8	Event 0 20	Separation of Powers
+E8	Event:T8 
+T45	Event 69 78	separated
+E45	Event:T45 

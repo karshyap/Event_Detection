@@ -1,0 +1,68 @@
+T2	Event 36 44	occurred
+E2	Event:T2 
+T4	Event 94 104	reentering
+E4	Event:T4 
+T6	Event 158 166	disaster
+E6	Event:T6 
+T7	Event 192 197	broke
+E7	Event:T7 
+T9	Event 232 236;239 243	made hole
+E9	Event:T9 
+T11	Event 278 283	entry
+E11	Event:T11 
+T12	Event 295 302	entered
+E12	Event:T12 
+T13	Event 313 320	causing
+E13	Event:T13 
+T15	Event 364 368	died
+E15	Event:T15 
+T17	Event 410 415	found
+E17	Event:T17 
+T18	Event 483 487	told
+E18	Event:T18 
+T19	Event 499 503	find
+E19	Event:T19 
+T20	Event 534 540	return
+E20	Event:T20 
+T21	Event 585 589;600 604	give back
+E21	Event:T21 
+T22	Event 614 618;625 634	face penalties
+E22	Event:T22 
+T24	Event 669 674	found
+E24	Event:T24 
+T25	Event 687 692	found
+E25	Event:T25 
+T28	Event 750 756	trying
+E28	Event:T28 
+T29	Event 760 763	get
+E29	Event:T29 
+T30	Event 787 791	want
+E30	Event:T30 
+T33	Event 823 831	accident
+E33	Event:T33 
+T34	Event 838 842	hope
+E34	Event:T34 
+T35	Event 843 850;861 865	getting back
+E35	Event:T35 
+T36	Event 871 875	help
+E36	Event:T36 
+T1	Event 4 35	Space Shuttle Columbia disaster
+E1	Event:T1 
+T3	Event 73 81	broke up
+E3	Event:T3 
+T5	Event 227 231	This
+E5	Event:T5 
+T8	Event 327 335	break up
+E8	Event:T8 
+T14	Event 377 385	broke up
+E14	Event:T14 
+T16	Event 727 732	owned
+E16	Event:T16 
+T23	Event 795 805	figure out
+E23	Event:T23 
+T26	Event 881 888	do this
+E26	Event:T26 
+T27	Event 145 150	cause
+E27	Event:T27 
+T31	Event 810 815	cause
+E31	Event:T31 

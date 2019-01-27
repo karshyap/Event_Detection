@@ -1,0 +1,82 @@
+T4	Event 110 114	used
+E4	Event:T4 
+T5	Event 140 144	used
+E5	Event:T5 
+T6	Event 154 160	travel
+E6	Event:T6 
+T8	Event 274 280	travel
+E8	Event:T8 
+T11	Event 440 443;454 460	set record
+E11	Event:T11 
+T12	Event 480 488	reaching
+E12	Event:T12 
+T14	Event 648 652	used
+E14	Event:T14 
+T15	Event 656 659	run
+E15	Event:T15 
+T18	Event 725 730	known
+E18	Event:T18 
+T19	Event 769 774	known
+E19	Event:T19 
+T20	Event 898 903	built
+E20	Event:T20 
+T21	Event 926 930	ends
+E21	Event:T21 
+T22	Event 1066 1071	takes
+E22	Event:T22 
+T23	Event 1150 1157	started
+E23	Event:T23 
+T25	Event 1194 1201	planned
+E25	Event:T25 
+T26	Event 1241 1246	built
+E26	Event:T26 
+T27	Event 1281 1285;1304 1311	made shorter
+E27	Event:T27 
+T28	Event 1351 1355	done
+E28	Event:T28 
+T29	Event 1404 1408	done
+E29	Event:T29 
+T30	Event 1439 1443	done
+E30	Event:T30 
+T31	Event 1474 1478	uses
+E31	Event:T31 
+T33	Event 1549 1553	uses
+E33	Event:T33 
+T34	Event 1562 1571	transport
+E34	Event:T34 
+T35	Event 1627 1630	use
+E35	Event:T35 
+T36	Event 1739 1743	used
+E36	Event:T36 
+T37	Event 1747 1750	run
+E37	Event:T37 
+T40	Event 1846 1851	takes
+E40	Event:T40 
+T41	Event 1878 1881	run
+E41	Event:T41 
+T42	Event 1970 1976	opened
+E42	Event:T42 
+T43	Event 2039 2047	problems
+E43	Event:T43 
+T44	Event 2104 2108	used
+E44	Event:T44 
+T45	Event 2122 2131	saturated
+E45	Event:T45 
+T47	Event 2154 2157	run
+E47	Event:T47 
+T48	Event 2194 2199	using
+E48	Event:T48 
+T49	Event 2211 2216	costs
+E49	Event:T49 
+T50	Event 2250 2253	pay
+E50	Event:T50 
+T51	Event 2266 2271;2292 2301	makes expensive
+E51	Event:T51 
+T52	Event 2278 2286	services
+E52	Event:T52 
+T1	Event 1008 1017	reachable
+E1	Event:T1 
+T2	Event 1105 1114	extension
+E2	Event:T2 
+T3	Event 2261 2265	This
+E3	Event:T3 

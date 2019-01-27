@@ -1,0 +1,176 @@
+T1	Event 0 15	Crystallization
+E1	Event:T1 
+T2	Event 38 44	gather
+E2	Event:T2 
+T3	Event 48 52	make
+E3	Event:T3 
+T4	Event 61 67	bonded
+E4	Event:T4 
+T5	Event 71 80	connected
+E5	Event:T5 
+T6	Event 92 101	separates
+E6	Event:T6 
+T8	Event 149 164	Crystallization
+E8	Event:T8 
+T9	Event 179 183	melt
+E9	Event:T9 
+T10	Event 245 260	crystallization
+E10	Event:T10 
+T11	Event 265 269	make
+E11	Event:T11 
+T12	Event 316 320	make
+E12	Event:T12 
+T13	Event 360 375	crystallization
+E13	Event:T13 
+T15	Event 396 401	forms
+E15	Event:T15 
+T16	Event 450 465	crystallization
+E16	Event:T16 
+T17	Event 469 474	occur
+E17	Event:T17 
+T18	Event 508 522	supersaturated
+E18	Event:T18 
+T19	Event 524 527	Put
+E19	Event:T19 
+T20	Event 556 563	contain
+E20	Event:T20 
+T21	Event 615 625	conditions
+E21	Event:T21 
+T22	Event 639 647	achieved
+E22	Event:T22 
+T24	Event 675 686	evaporation
+E24	Event:T24 
+T25	Event 688 695	cooling
+E25	Event:T25 
+T26	Event 717 725	drowning
+E26	Event:T26 
+T27	Event 754 758	used
+E27	Event:T27 
+T28	Event 773 781	practice
+E28	Event:T28 
+T29	Event 697 714	chemical reaction
+E29	Event:T29 
+T30	Event 787 791;799 804	make clear
+E30	Event:T30 
+T32	Event 812 815	use
+E32	Event:T32 
+T33	Event 837 841	take
+E33	Event:T33 
+T34	Event 870 873	add
+E34	Event:T34 
+T35	Event 893 897	keep
+E35	Event:T35 
+T36	Event 898 904	adding
+E36	Event:T36 
+T37	Event 926 931	reach
+E37	Event:T37 
+T38	Event 969 978	dissolved
+E38	Event:T38 
+T39	Event 997 1005	obtained
+E39	Event:T39 
+T40	Event 1047 1051	note
+E40	Event:T40 
+T41	Event 1064 1072	dissolve
+E41	Event:T41 
+T42	Event 1128 1135	heating
+E42	Event:T42 
+T43	Event 1168 1177	increases
+E43	Event:T43 
+T45	Event 1235 1240	occur
+E45	Event:T45 
+T46	Event 1248 1257	elevation
+E46	Event:T46 
+T47	Event 1273 1279	causes
+E47	Event:T47 
+T48	Event 1303 1311	dissolve
+E48	Event:T48 
+T49	Event 1324 1331	forming
+E49	Event:T49 
+T50	Event 1404 1411	allowed
+E50	Event:T50 
+T51	Event 1415 1421	attain
+E51	Event:T51 
+T52	Event 1422 1433	equilibrium
+E52	Event:T52 
+T54	Event 1486 1495	decreases
+E54	Event:T54 
+T55	Event 1541 1550	decreased
+E55	Event:T55 
+T56	Event 1578 1583	added
+E56	Event:T56 
+T57	Event 1584 1596	crystallizes
+E57	Event:T57 
+T58	Event 1607 1614	process
+E58	Event:T58 
+T59	Event 1627 1638	illustrates
+E59	Event:T59 
+T61	Event 1685 1693	Drowning
+E61	Event:T61 
+T62	Event 1748 1757	decreases
+E62	Event:T62 
+T63	Event 1833 1837	used
+E63	Event:T63 
+T64	Event 1841 1849	decrease
+E64	Event:T64 
+T66	Event 1899 1906	working
+E66	Event:T66 
+T67	Event 1802 1820	chemical reactions
+E67	Event:T67 
+T68	Event 1933 1948	Crystallization
+E68	Event:T68 
+T69	Event 1956 1963	divided
+E69	Event:T69 
+T70	Event 2021 2027	growth
+E70	Event:T70 
+T71	Event 2060 2066	causes
+E71	Event:T71 
+T72	Event 2110 2117	removal
+E72	Event:T72 
+T75	Event 2173 2181	requires
+E75	Event:T75 
+T76	Event 2182 2190	existing
+E76	Event:T76 
+T77	Event 2203 2213	perpetuate
+E77	Event:T77 
+T78	Event 2222 2228	growth
+E78	Event:T78 
+T79	Event 2259 2267	obtained
+E79	Event:T79 
+T80	Event 2319 2331	crystallized
+E80	Event:T80 
+T81	Event 2336 2345	assisting
+E81	Event:T81 
+T82	Event 2415 2430	crystallization
+E82	Event:T82 
+T83	Event 2448 2454	causes
+E83	Event:T83 
+T84	Event 2460 2475	mass production
+E84	Event:T84 
+T85	Event 89 91	It
+E85	Event:T85 
+T7	Event 1011 1020	saturated
+E7	Event:T7 
+T14	Event 1106 1115	saturated
+E14	Event:T14 
+T23	Event 1183 1191	increase
+E23	Event:T23 
+T31	Event 1334 1348	supersaturated
+E31	Event:T31 
+T44	Event 1702 1710	addition
+E44	Event:T44 
+T53	Event 1915 1930	supersaturation
+E53	Event:T53 
+T60	Event 1978 1996	primary nucleation
+E60	Event:T60 
+T65	Event 2011 2013	It
+E65	Event:T65 
+T73	Event 2067 2087	secondary nucleation
+E73	Event:T73 
+T86	Event 2373 2393	Secondary nucleation
+E86	Event:T86 
+T87	Event 2152 2172	Secondary nucleation
+E87	Event:T87 
+T88	Event 627 631	This
+E88	Event:T88 
+T74	Event 2354 2371	crystal formation
+E74	Event:T74 

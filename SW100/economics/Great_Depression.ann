@@ -1,0 +1,124 @@
+T1	Event 56 63	started
+E1	Event:T1 
+T3	Event 4 20	Great Depression
+E3	Event:T3 
+T4	Event 35 50	economic crisis
+E4	Event:T4 
+T5	Event 150 154	fell
+E5	Event:T5 
+T6	Event 210 214;221 225	lost jobs
+E6	Event:T6 
+T8	Event 253 257;264 268	lost jobs
+E8	Event:T8 
+T10	Event 275 290	became homeless
+E10	Event:T10 
+T11	Event 306 311	ended
+E11	Event:T11 
+T12	Event 360 365	think
+E12	Event:T12 
+T13	Event 392 399	started
+E13	Event:T13 
+T14	Event 439 444	think
+E14	Event:T14 
+T15	Event 479 485	causes
+E15	Event:T15 
+T16	Event 375 391	Great Depression
+E16	Event:T16 
+T17	Event 519 527	worsened
+E17	Event:T17 
+T18	Event 547 556	increased
+E18	Event:T18 
+T19	Event 592 601	increased
+E19	Event:T19 
+T20	Event 636 641	trade
+E20	Event:T20 
+T21	Event 666 674	worsened
+E21	Event:T21 
+T22	Event 705 709	said
+E22	Event:T22 
+T23	Event 740 748	worsened
+E23	Event:T23 
+T25	Event 719 735	Great Depression
+E25	Event:T25 
+T26	Event 839 846	started
+E26	Event:T26 
+T28	Event 927 933	blamed
+E28	Event:T28 
+T29	Event 822 838	Great Depression
+E29	Event:T29 
+T30	Event 949 954	voted
+E30	Event:T30 
+T31	Event 1030 1033	got
+E31	Event:T31 
+T32	Event 1052 1056;1066 1070	pass laws
+E32	Event:T32 
+T35	Event 1087 1091	help
+E35	Event:T35 
+T36	Event 1108 1112	hurt
+E36	Event:T36 
+T37	Event 1120 1136	Great Depression
+E37	Event:T37 
+T39	Event 1158 1164	called
+E39	Event:T39 
+T41	Event 1255 1258	put
+E41	Event:T41 
+T42	Event 1277 1281	work
+E42	Event:T42 
+T43	Event 1312 1316	paid
+E43	Event:T43 
+T44	Event 1374 1378	sent
+E44	Event:T44 
+T45	Event 1387 1394	support
+E45	Event:T45 
+T46	Event 1414 1418	work
+E46	Event:T46 
+T47	Event 1429 1432	got
+E47	Event:T47 
+T49	Event 1476 1482	called
+E49	Event:T49 
+T50	Event 1516 1520;1540 1546	gave income
+E50	Event:T50 
+T51	Event 1555 1564	had money
+E51	Event:T51 
+T53	Event 1581 1587	needed
+E53	Event:T53 
+T54	Event 1661 1671	get better
+E54	Event:T54 
+T55	Event 1593 1609	Great Depression
+E55	Event:T55 
+T56	Event 1708 1716	had jobs
+E56	Event:T56 
+T58	Event 1734 1746	World War II
+E58	Event:T58 
+T59	Event 1756 1772	Great Depression
+E59	Event:T59 
+T2	Event 79 97	stock market crash
+E2	Event:T2 
+T7	Event 275 281;295 299	became poor
+E7	Event:T7 
+T9	Event 301 305	This
+E9	Event:T9 
+T60	Event 468 471	one
+E60	Event:T60 
+T61	Event 445 458	Black Tuesday
+E61	Event:T61 
+T62	Event 508 518	depression
+E62	Event:T62 
+T63	Event 534 541	suspect
+E63	Event:T63 
+T67	Event 675 677	it
+E67	Event:T67 
+T24	Event 777 788	printed out
+E24	Event:T24 
+T27	Event 938 940	it
+E27	Event:T27 
+T34	Event 1052 1056;1075 1083	pass programs
+E34	Event:T34 
+T38	Event 1646 1650	help
+E38	Event:T38 
+T40	Event 1652 1654	it
+E40	Event:T40 
+T48	Event 1773 1780;1784 1787	came to end
+E48	Event:T48 
+T33	Event 330 337	Roaring
+E33	Event:T33 

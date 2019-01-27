@@ -1,0 +1,102 @@
+T1	Event 16 23	disease
+E1	Event:T1 
+T2	Event 41 48	spelled
+E2	Event:T2 
+T10	Event 218 226	blisters
+E10	Event:T10 
+T11	Event 231 237	filled
+E11	Event:T11 
+T13	Event 285 290	drain
+E13	Event:T13 
+T14	Event 312 316	want
+E14	Event:T14 
+T15	Event 320 327	scratch
+E15	Event:T15 
+T16	Event 334 339	Burst
+E16	Event:T16 
+T22	Event 428 436	symptoms
+E22	Event:T22 
+T23	Event 437 441	come
+E23	Event:T23 
+T26	Event 485 490	fever
+E26	Event:T26 
+T27	Event 508 521	complications
+E27	Event:T27 
+T28	Event 527 534	disease
+E28	Event:T28 
+T29	Event 540 544	last
+E29	Event:T29 
+T30	Event 661 664;669 676	had disease
+E30	Event:T30 
+T33	Event 745 749	hurt
+E33	Event:T33 
+T34	Event 795 801	caused
+E34	Event:T34 
+T36	Event 882 885;896 903	get disease
+E36	Event:T36 
+T38	Event 904 910	called
+E38	Event:T38 
+T39	Event 939 945	caused
+E39	Event:T39 
+T42	Event 1060 1067;1071 1076	vaccine given
+E42	Event:T42 
+T43	Event 1106 1110;1115 1122	have disease
+E43	Event:T43 
+T45	Event 1134 1139	start
+E45	Event:T45 
+T46	Event 1194 1198	help
+E46	Event:T46 
+T47	Event 1217 1224	scratch
+E47	Event:T47 
+T49	Event 1261 1264	get
+E49	Event:T49 
+T9	Event 0 10	Chickenpox
+E9	Event:T9 
+T17	Event 35 37	it
+E17	Event:T17 
+T21	Event 49 60	chicken pox
+E21	Event:T21 
+T3	Event 89 92;97 104	get disease
+E3	Event:T3 
+T25	Event 271 279	blisters
+E25	Event:T25 
+T5	Event 328 332	them
+E5	Event:T5 
+T52	Event 340 348	blisters
+E52	Event:T52 
+T18	Event 357 371	become healthy
+E18	Event:T18 
+T19	Event 380 393	leaving scars
+E19	Event:T19 
+T12	Event 407 422	become infected
+E12	Event:T12 
+T20	Event 587 597	Chickenpox
+E20	Event:T20 
+T4	Event 126 132	get it
+E4	Event:T4 
+T32	Event 678 696	Getting chickenpox
+E32	Event:T32 
+T40	Event 738 740	it
+E40	Event:T40 
+T50	Event 781 791	Chickenpox
+E50	Event:T50 
+T37	Event 911 919	shingles
+E37	Event:T37 
+T53	Event 927 935	Shingles
+E53	Event:T53 
+T54	Event 1036 1046	chickenpox
+E54	Event:T54 
+T55	Event 1285 1287	it
+E55	Event:T55 
+T8	Event 153 156;169 174	get spots
+E8	Event:T8 
+T6	Event 145 152	have it
+E6	Event:T6 
+T7	Event 153 165	get blisters
+E7	Event:T7 
+T24	Event 846 860	had chickenpox
+E24	Event:T24 
+T31	Event 1235 1251	have chicken pox
+E31	Event:T31 
+T35	Event 706 715	pregnancy
+E35	Event:T35 

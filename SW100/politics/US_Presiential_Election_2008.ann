@@ -1,0 +1,118 @@
+T1	Event 61 66	event
+E1	Event:T1 
+T2	Event 73 83	took place
+E2	Event:T2 
+T3	Event 201 209	selected
+E3	Event:T3 
+T4	Event 250 258	defeated
+E4	Event:T4 
+T5	Event 274 277;282 292	win presidency
+E5	Event:T5 
+T7	Event 346 351	sworn
+E7	Event:T7 
+T8	Event 445 448;463 468	get votes
+E8	Event:T8 
+T9	Event 472 475	win
+E9	Event:T9 
+T10	Event 515 522	running
+E10	Event:T10 
+T11	Event 531 541	nomination
+E11	Event:T11 
+T12	Event 700 707	contest
+E12	Event:T12 
+T13	Event 809 813	race
+E13	Event:T13 
+T14	Event 823 826;839 843	won vote
+E14	Event:T14 
+T16	Event 866 869	won
+E16	Event:T16 
+T17	Event 913 923	nomination
+E17	Event:T17 
+T18	Event 965 973	switched
+E18	Event:T18 
+T19	Event 1010 1018	election
+E19	Event:T19 
+T20	Event 1020 1029	supported
+E20	Event:T20 
+T21	Event 1058 1063	chose
+E21	Event:T21 
+T22	Event 1167 1174	running
+E22	Event:T22 
+T23	Event 1183 1193	nomination
+E23	Event:T23 
+T24	Event 1428 1431	run
+E24	Event:T24 
+T25	Event 1485 1492	elected
+E25	Event:T25 
+T26	Event 1527 1532	chose
+E26	Event:T26 
+T27	Event 1540 1543	run
+E27	Event:T27 
+T28	Event 1569 1577	withdrew
+E28	Event:T28 
+T30	Event 1642 1649	emerged
+E30	Event:T30 
+T32	Event 1685 1688;1693 1703	win nomination
+E32	Event:T32 
+T33	Event 1714 1728	became popular
+E33	Event:T33 
+T34	Event 1766 1775	nominated
+E34	Event:T34 
+T37	Event 1829 1834	chose
+E37	Event:T37 
+T38	Event 1888 1896	Campaign
+E38	Event:T38 
+T39	Event 1927 1935	campaign
+E39	Event:T39 
+T44	Event 1996 2004	Iraq War
+E44	Event:T44 
+T46	Event 2079 2087	election
+E46	Event:T46 
+T47	Event 2120 2129	supported
+E47	Event:T47 
+T48	Event 2189 2198	recession
+E48	Event:T48 
+T49	Event 2241 2249	compared
+E49	Event:T49 
+T52	Event 2327 2335	campaign
+E52	Event:T52 
+T53	Event 31 39	election
+E53	Event:T53 
+T6	Event 421 429	election
+E6	Event:T6 
+T54	Event 489 498	Primaries
+E54	Event:T54 
+T55	Event 730 739	primaries
+E55	Event:T55 
+T56	Event 1141 1150	Primaries
+E56	Event:T56 
+T57	Event 1436 1447	re-election
+E57	Event:T57 
+T29	Event 1910 1915	issue
+E29	Event:T29 
+T31	Event 1963 1969	issues
+E31	Event:T31 
+T40	Event 1979 1990	health care
+E40	Event:T40 
+T50	Event 2232 2240	campaign
+E50	Event:T50 
+T51	Event 2308 2315	debates
+E51	Event:T51 
+T58	Event 2346 2350	them
+E58	Event:T58 
+T59	Event 2337 2342	three
+E59	Event:T59 
+T60	Event 2401 2404	one
+E60	Event:T60 
+T61	Event 2408 2412	them
+E61	Event:T61 
+T15	Event 875 884	unpledged
+E15	Event:T15 
+T35	Event 1806 1822	decisive victory
+E35	Event:T35 
+T36	Event 1944 1955	bad economy
+E36	Event:T36 
+T41	Event 2010 2026	war on terrorism
+E41	Event:T41 
+T42	Event 2032 2051	energy independence
+E42	Event:T42 

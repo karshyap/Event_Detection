@@ -1,0 +1,166 @@
+T2	Event 43 51	protests
+E2	Event:T2 
+T3	Event 90 95	calls
+E3	Event:T3 
+T4	Event 105 125	June Fourth Incident
+E4	Event:T4 
+T5	Event 162 187	Tiananmen Square massacre
+E5	Event:T5 
+T6	Event 207 215	protests
+E6	Event:T6 
+T7	Event 258 266	protests
+E7	Event:T7 
+T8	Event 280 289	organised
+E8	Event:T8 
+T9	Event 369 374	cause
+T11	Event 396 404	protests
+E11	Event:T11 
+T12	Event 439 443	like
+E12	Event:T12 
+T13	Event 481 484	ran
+E13	Event:T13 
+T14	Event 515 521	wanted
+E14	Event:T14 
+T15	Event 567 576	protested
+E15	Event:T15 
+T16	Event 621 624	did
+E16	Event:T16 
+T17	Event 661 669	protests
+E17	Event:T17 
+T19	Event 743 747	used
+E19	Event:T19 
+T21	Event 757 760	end
+E21	Event:T21 
+T22	Event 765 773	protests
+E22	Event:T22 
+T24	Event 780 784;797 804	left injured
+E24	Event:T24 
+T26	Event 838 843	known
+E26	Event:T26 
+T27	Event 874 880	speaks
+E27	Event:T27 
+T28	Event 923 927	says
+E28	Event:T28 
+T29	Event 985 990	talks
+E29	Event:T29 
+T30	Event 1050 1056	events
+E30	Event:T30 
+T31	Event 1070 1078	protests
+E31	Event:T31 
+T32	Event 1092 1101	dispersed
+E32	Event:T32 
+T33	Event 1118 1122	harm
+E33	Event:T33 
+T34	Event 1178 1183	shown
+E34	Event:T34 
+T37	Event 1251 1258	showing
+E37	Event:T37 
+T38	Event 1265 1273	standing
+E38	Event:T38 
+T39	Event 1337 1345	protests
+E39	Event:T39 
+T40	Event 1346 1349	had
+E40	Event:T40 
+T41	Event 1426 1433	control
+E41	Event:T41 
+T42	Event 1453 1460	working
+E42	Event:T42 
+T44	Event 1551 1559	happened
+E44	Event:T44 
+T45	Event 1635 1643	launched
+E45	Event:T45 
+T46	Event 1657 1664	reforms
+E46	Event:T46 
+T47	Event 1672 1679	reforms
+E47	Event:T47 
+T48	Event 1680 1686	helped
+E48	Event:T48 
+T49	Event 1687 1691	life
+E49	Event:T49 
+T50	Event 1719 1724	lived
+E50	Event:T50 
+T51	Event 1825 1831	feared
+E51	Event:T51 
+T52	Event 1832 1844	unemployment
+E52	Event:T52 
+T53	Event 1845 1851	rising
+E53	Event:T53 
+T54	Event 1863 1871	problems
+E54	Event:T54 
+T57	Event 1918 1922	felt
+E57	Event:T57 
+T59	Event 1957 1965	problems
+E59	Event:T59 
+T60	Event 2002 2006	died
+E60	Event:T60 
+T61	Event 2054 2061	reacted
+E61	Event:T61 
+T62	Event 2012 2024	heart attack
+E62	Event:T62 
+T63	Event 2077 2082	death
+E63	Event:T63 
+T64	Event 2083 2091	provided
+E64	Event:T64 
+T65	Event 2119 2125	gather
+E65	Event:T65 
+T66	Event 2181 2189	appeared
+E66	Event:T66 
+T67	Event 2190 2200	eulogizing
+E67	Event:T67 
+T69	Event 2219 2226	revival
+E69	Event:T69 
+T70	Event 2274 2281	writing
+E70	Event:T70 
+T71	Event 2378 2382	said
+E71	Event:T71 
+T72	Event 2442 2456	demonstrations
+E72	Event:T72 
+T1	Event 4 29	Tiananmen Square protests
+E1	Event:T1 
+T73	Event 152 154	it
+E73	Event:T73 
+T74	Event 524 530	change
+E74	Event:T74 
+T18	Event 699 714	stayed peaceful
+E18	Event:T18 
+T20	Event 775 779	This
+E20	Event:T20 
+T23	Event 780 784;808 812	left dead
+E23	Event:T23 
+T25	Event 1079 1085	needed
+E25	Event:T25 
+T75	Event 1127 1136	stability
+E75	Event:T75 
+T35	Event 1370 1380	corruption
+E35	Event:T35 
+T36	Event 1508 1527	got the worst of it
+E36	Event:T36 
+T43	Event 1542 1546	this
+E43	Event:T43 
+T55	Event 1878 1898	felt disenfranchised
+E55	Event:T55 
+T56	Event 1900 1904	This
+E56	Event:T56 
+T58	Event 1934 1936	do
+E58	Event:T58 
+T68	Event 2205 2216	calling for
+E68	Event:T68 
+T76	Event 2359 2369	corruption
+E76	Event:T76 
+T77	Event 2430 2441	overcrowded
+E77	Event:T77 
+T78	Event 2411 2428	specific-purposed
+E78	Event:T78 
+T79	Event 96 100	them
+E79	Event:T79 
+T80	Event 1415 1420	issue
+E80	Event:T80 
+T81	Event 1358 1364	causes
+E81	Event:T81 
+T82	Event 2306 2312	issues
+E82	Event:T82 
+E83	Event:T9 
+T10	Event 2392 2395	one
+E9	Event:T10 
+T83	Event 2383 2387	this
+E10	Event:T83 

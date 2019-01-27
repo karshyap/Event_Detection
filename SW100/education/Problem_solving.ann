@@ -1,0 +1,216 @@
+T1	Event 28 36	activity
+E1	Event:T1 
+T2	Event 37 44	related
+E2	Event:T2 
+T3	Event 65 73	thinking
+E3	Event:T3 
+T7	Event 111 119	problems
+E7	Event:T7 
+T8	Event 123 130	problem
+E8	Event:T8 
+T9	Event 136 145	situation
+E9	Event:T9 
+T10	Event 163 170	changed
+E10	Event:T10 
+T11	Event 175 183	suggests
+E11	Event:T11 
+T13	Event 253 260	problem
+E13	Event:T13 
+T14	Event 284 288	life
+E14	Event:T14 
+T15	Event 292 297	spent
+E15	Event:T15 
+T18	Event 323 327	life
+E18	Event:T18 
+T24	Event 534 537	has
+E24	Event:T24 
+T25	Event 562 566	find
+E25	Event:T25 
+T26	Event 576 583	solving
+E26	Event:T26 
+T28	Event 608 613	solve
+E28	Event:T28 
+T29	Event 620 626	called
+E29	Event:T29 
+T31	Event 681 690	developed
+E31	Event:T31 
+T32	Event 695 699	used
+E32	Event:T32 
+T35	Event 829 836	studied
+E35	Event:T35 
+T36	Event 893 901	Problems
+E36	Event:T36 
+T37	Event 909 919	classified
+E37	Event:T37 
+T39	Event 995 999	have
+E39	Event:T39 
+T44	Event 1072 1076	face
+E44	Event:T44 
+T45	Event 1108 1112	made
+E45	Event:T45 
+T47	Event 1150 1154	have
+E47	Event:T47 
+T48	Event 1179 1186	defined
+E48	Event:T48 
+T51	Event 1213 1221	expected
+E51	Event:T51 
+T53	Event 1239 1247	problems
+E53	Event:T53 
+T55	Event 1276 1284	planning
+E55	Event:T55 
+T57	Event 1327 1332	solve
+E57	Event:T57 
+T58	Event 1333 1341	problems
+E58	Event:T58 
+T59	Event 1342 1350	involves
+E59	Event:T59 
+T60	Event 1366 1376	understand
+E60	Event:T60 
+T62	Event 1398 1405	problem
+E62	Event:T62 
+T63	Event 1433 1440	applied
+E63	Event:T63 
+T64	Event 1444 1451	solving
+E64	Event:T64 
+T65	Event 1456 1463	problem
+E65	Event:T65 
+T66	Event 1470 1477	process
+E66	Event:T66 
+T67	Event 1478 1486	includes
+E67	Event:T67 
+T74	Event 1541 1551	generating
+E74	Event:T74 
+T75	Event 1576 1590	implementation
+E75	Event:T75 
+T76	Event 1615 1623	selected
+E76	Event:T76 
+T78	Event 1652 1656	show
+E78	Event:T78 
+T79	Event 1662 1675	self-interest
+E79	Event:T79 
+T82	Event 1751 1756	helps
+E82	Event:T82 
+T83	Event 1760 1770;1785 1798	reflective understanding
+E83	Event:T83 
+T89	Event 1943 1947	lead
+E89	Event:T89 
+T90	Event 2039 2043	lead
+E90	Event:T90 
+T95	Event 2139 2146	problem
+E95	Event:T95 
+T98	Event 2269 2274	helps
+E98	Event:T98 
+T99	Event 2296 2300	move
+E99	Event:T99 
+T100	Event 2309 2313	life
+E100	Event:T100 
+T101	Event 2318 2325	provide
+E101	Event:T101 
+T106	Event 2546 2555	influence
+E106	Event:T106 
+T107	Event 1634 1651	Empirical studies
+E107	Event:T107 
+T108	Event 2174 2184	carry over
+E108	Event:T108 
+T109	Event 2582 2589	Studies
+E109	Event:T109 
+T110	Event 2595 2603	conclude
+E110	Event:T110 
+T111	Event 2624 2630	cohere
+E111	Event:T111 
+T113	Event 2716 2723	stemmed
+E113	Event:T113 
+T114	Event 2752 2761	comparing
+E114	Event:T114 
+T116	Event 0 15	Problem solving
+E116	Event:T116 
+T117	Event 75 77	It
+E117	Event:T117 
+T4	Event 78 89	consists of
+E4	Event:T4 
+T118	Event 151 156	needs
+E118	Event:T118 
+T119	Event 172 174	It
+E119	Event:T119 
+T19	Event 331 339	based on
+E19	Event:T19 
+T22	Event 614 616	it
+E22	Event:T22 
+T23	Event 784 791	related
+E23	Event:T23 
+T30	Event 923 934	ill-defined
+E30	Event:T30 
+T34	Event 938 950	well-defined
+E34	Event:T34 
+T120	Event 977 982	those
+E120	Event:T120 
+T40	Event 1032 1040	expected
+E40	Event:T40 
+T41	Event 1077 1084	threats
+E41	Event:T41 
+T46	Event 1595 1607	verification
+E46	Event:T46 
+T38	Event 952 963	Ill-defined
+E38	Event:T38 
+T49	Event 964 972	problems
+E49	Event:T49 
+T42	Event 1128 1140	Well-defined
+E42	Event:T42 
+T50	Event 1141 1149	problems
+E50	Event:T50 
+T43	Event 1290 1301	ill-defined
+E43	Event:T43 
+T52	Event 1302 1310	problems
+E52	Event:T52 
+T61	Event 1806 1823	problem situation
+E61	Event:T61 
+T68	Event 1954 1975	action-identification
+E68	Event:T68 
+T5	Event 90 107	finding solutions
+E5	Event:T5 
+T6	Event 298 314	solving problems
+E6	Event:T6 
+T16	Event 374 388	solve problems
+E16	Event:T16 
+T12	Event 588 595	problem
+E12	Event:T12 
+T17	Event 1487 1502	problem finding
+E17	Event:T17 
+T20	Event 1506 1522	problem analysis
+E20	Event:T20 
+T21	Event 1524 1539	problem shaping
+E21	Event:T21 
+T27	Event 1775 1798	expansive understanding
+E27	Event:T27 
+T56	Event 1832 1850	preferable outcome
+E56	Event:T56 
+T69	Event 1828 1831	its
+E69	Event:T69 
+T70	Event 2092 2107	emotion focused
+E70	Event:T70 
+T71	Event 2072 2087	problem focused
+E71	Event:T71 
+T72	Event 2160 2169	formation
+E72	Event:T72 
+T73	Event 2385 2396	negotiation
+E73	Event:T73 
+T77	Event 2448 2461	gender typing
+E77	Event:T77 
+T80	Event 2463 2478	problem focused
+E80	Event:T80 
+T81	Event 2483 2498	emotion focused
+E81	Event:T81 
+T84	Event 2565 2580	problem solving
+E84	Event:T84 
+T85	Event 2741 2748	process
+E85	Event:T85 
+T33	Event 1253 1262	allow for
+E33	Event:T33 
+T54	Event 540 547	problem
+E54	Event:T54 
+T86	Event 644 659	problem-solving
+E86	Event:T86 
+T87	Event 2328 2333	sense
+E87	Event:T87 
+T88	Event 235 237	it
+E88	Event:T88 

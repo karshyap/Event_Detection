@@ -1,0 +1,78 @@
+T1	Event 35 43	floating
+E1	Event:T1 
+T3	Event 75 80	found
+E3	Event:T3 
+T4	Event 184 189	begun
+E4	Event:T4 
+T5	Event 193 197	melt
+E5	Event:T5 
+T8	Event 306 309	see
+E8	Event:T8 
+T9	Event 325 329	tell
+E9	Event:T9 
+T11	Event 369 374;383 386	close get
+E11	Event:T11 
+T12	Event 394 402	crashing
+E12	Event:T12 
+T14	Event 454 458	made
+E14	Event:T14 
+T15	Event 507 513	formed
+E15	Event:T15 
+T16	Event 564 568	melt
+E16	Event:T16 
+T19	Event 644 650	pulled
+E19	Event:T19 
+T23	Event 749 754	drift
+E23	Event:T23 
+T25	Event 793 799	melted
+E25	Event:T25 
+T27	Event 841 845;867 878	give explanation
+E27	Event:T27 
+T34	Event 1229 1236	studied
+E34	Event:T34 
+T35	Event 1256 1264	credited
+E35	Event:T35 
+T36	Event 1270 1281	introducing
+E36	Event:T36 
+T38	Event 1384 1388	sunk
+E38	Event:T38 
+T39	Event 1395 1403	crashing
+E39	Event:T39 
+T40	Event 1491 1495	know
+E40	Event:T40 
+T41	Event 1506 1512	called
+E41	Event:T41 
+T43	Event 1648 1655	started
+E43	Event:T43 
+T45	Event 1709 1715	remain
+E45	Event:T45 
+T46	Event 1738 1746	effected
+E46	Event:T46 
+T2	Event 278 288	looking at
+E2	Event:T2 
+T6	Event 421 430	break off
+E6	Event:T6 
+T7	Event 593 602	builds up
+E7	Event:T7 
+T13	Event 607 615	compacts
+E13	Event:T13 
+T17	Event 702 711	falls off
+E17	Event:T17 
+T18	Event 1156 1163	grew up
+E18	Event:T18 
+T20	Event 1522 1531	broke off
+E20	Event:T20 
+T21	Event 1659 1667	break up
+E21	Event:T21 
+T24	Event 1750 1764	global warming
+E24	Event:T24 
+T26	Event 517 525	snowfall
+E26	Event:T26 
+T10	Event 887 897	phenomenon
+E10	Event:T10 
+T28	Event 626 630	This
+E28	Event:T28 
+T29	Event 1113 1117	need
+E29	Event:T29 
+T22	Event 716 721	makes
+E22	Event:T22 

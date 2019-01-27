@@ -1,0 +1,216 @@
+T1	Event 2 8	stroke
+E1	Event:T1 
+T2	Event 15 20	event
+E2	Event:T2 
+T3	Event 27 34	damages
+E3	Event:T3 
+T4	Event 63 69	happen
+E4	Event:T4 
+T6	Event 88 93	feeds
+E6	Event:T6 
+T9	Event 153 160	Strokes
+E9	Event:T9 
+T10	Event 171 177	called
+E10	Event:T10 
+T18	Event 281 285	lack
+E18	Event:T18 
+T19	Event 295 299	flow
+E19	Event:T19 
+T21	Event 319 325	stroke
+E21	Event:T21 
+T22	Event 345 349	lack
+E22	Event:T22 
+T23	Event 359 363	flow
+E23	Event:T23 
+T24	Event 401 408	strokes
+E24	Event:T24 
+T25	Event 444 452	blocking
+E25	Event:T25 
+T28	Event 498 503	takes
+E28	Event:T28 
+T29	Event 561 567	stroke
+E29	Event:T29 
+T31	Event 591 597	bursts
+E31	Event:T31 
+T34	Event 696 703	carries
+E34	Event:T34 
+T35	Event 726 732	stroke
+E35	Event:T35 
+T39	Event 815 826	disturbance
+E39	Event:T39 
+T40	Event 870 876	happen
+E40	Event:T40 
+T41	Event 898 902	lack
+E41	Event:T41 
+T42	Event 912 916	flow
+E42	Event:T42 
+T43	Event 918 924	caused
+E43	Event:T43 
+T45	Event 1058 1062	work
+E45	Event:T45 
+T46	Event 1073 1081	Symptoms
+E46	Event:T46 
+T48	Event 1125 1129	move
+E48	Event:T48 
+T50	Event 1196 1206	understand
+E50	Event:T50 
+T51	Event 1210 1213	use
+E51	Event:T51 
+T52	Event 1244 1247	see
+E52	Event:T52 
+T54	Event 1280 1286	stroke
+E54	Event:T54 
+T56	Event 1318 1323	cause
+E56	Event:T56 
+T57	Event 1334 1340	damage
+E57	Event:T57 
+T58	Event 1363 1370	treated
+E58	Event:T58 
+T59	Event 1379 1383	lead
+E59	Event:T59 
+T60	Event 1387 1392	death
+E60	Event:T60 
+T62	Event 1431 1436	death
+E62	Event:T62 
+T65	Event 1521 1528	Strokes
+E65	Event:T65 
+T66	Event 1529 1535	happen
+E66	Event:T66 
+T68	Event 1589 1595	stroke
+E68	Event:T68 
+T69	Event 1596 1603	happens
+E69	Event:T69 
+T71	Event 1644 1651	affects
+E71	Event:T71 
+T73	Event 1692 1697	cause
+E73	Event:T73 
+T74	Event 1698 1706	problems
+E74	Event:T74 
+T75	Event 1726 1732	speech
+E75	Event:T75 
+T76	Event 1752 1758	stroke
+E76	Event:T76 
+T77	Event 1759 1766	affects
+E77	Event:T77 
+T79	Event 1799 1806	affects
+E79	Event:T79 
+T81	Event 1842 1849	changes
+E81	Event:T81 
+T83	Event 1888 1899	perceptions
+E83	Event:T83 
+T84	Event 1901 1908;1911 1917	Getting stroke
+E84	Event:T84 
+T87	Event 1958 1963	cause
+E87	Event:T87 
+T88	Event 1978 1989	acknowledge
+E88	Event:T88 
+T89	Event 1996 2003	illness
+E89	Event:T89 
+T91	Event 2037 2044	neglect
+E91	Event:T91 
+T93	Event 2082 2090	increase
+E93	Event:T93 
+T95	Event 2105 2111	stroke
+E95	Event:T95 
+T98	Event 2161 2167	stroke
+E98	Event:T98 
+T99	Event 2197 2204	smoking
+E99	Event:T99 
+T100	Event 2268 2276	tendency
+E100	Event:T100 
+T101	Event 2328 2331	fix
+E101	Event:T101 
+T103	Event 2360 2367	smoking
+E103	Event:T103 
+T5	Event 136 141	tears
+E5	Event:T5 
+T104	Event 146 151	leaks
+E104	Event:T104 
+T13	Event 928 936	blockage
+E13	Event:T13 
+T20	Event 988 995	leakage
+E20	Event:T20 
+T26	Event 54 58	This
+E26	Event:T26 
+T7	Event 113 125	gets clogged
+E7	Event:T7 
+T8	Event 233 245	heart attack
+E8	Event:T8 
+T11	Event 180 192	brain attack
+E11	Event:T11 
+T14	Event 249 261	heart attack
+E14	Event:T14 
+T15	Event 737 761	cerebrovascular accident
+E15	Event:T15 
+T16	Event 763 766	CVA
+E16	Event:T16 
+T12	Event 840 846	supply
+E12	Event:T12 
+T17	Event 861 865	This
+E17	Event:T17 
+T27	Event 888 896	ischemia
+E27	Event:T27 
+T30	Event 938 948	thrombosis
+E30	Event:T30 
+T33	Event 975 986	haemorrhage
+E33	Event:T33 
+T36	Event 950 967	arterial embolism
+E36	Event:T36 
+T38	Event 1024 1032	affected
+E38	Event:T38 
+T47	Event 1097 1107	hemiplegia
+E47	Event:T47 
+T49	Event 1174 1181	aphasia
+E49	Event:T49 
+T53	Event 1300 1309	emergency
+E53	Event:T53 
+T55	Event 1311 1313	It
+E55	Event:T55 
+T64	Event 1345 1347	it
+E64	Event:T64 
+T67	Event 1372 1374	it
+E67	Event:T67 
+T70	Event 1394 1396	It
+E70	Event:T70 
+T61	Event 1466 1476	disability
+E61	Event:T61 
+T63	Event 1641 1643	it
+E63	Event:T63 
+T72	Event 1680 1682	It
+E72	Event:T72 
+T80	Event 2169 2177	diabetes
+E80	Event:T80 
+T82	Event 2129 2148	high blood pressure
+E82	Event:T82 
+T86	Event 2179 2195	high cholesterol
+E86	Event:T86 
+T92	Event 2227 2235	migraine
+E92	Event:T92 
+T94	Event 2241 2245	aura
+E94	Event:T94 
+T96	Event 2251 2264	thrombophilia
+E96	Event:T96 
+T97	Event 2280 2290	thrombosis
+E97	Event:T97 
+T105	Event 2206 2225	atrial fibrillation
+E105	Event:T105 
+T102	Event 2336 2355	high blood pressure
+E102	Event:T102 
+T106	Event 1422 1427	cause
+E106	Event:T106 
+T107	Event 1457 1462	cause
+E107	Event:T107 
+T108	Event 221 223	it
+E108	Event:T108 
+T44	Event 2014 2032	behave impulsively
+E44	Event:T44 
+T78	Event 439 443	clot
+E78	Event:T78 
+T32	Event 617 630	moving around
+E32	Event:T32 
+T37	Event 782 807	loss of brain function(s)
+E37	Event:T37 
+T85	Event 1796 1798	it
+E85	Event:T85 
+T90	Event 1834 1836	It
+E90	Event:T90 

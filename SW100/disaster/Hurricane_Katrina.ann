@@ -1,0 +1,98 @@
+T2	Event 55 63	affected
+E2	Event:T2 
+T4	Event 91 98	flooded
+E4	Event:T4 
+T5	Event 139 144	broke
+E5	Event:T5 
+T6	Event 166 171	built
+E6	Event:T6 
+T7	Event 175 182	protect
+E7	Event:T7 
+T8	Event 205 211	failed
+E8	Event:T8 
+T10	Event 235 239	came
+E10	Event:T10 
+T12	Event 317 323	failed
+E12	Event:T12 
+T13	Event 337 341	rose
+E13	Event:T13 
+T14	Event 360 369	estimated
+E14	Event:T14 
+T15	Event 485 491	caused
+E15	Event:T15 
+T16	Event 492 499	failure
+E16	Event:T16 
+T18	Event 563 570	drowned
+E18	Event:T18 
+T19	Event 599 606	covered
+E19	Event:T19 
+T21	Event 696 705	destroyed
+E21	Event:T21 
+T22	Event 730 738	believed
+E22	Event:T22 
+T23	Event 746 751	flood
+E23	Event:T23 
+T24	Event 773 779	happen
+E24	Event:T24 
+T25	Event 796 801	flood
+E25	Event:T25 
+T26	Event 802 810	happened
+E26	Event:T26 
+T29	Event 924 929	flood
+E29	Event:T29 
+T30	Event 930 933	led
+E30	Event:T30 
+T32	Event 965 970	moved
+E32	Event:T32 
+T36	Event 1054 1059	lived
+E36	Event:T36 
+T37	Event 1067 1074	flooded
+E37	Event:T37 
+T38	Event 1080 1085	moved
+E38	Event:T38 
+T40	Event 1177 1181	gone
+E40	Event:T40 
+T42	Event 1209 1213	lost
+E42	Event:T42 
+T44	Event 1246 1252	spread
+E44	Event:T44 
+T45	Event 1281 1289	received
+E45	Event:T45 
+T47	Event 1348 1355	helping
+E47	Event:T47 
+T49	Event 1377 1385	relocate
+E49	Event:T49 
+T51	Event 1422 1428	repair
+E51	Event:T51 
+T55	Event 1554 1563	hurricane
+E55	Event:T55 
+T1	Event 0 17	Hurricane Katrina
+E1	Event:T1 
+T3	Event 67 84	Hurricane Katrina
+E3	Event:T3 
+T9	Event 425 436	under water
+E9	Event:T9 
+T11	Event 994 1011	Hurricane Katrina
+E11	Event:T11 
+T17	Event 1019 1036	Hurricane Katrina
+E17	Event:T17 
+T20	Event 1140 1149	move back
+E20	Event:T20 
+T27	Event 1236 1245	move back
+E27	Event:T27 
+T33	Event 1482 1489	Katrina
+E33	Event:T33 
+T34	Event 1509 1512	had
+E34	Event:T34 
+T35	Event 1539 1542	did
+E35	Event:T35 
+T41	Event 1130 1136	afraid
+E41	Event:T41 
+T31	Event 949 958	move away
+E31	Event:T31 
+T39	Event 904 913	hardships
+E39	Event:T39 
+T43	Event 983 990	Effects
+E43	Event:T43 
+T28	Event 880 890	rains fell
+E28	Event:T28 

@@ -1,0 +1,222 @@
+T1	Event 0 8	Dyslexia
+E1	Event:T1 
+T2	Event 26 33	problem
+E2	Event:T2 
+T3	Event 38 41;45 51	has effect
+E3	Event:T3 
+T4	Event 73 84	understands
+E4	Event:T4 
+T5	Event 117 125	dyslexia
+E5	Event:T5 
+T6	Event 130 137;150 158	reading problems
+E6	Event:T6 
+T9	Event 248 261	have dyslexia
+E9	Event:T9 
+T10	Event 280 282	go
+E10	Event:T10 
+T11	Event 340 353	have dyslexia
+E11	Event:T11 
+T12	Event 389 397	educated
+E12	Event:T12 
+T13	Event 406 413	studies
+E13	Event:T13 
+T14	Event 414 418	show
+E14	Event:T14 
+T15	Event 466 479	have dyslexia
+E15	Event:T15 
+T16	Event 545 553	affected
+E16	Event:T16 
+T17	Event 567 572	think
+E17	Event:T17 
+T18	Event 638 646	delegate
+E18	Event:T18 
+T19	Event 647 663	responsibilities
+E19	Event:T19 
+T20	Event 668 675	writing
+E20	Event:T20 
+T21	Event 706 714	speaking
+E21	Event:T21 
+T22	Event 760 763;773 781	did research
+E22	Event:T22 
+T23	Event 788 796	dyslexia
+E23	Event:T23 
+T24	Event 801 806	found
+E24	Event:T24 
+T25	Event 869 881	did research
+E25	Event:T25 
+T27	Event 953 957	died
+E27	Event:T27 
+T28	Event 962 967	found
+E28	Event:T28 
+T29	Event 1006 1015	connected
+E29	Event:T29 
+T30	Event 1041 1049	happened
+E30	Event:T30 
+T31	Event 1077 1086	pregnancy
+E31	Event:T31 
+T32	Event 1093 1100	problem
+E32	Event:T32 
+T33	Event 1101 1104;1111 1117	has effect
+E33	Event:T33 
+T34	Event 1160 1168	research
+E34	Event:T34 
+T35	Event 1169 1174	shows
+E35	Event:T35 
+T36	Event 1211 1219	dyslexia
+E36	Event:T36 
+T37	Event 1226 1231	thing
+E37	Event:T37 
+T38	Event 1237 1243	causes
+E38	Event:T38 
+T39	Event 1244 1252	dyslexia
+E39	Event:T39 
+T40	Event 1258 1265	problem
+E40	Event:T40 
+T42	Event 1303 1310	problem
+E42	Event:T42 
+T43	Event 1322 1327	found
+E43	Event:T43 
+T45	Event 1350 1354	test
+E45	Event:T45 
+T46	Event 1383 1385;1394 1399	do tests
+E46	Event:T46 
+T47	Event 1403 1407	find
+E47	Event:T47 
+T49	Event 1444 1452	dyslexia
+E49	Event:T49 
+T50	Event 1457 1466	sensitive
+E50	Event:T50 
+T51	Event 1475 1480	noise
+E51	Event:T51 
+T52	Event 1486 1499	have problems
+E52	Event:T52 
+T53	Event 1500 1508	speaking
+E53	Event:T53 
+T54	Event 1533 1544	concentrate
+E54	Event:T54 
+T55	Event 1558 1563	cause
+E55	Event:T55 
+T56	Event 1564 1572	problems
+E56	Event:T56 
+T58	Event 1623 1636	have dyslexia
+E58	Event:T58 
+T62	Event 1642 1646;1653 1669	have mental disorders
+E62	Event:T62 
+T63	Event 1725 1732	Finding
+E63	Event:T63 
+T64	Event 1733 1741	dyslexia
+E64	Event:T64 
+T65	Event 1755 1759	tell
+E65	Event:T65 
+T66	Event 1771 1783	has dyslexia
+E66	Event:T66 
+T67	Event 1805 1809	seen
+E67	Event:T67 
+T68	Event 1838 1844	called
+E68	Event:T68 
+T69	Event 1874 1878	read
+E69	Event:T69 
+T70	Event 1882 1887	write
+E70	Event:T70 
+T71	Event 1930 1937	problem
+E71	Event:T71 
+T72	Event 1951 1957	trying
+E72	Event:T72 
+T73	Event 1961 1967	create
+E73	Event:T73 
+T74	Event 1974 1979	tests
+E74	Event:T74 
+T75	Event 1983 1987	help
+E75	Event:T75 
+T76	Event 2013 2025	has dyslexia
+E76	Event:T76 
+T78	Event 1988 1996	find out
+E78	Event:T78 
+T79	Event 2078 2085	happens
+E79	Event:T79 
+T80	Event 2099 2104	start
+E80	Event:T80 
+T81	Event 2111 2118	treated
+E81	Event:T81 
+T82	Event 2144 2148;2155 2163	have problems
+E82	Event:T82 
+T83	Event 2198 2211	have dyslexia
+E83	Event:T83 
+T85	Event 2452 2460	continue
+E85	Event:T85 
+T86	Event 2464 2470	thrive
+E86	Event:T86 
+T87	Event 2482 2486	work
+E87	Event:T87 
+T88	Event 2489 2496	Therapy
+E88	Event:T88 
+T89	Event 2512 2520	dyslexia
+E89	Event:T89 
+T90	Event 2528 2534	helped
+E90	Event:T90 
+T91	Event 2553 2557	help
+E91	Event:T91 
+T92	Event 2582 2587	break
+E92	Event:T92 
+T95	Event 2634 2639	learn
+E95	Event:T95 
+T96	Event 2647 2652	write
+E96	Event:T96 
+T99	Event 2678 2684	create
+E99	Event:T99 
+T100	Event 2697 2702	helps
+E100	Event:T100 
+T101	Event 2720 2727	writing
+E101	Event:T101 
+T102	Event 2741 2748	believe
+E102	Event:T102 
+T103	Event 2776 2780	read
+E103	Event:T103 
+T104	Event 2785 2790	write
+E104	Event:T104 
+T105	Event 2806 2809	put
+E105	Event:T105 
+T106	Event 2820 2827	colored
+E106	Event:T106 
+T107	Event 2858 2865	reading
+E107	Event:T107 
+T108	Event 108 113	signs
+E108	Event:T108 
+T7	Event 142 158	writing problems
+E7	Event:T7 
+T8	Event 583 591	dyslexic
+E8	Event:T8 
+T109	Event 610 620	successful
+E109	Event:T109 
+T110	Event 843 851	dyslexic
+E110	Event:T110 
+T26	Event 905 914	looked at
+E26	Event:T26 
+T111	Event 929 937	dyslexic
+E111	Event:T111 
+T112	Event 1036 1040	this
+E112	Event:T112 
+T41	Event 1408 1410	it
+E41	Event:T41 
+T44	Event 1682 1722	attention-deficit hyperactivity disorder
+E44	Event:T44 
+T48	Event 1845 1853	dyslexic
+E48	Event:T48 
+T59	Event 2056 2068	go to school
+E59	Event:T59 
+T60	Event 2073 2077	this
+E60	Event:T60 
+T61	Event 2180 2190	well-known
+E61	Event:T61 
+T77	Event 2558 2566	dyslexic
+E77	Event:T77 
+T84	Event 2692 2696	This
+E84	Event:T84 
+T93	Event 2708 2715	reading
+E93	Event:T93 
+T94	Event 2754 2762	dyslexic
+E94	Event:T94 
+T97	Event 1412 1414	It
+E97	Event:T97 
+T98	Event 1546 1548	It
+E98	Event:T98 

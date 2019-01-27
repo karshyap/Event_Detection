@@ -1,0 +1,15 @@
+The Big Mac Index is an economic index. It compares the purchasing power of two currencies. It looks at how expensive a Big Mac is in different countries.
+
+The Big Mac Index was first written about in The Economist magazine in September 1986. They have published the index each year since then. The McDonald's Big Mac was chosen because it is made in a similar way with similar ingredients in many countries around the world.
+
+The exchange rate between two countries can be compared by dividing the price of a Big Mac in one country (in its currency) by the price of a Big Mac in another country (in its currency). This value is then compared with the actual exchange rate. If the rate is lower, then the first currency is under-valued (according to purchasing power parity (PPP) theory) compared with the second currency. Conversely, if the rate is higher, then the first currency is over-valued.
+
+For example, using figures in July 2008:
+
+the price of a Big Mac was $3.57 in the United States
+the price of a Big Mac was £2.29 in the United Kingdom (Britain)
+using exchange rates at July 2008, the Big Mac in Britain could be bought for $4.57
+the implied purchasing power parity was 1.56, that is the local price in Britain divided by the price in the United States
+this compares with an actual exchange rate of $2.00 to £1 at the time
+the pound was thus overvalued against the dollar by 28%
+i.e. the actual exchange rate divided by implied purchasing parity -> 2 divided by 1.56 = 1.28

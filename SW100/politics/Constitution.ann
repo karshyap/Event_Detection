@@ -1,0 +1,100 @@
+T2	Event 82 87	tells
+E2	Event:T2 
+T4	Event 122 126	work
+E4	Event:T4 
+T5	Event 131 136	tells
+E5	Event:T5 
+T6	Event 173 179	chosen
+E6	Event:T6 
+T9	Event 229 233;238 242	laws made
+E9	Event:T9 
+T11	Event 266 273	changed
+E11	Event:T11 
+T12	Event 277 284	removed
+E12	Event:T12 
+T15	Event 323 330	allowed
+E15	Event:T15 
+T16	Event 334 338	vote
+E16	Event:T16 
+T17	Event 370 380	guaranteed
+E17	Event:T17 
+T18	Event 414 421	changed
+E18	Event:T18 
+T19	Event 424 430;435 438	Limits put
+E19	Event:T19 
+T21	Event 480 484	have
+E21	Event:T21 
+T22	Event 510 513	see
+E22	Event:T22 
+T24	Event 563 573	repressive
+E24	Event:T24 
+T27	Event 648 652	have
+E27	Event:T27 
+T28	Event 679 693	giving freedom
+E28	Event:T28 
+T29	Event 730 735	known
+E29	Event:T29 
+T30	Event 763 770	bending
+E30	Event:T30 
+T31	Event 816 823	uniting
+E31	Event:T31 
+T32	Event 875 882	written
+E32	Event:T32 
+T34	Event 987 999	written down
+E34	Event:T34 
+T35	Event 1026 1031	found
+E35	Event:T35 
+T36	Event 1044 1052	starting
+E36	Event:T36 
+T39	Event 1182 1192	considered
+E39	Event:T39 
+T40	Event 1227 1236	decisions
+E40	Event:T40 
+T41	Event 1287 1293	called
+E41	Event:T41 
+T43	Event 1212 1219	made up
+E43	Event:T43 
+T44	Event 1353 1356	say
+E44	Event:T44 
+T45	Event 1381 1384	has
+E45	Event:T45 
+T46	Event 1452 1457	began
+E46	Event:T46 
+T47	Event 1473 1480	writing
+E47	Event:T47 
+T48	Event 1573 1578	using
+E48	Event:T48 
+T49	Event 1596 1603	changed
+E49	Event:T49 
+T50	Event 1605 1612	amended
+E50	Event:T50 
+T52	Event 1648 1652	made
+E52	Event:T52 
+T53	Event 1673 1676	won
+E53	Event:T53 
+T54	Event 1683 1695	independence
+E54	Event:T54 
+T55	Event 1724 1727	had
+E55	Event:T55 
+T56	Event 1780 1788	replaced
+E56	Event:T56 
+T57	Event 1869 1876	written
+E57	Event:T57 
+T58	Event 1948 1955	divided
+E58	Event:T58 
+T59	Event 1983 1990	amended
+E59	Event:T59 
+T1	Event 110 118	supposed
+E1	Event:T1 
+T3	Event 205 219	stay in office
+E3	Event:T3 
+T7	Event 285 293	based on
+E7	Event:T7 
+T8	Event 577 584	corrupt
+E8	Event:T8 
+T10	Event 615 623	stick to
+E10	Event:T10 
+T13	Event 1400 1409	unwritten
+E13	Event:T13 
+T14	Event 1460 1465	trend
+E14	Event:T14 

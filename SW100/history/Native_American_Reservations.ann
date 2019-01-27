@@ -1,0 +1,90 @@
+T3	Event 95 102	created
+E3	Event:T3 
+T6	Event 194 199	lived
+E6	Event:T6 
+T7	Event 236 242	wanted
+E7	Event:T7 
+T9	Event 326 332;335 338	passed law
+E9	Event:T9 
+T10	Event 339 345	called
+E10	Event:T10 
+T13	Event 379 383	said
+E13	Event:T13 
+T15	Event 417 422	leave
+E15	Event:T15 
+T16	Event 445 449	move
+E16	Event:T16 
+T17	Event 544 549	leave
+E17	Event:T17 
+T18	Event 605 612	decided
+E18	Event:T18 
+T19	Event 616 621	force
+E19	Event:T19 
+T20	Event 638 643	leave
+E20	Event:T20 
+T21	Event 679 685	forced
+E21	Event:T21 
+T24	Event 804 808	live
+E24	Event:T24 
+T25	Event 856 860	died
+E25	Event:T25 
+T26	Event 899 907	diseases
+E26	Event:T26 
+T27	Event 936 942	forced
+E27	Event:T27 
+T28	Event 946 952	travel
+E28	Event:T28 
+T30	Event 1061 1067	forced
+E30	Event:T30 
+T31	Event 1100 1105	leave
+E31	Event:T31 
+T32	Event 1122 1126	move
+E32	Event:T32 
+T33	Event 1174 1181	started
+E33	Event:T33 
+T34	Event 1185 1189	move
+E34	Event:T34 
+T35	Event 1222 1228	moving
+E35	Event:T35 
+T36	Event 1263 1271	Starting
+E36	Event:T36 
+T38	Event 1337 1343	fights
+E38	Event:T38 
+T39	Event 1352 1358	called
+E39	Event:T39 
+T41	Event 1405 1412	reacted
+E41	Event:T41 
+T42	Event 1416 1423	forcing
+E42	Event:T42 
+T43	Event 1444 1449	leave
+E43	Event:T43 
+T44	Event 1472 1476	move
+E44	Event:T44 
+T46	Event 1518 1524	called
+E46	Event:T46 
+T48	Event 1571 1577	called
+E48	Event:T48 
+T51	Event 1635 1643	reserved
+E51	Event:T51 
+T52	Event 1708 1715	allowed
+E52	Event:T52 
+T53	Event 1719 1724	leave
+E53	Event:T53 
+T56	Event 1801 1805	died
+E56	Event:T56 
+T58	Event 1822 1830	sickness
+E58	Event:T58 
+T4	Event 879 888	dysentery
+E4	Event:T4 
+T5	Event 152 166	getting bigger
+E5	Event:T5 
+T8	Event 246 255	take over
+E8	Event:T8 
+T14	Event 1318 1329	fought back
+E14	Event:T14 
+T22	Event 1363 1374	Indian Wars
+E22	Event:T22 
+T23	Event 1620 1629	put aside
+E23	Event:T23 
+T29	Event 1811 1817	hunger
+E29	Event:T29 

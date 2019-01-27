@@ -1,0 +1,106 @@
+T1	Event 26 31	based
+E1	Event:T1 
+T2	Event 63 68	makes
+E2	Event:T2 
+T3	Event 91 98	started
+E3	Event:T3 
+T4	Event 150 160	co-founded
+E4	Event:T4 
+T5	Event 214 219	works
+E5	Event:T5 
+T6	Event 285 292	started
+E6	Event:T6 
+T7	Event 293 300	selling
+E7	Event:T7 
+T8	Event 367 373	trying
+E8	Event:T8 
+T9	Event 377 382	start
+E9	Event:T9 
+T10	Event 383 389	making
+E10	Event:T10 
+T11	Event 424 429	tried
+E11	Event:T11 
+T12	Event 433 437	make
+E12	Event:T12 
+T13	Event 458 462	cost
+E13	Event:T13 
+T14	Event 500 503	buy
+E14	Event:T14 
+T15	Event 547 551	make
+E15	Event:T15 
+T18	Event 618 621;634 638	had idea
+E18	Event:T18 
+T20	Event 651 655	make
+E20	Event:T20 
+T21	Event 702 706	sell
+E21	Event:T21 
+T22	Event 756 760;766 771	made money
+E22	Event:T22 
+T23	Event 784 789	start
+E23	Event:T23 
+T24	Event 790 796	making
+E24	Event:T24 
+T25	Event 855 859	make
+E25	Event:T25 
+T26	Event 903 906	buy
+E26	Event:T26 
+T27	Event 918 921;933 937	had idea
+E27	Event:T27 
+T29	Event 941 945	make
+E29	Event:T29 
+T31	Event 991 998	started
+E31	Event:T31 
+T32	Event 999 1005	making
+E32	Event:T32 
+T33	Event 1044 1051	stopped
+E33	Event:T33 
+T34	Event 1052 1058	making
+E34	Event:T34 
+T36	Event 1102 1109	working
+E36	Event:T36 
+T38	Event 1186 1190	make
+E38	Event:T38 
+T42	Event 1301 1307	worked
+E42	Event:T42 
+T45	Event 1441 1446	built
+E45	Event:T45 
+T46	Event 1478 1488	production
+E46	Event:T46 
+T47	Event 1489 1496	started
+E47	Event:T47 
+T49	Event 1544 1548	sold
+E49	Event:T49 
+T50	Event 1604 1608	sold
+E50	Event:T50 
+T51	Event 1697 1699	go
+E51	Event:T51 
+T54	Event 1732 1738	needed
+E54	Event:T54 
+T55	Event 1745 1754	recharged
+E55	Event:T55 
+T56	Event 1764 1771	problem
+E56	Event:T56 
+T57	Event 1789 1797	compared
+E57	Event:T57 
+T58	Event 1811 1814	run
+E58	Event:T58 
+T59	Event 1865 1867	go
+E59	Event:T59 
+T60	Event 1884 1891	needing
+E60	Event:T60 
+T61	Event 1898 1907	recharged
+E61	Event:T61 
+T62	Event 1934 1936	go
+E62	Event:T62 
+T63	Event 1961 1968	needing
+E63	Event:T63 
+T64	Event 2012 2014	go
+E64	Event:T64 
+T65	Event 2035 2041	charge
+E65	Event:T65 
+T66	Event 2084 2086	go
+E66	Event:T66 
+T67	Event 2109 2115	charge
+E67	Event:T67 
+T17	Event 1209 1225	stay in business
+E17	Event:T17 

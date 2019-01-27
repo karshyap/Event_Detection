@@ -1,0 +1,106 @@
+T1	Event 41 48	solving
+E1	Event:T1 
+T2	Event 49 57	problems
+E2	Event:T2 
+T4	Event 65 78	characterised
+E4	Event:T4 
+T5	Event 82 90	repeated
+E5	Event:T5 
+T6	Event 92 98	varied
+E6	Event:T6 
+T7	Event 99 107	attempts
+E7	Event:T7 
+T8	Event 118 127	continued
+E8	Event:T8 
+T9	Event 134 141	success
+E9	Event:T9 
+T11	Event 162 167	stops
+E11	Event:T11 
+T12	Event 168 174	trying
+E12	Event:T12 
+T15	Event 310 317	devised
+E15	Event:T15 
+T20	Event 343 353	trying out
+E20	Event:T20 
+T21	Event 465 474	explained
+E21	Event:T21 
+T22	Event 511 520	behaviour
+E22	Event:T22 
+T24	Event 530 535	imply
+E24	Event:T24 
+T25	Event 573 582	explained
+E25	Event:T25 
+T26	Event 543 559	mental processes
+E26	Event:T26 
+T28	Event 668 674	opened
+E28	Event:T28 
+T29	Event 699 712	misunderstood
+E29	Event:T29 
+T30	Event 745 751	seeing
+E30	Event:T30 
+T31	Event 800 807	watched
+E31	Event:T31 
+T32	Event 812 820	recorded
+E32	Event:T32 
+T33	Event 913 924	demonstrate
+E33	Event:T33 
+T34	Event 945 953	required
+E34	Event:T34 
+T35	Event 957 964	explain
+E35	Event:T35 
+T36	Event 881 888	learned
+E36	Event:T36 
+T37	Event 987 993	showed
+E37	Event:T37 
+T38	Event 1001 1007	manage
+E38	Event:T38 
+T41	Event 1070 1080	experiment
+E41	Event:T41 
+T42	Event 1092 1098	placed
+E42	Event:T42 
+T44	Event 1139 1144	study
+E44	Event:T44 
+T45	Event 1179 1186	plotted
+E45	Event:T45 
+T46	Event 1209 1217	recorded
+E46	Event:T46 
+T47	Event 1238 1243	trial
+E47	Event:T47 
+T49	Event 1261 1272	observation
+E49	Event:T49 
+T50	Event 1295 1303	promoted
+E50	Event:T50 
+T51	Event 1316 1323	results
+E51	Event:T51 
+T52	Event 1341 1348	refined
+E52	Event:T52 
+T53	Event 1353 1361	extended
+E53	Event:T53 
+T10	Event 247 256	organised
+E10	Event:T10 
+T14	Event 445 454	behaviour
+E14	Event:T14 
+T16	Event 586 610	trial and error learning
+E16	Event:T16 
+T18	Event 762 771	behaviour
+E18	Event:T18 
+T19	Event 893 901	response
+E19	Event:T19 
+T23	Event 1010 1036	trial and error experiment
+E23	Event:T23 
+T27	Event 1166 1174	learning
+E27	Event:T27 
+T40	Event 1282 1290	learning
+E40	Event:T40 
+T43	Event 1380 1400	operant conditioning
+E43	Event:T43 
+T13	Event 965 967	it
+E13	Event:T13 
+T3	Event 221 227	employ
+E3	Event:T3 
+T39	Event 228 235	insight
+E39	Event:T39 
+T48	Event 933 940	insight
+E48	Event:T48 
+T17	Event 719 733	insightful act
+E17	Event:T17 

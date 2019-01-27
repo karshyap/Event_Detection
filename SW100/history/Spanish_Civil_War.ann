@@ -1,0 +1,60 @@
+T2	Event 58 61	war
+E2	Event:T2 
+T6	Event 185 191	worked
+E6	Event:T6 
+T8	Event 259 263	stop
+E8	Event:T8 
+T10	Event 386 394	provided
+E10	Event:T10 
+T11	Event 460 464	sold
+E11	Event:T11 
+T14	Event 532 543	volunteered
+E14	Event:T14 
+T15	Event 547 552	fight
+E15	Event:T15 
+T16	Event 591 597	orders
+E16	Event:T16 
+T18	Event 750 755	known
+E18	Event:T18 
+T19	Event 791 794	war
+E19	Event:T19 
+T20	Event 795 800	ended
+E20	Event:T20 
+T22	Event 872 878	became
+E22	Event:T22 
+T23	Event 907 911	died
+E23	Event:T23 
+T24	Event 943 947	died
+E24	Event:T24 
+T25	Event 955 958	war
+E25	Event:T25 
+T26	Event 969 979;985 994	atrocities committed
+E26	Event:T26 
+T30	Event 1087 1093	bombed
+E30	Event:T30 
+T31	Event 1112 1121	supported
+E31	Event:T31 
+T34	Event 1189 1199	casualties
+E34	Event:T34 
+T35	Event 1200 1208	resulted
+E35	Event:T35 
+T36	Event 1214 1225	destruction
+E36	Event:T36 
+T37	Event 1226 1234;1240 1254	received media coverage
+E37	Event:T37 
+T39	Event 1259 1266	created
+E39	Event:T39 
+T40	Event 1276 1286	perception
+E40	Event:T40 
+T41	Event 1297 1308	involvement
+E41	Event:T41 
+T42	Event 1315 1323	persists
+E42	Event:T42 
+T1	Event 4 21	Spanish Civil War
+E1	Event:T1 
+T3	Event 136 148	took control
+E3	Event:T3 
+T5	Event 856 863	gave up
+E5	Event:T5 
+T7	Event 1034 1053	bombing of Guernica
+E7	Event:T7 

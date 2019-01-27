@@ -1,0 +1,76 @@
+T1	Event 63 71	produces
+E1	Event:T1 
+T3	Event 107 117	calculated
+E3	Event:T3 
+T4	Event 121 130	adding up
+E4	Event:T4 
+T5	Event 182 186	find
+E5	Event:T5 
+T9	Event 213 220	adds up
+E9	Event:T9 
+T10	Event 365 370	shown
+E10	Event:T10 
+T11	Event 428 432	used
+E11	Event:T11 
+T12	Event 513 519	called
+E12	Event:T12 
+T13	Event 436 444	find out
+E13	Event:T13 
+T14	Event 555 558	has
+E14	Event:T14 
+T15	Event 597 600	has
+E15	Event:T15 
+T17	Event 690 699	calculate
+E17	Event:T17 
+T18	Event 750 755	spent
+E18	Event:T18 
+T20	Event 808 817	adjusting
+E20	Event:T20 
+T21	Event 841 846	tries
+E21	Event:T21 
+T22	Event 850 857	correct
+E22	Event:T22 
+T23	Event 874 883	inflation
+E23	Event:T23 
+T24	Event 912 916	rise
+E24	Event:T24 
+T25	Event 979 984	grows
+E25	Event:T25 
+T26	Event 1005 1011	growth
+E26	Event:T26 
+T27	Event 1020 1029	increased
+E27	Event:T27 
+T28	Event 1087 1094	divided
+E28	Event:T28 
+T29	Event 1128 1133	shows
+E29	Event:T29 
+T32	Event 1390 1399	evaluated
+E32	Event:T32 
+T33	Event 1436 1442	called
+E33	Event:T33 
+T34	Event 1463 1471	includes
+E34	Event:T34 
+T35	Event 1496 1501;1505 1514	makes different
+E35	Event:T35 
+T36	Event 1562 1571	inflation
+E36	Event:T36 
+T37	Event 1605 1613	measured
+E37	Event:T37 
+T39	Event 1666 1670	uses
+E39	Event:T39 
+T40	Event 1770 1774	uses
+E40	Event:T40 
+T42	Event 1805 1814	purchased
+E42	Event:T42 
+T2	Event 822 829	changes
+E2	Event:T2 
+T6	Event 944 949	costs
+E6	Event:T6 
+T7	Event 1472 1479	changes
+E7	Event:T7 
+T8	Event 1540 1547	changes
+E8	Event:T8 
+T19	Event 1581 1593	fluctuations
+E19	Event:T19 
+T30	Event 1860 1868	based on
+E30	Event:T30 

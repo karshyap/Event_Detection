@@ -1,0 +1,68 @@
+T3	Event 31 36	trade
+E3	Event:T3 
+T4	Event 120 128	develops
+E4	Event:T4 
+T5	Event 146 155	exporting
+E5	Event:T5 
+T6	Event 179 185	needed
+E6	Event:T6 
+T7	Event 228 232	come
+E7	Event:T7 
+T8	Event 261 269	exported
+E8	Event:T8 
+T9	Event 300 308	involved
+E9	Event:T9 
+T10	Event 332 338	shaped
+E10	Event:T10 
+T11	Event 346 351	winds
+E11	Event:T11 
+T12	Event 356 364	currents
+E12	Event:T12 
+T14	Event 476 482	lasted
+E14	Event:T14 
+T17	Event 649 657	carrying
+E17	Event:T17 
+T19	Event 676 688	manufactured
+E19	Event:T19 
+T22	Event 791 794	use
+E22	Event:T22 
+T23	Event 835 842	growing
+E23	Event:T23 
+T24	Event 875 883	exported
+E24	Event:T24 
+T26	Event 925 929	used
+E26	Event:T26 
+T27	Event 933 936	buy
+E27	Event:T27 
+T28	Event 969 976	brought
+E28	Event:T28 
+T29	Event 1013 1017	work
+E29	Event:T29 
+T35	Event 1156 1160	tied
+E35	Event:T35 
+T37	Event 1198 1205	thought
+E37	Event:T37 
+T38	Event 1251 1255	have
+E38	Event:T38 
+T39	Event 1279 1285	traded
+E39	Event:T39 
+T41	Event 1318 1324	traded
+E41	Event:T41 
+T42	Event 1414 1426	manufactured
+E42	Event:T42 
+T1	Event 4 20	triangular trade
+E1	Event:T1 
+T2	Event 95 111	Triangular trade
+E2	Event:T2 
+T44	Event 403 413	best-known
+E44	Event:T44 
+T45	Event 448 468	Atlantic slave trade
+E45	Event:T45 
+T15	Event 598 601	had
+E15	Event:T15 
+T16	Event 1058 1074	triangular trade
+E16	Event:T16 
+T18	Event 1089 1103	transportation
+E18	Event:T18 
+T13	Event 1178 1190	mercantilism
+E13	Event:T13 

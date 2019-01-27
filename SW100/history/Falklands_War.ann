@@ -1,0 +1,68 @@
+T2	Event 24 27	war
+E2	Event:T2 
+T4	Event 246 252	argued
+E4	Event:T4 
+T7	Event 401 404	led
+E7	Event:T7 
+T8	Event 410 413	war
+E8	Event:T8 
+T9	Event 429 432	had
+E9	Event:T9 
+T10	Event 470 476;479 495	became separate country
+E10	Event:T10 
+T12	Event 585 594	destroyed
+E12	Event:T12 
+T13	Event 622 626	took
+E13	Event:T13 
+T14	Event 666 670	kept
+E14	Event:T14 
+T16	Event 716 723	invaded
+E16	Event:T16 
+T19	Event 781 789	response
+E19	Event:T19 
+T20	Event 827 832	asked
+E20	Event:T20 
+T21	Event 846 854	withdraw
+E21	Event:T21 
+T22	Event 860 865	tried
+E22	Event:T22 
+T23	Event 869 872	end
+E23	Event:T23 
+T24	Event 937 945	withdraw
+E24	Event:T24 
+T25	Event 969 973	sent
+E25	Event:T25 
+T26	Event 992 998	attack
+E26	Event:T26 
+T27	Event 1014 1020	battle
+E27	Event:T27 
+T30	Event 1056 1062	landed
+E30	Event:T30 
+T31	Event 1077 1083	fought
+E31	Event:T31 
+T32	Event 1115 1126	surrendered
+E32	Event:T32 
+T33	Event 1151 1159	captured
+E33	Event:T33 
+T34	Event 1181 1187	killed
+E34	Event:T34 
+T35	Event 1233 1239	deaths
+E35	Event:T35 
+T37	Event 1287 1291	sunk
+E37	Event:T37 
+T38	Event 1364 1370	deaths
+E38	Event:T38 
+T1	Event 4 17	Falklands War
+E1	Event:T1 
+T3	Event 294 304	belongs to
+E3	Event:T3 
+T5	Event 358 364	set up
+E5	Event:T5 
+T6	Event 519 525	set up
+E6	Event:T6 
+T11	Event 745 757	took control
+E11	Event:T11 
+T15	Event 877 883	crisis
+E15	Event:T15 
+T17	Event 889 898	diplomacy
+E17	Event:T17 

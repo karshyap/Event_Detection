@@ -1,0 +1,92 @@
+T1	Event 0 9	Catalysis
+E1	Event:T1 
+T2	Event 74 78	help
+E2	Event:T2 
+T3	Event 45 62	chemical reaction
+E3	Event:T3 
+T4	Event 140 148	reaction
+E4	Event:T4 
+T5	Event 168 176	consumed
+E5	Event:T5 
+T6	Event 184 192	reaction
+E6	Event:T6 
+T7	Event 123 132	take part
+E7	Event:T7 
+T8	Event 216 227	participate
+E8	Event:T8 
+T9	Event 236 254	chemical reactions
+E9	Event:T9 
+T10	Event 271 276	speed
+E10	Event:T10 
+T11	Event 281 289	reaction
+E11	Event:T11 
+T12	Event 294 300	called
+E12	Event:T12 
+T13	Event 336 340	slow
+E13	Event:T13 
+T14	Event 345 353	reaction
+E14	Event:T14 
+T15	Event 358 364	called
+E15	Event:T15 
+T16	Event 416 424	increase
+E16	Event:T16 
+T17	Event 429 437	activity
+E17	Event:T17 
+T18	Event 455 461	called
+E18	Event:T18 
+T19	Event 493 503	deactivate
+E19	Event:T19 
+T20	Event 518 524	called
+E20	Event:T20 
+T21	Event 575 582	changes
+E21	Event:T21 
+T22	Event 597 614	chemical reaction
+E22	Event:T22 
+T23	Event 661 666	added
+E23	Event:T23 
+T24	Event 722 728	starts
+E24	Event:T24 
+T25	Event 732 740	break up
+E25	Event:T25 
+T28	Event 851 856	leave
+E28	Event:T28 
+T29	Event 894 904	speeded up
+E29	Event:T29 
+T30	Event 929 933	used
+E30	Event:T30 
+T31	Event 939 947	reaction
+E31	Event:T31 
+T32	Event 977 984	used up
+E32	Event:T32 
+T34	Event 1029 1033;1047 1051	play part
+E34	Event:T34 
+T36	Event 1093 1099	called
+E36	Event:T36 
+T37	Event 1124 1128	work
+E37	Event:T37 
+T38	Event 1132 1140	lowering
+E38	Event:T38 
+T39	Event 1170 1178	reaction
+E39	Event:T39 
+T41	Event 1185 1191	allows
+E41	Event:T41 
+T42	Event 1210 1214	used
+E42	Event:T42 
+T43	Event 1237 1245	reaction
+E43	Event:T43 
+T44	Event 1221 1232	speeding up
+E44	Event:T44 
+T46	Event 1312 1321	reactions
+E46	Event:T46 
+T47	Event 1302 1311	slow down
+E47	Event:T47 
+T48	Event 1340 1345	found
+E48	Event:T48 
+T49	Event 17 23	change
+E49	Event:T49 
+T27	Event 1180 1184	This
+E27	Event:T27 
+T33	Event 799 808	synthetic
+E33	Event:T33 
+T26	Event 1072 1081	reactions
+E26	Event:T26 

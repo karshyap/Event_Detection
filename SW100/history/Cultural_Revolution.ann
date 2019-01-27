@@ -1,0 +1,174 @@
+T9	Event 232 237	known
+E9	Event:T9 
+T12	Event 302 308	change
+E12	Event:T12 
+T13	Event 319 326	started
+E13	Event:T13 
+T14	Event 356 364	happened
+E14	Event:T14 
+T15	Event 388 393	start
+E15	Event:T15 
+T17	Event 421 429	followed
+E17	Event:T17 
+T18	Event 434 441	failure
+E18	Event:T18 
+T20	Event 473 478	tried
+E20	Event:T20 
+T21	Event 482 488	remove
+E21	Event:T21 
+T25	Event 600 607	started
+E25	Event:T25 
+T26	Event 645 652	started
+E26	Event:T26 
+T27	Event 665 670	ended
+E27	Event:T27 
+T29	Event 700 707	redoing
+E29	Event:T29 
+T31	Event 771 775	work
+E31	Event:T31 
+T35	Event 847 856	supported
+E35	Event:T35 
+T37	Event 921 926	split
+E37	Event:T37 
+T39	Event 1023 1028	tried
+E39	Event:T39 
+T42	Event 1074 1082	creating
+E42	Event:T42 
+T45	Event 1134 1139	known
+E45	Event:T45 
+T51	Event 1293 1301	teaching
+E51	Event:T51 
+T53	Event 1327 1331	beat
+E53	Event:T53 
+T55	Event 1366 1375	destroyed
+E55	Event:T55 
+T56	Event 1411 1417	fights
+E56	Event:T56 
+T58	Event 1442 1447	faced
+E58	Event:T58 
+T59	Event 1468 1478	revolution
+E59	Event:T59 
+T60	Event 1519 1525	forced
+E60	Event:T60 
+T61	Event 1529 1534	leave
+E61	Event:T61 
+T65	Event 1683 1688	began
+E65	Event:T65 
+T67	Event 1715 1720	ended
+E67	Event:T67 
+T68	Event 1770 1777	meeting
+E68	Event:T68 
+T69	Event 1788 1791	end
+E69	Event:T69 
+T71	Event 1823 1832	announced
+E71	Event:T71 
+T74	Event 1867 1873	caused
+E74	Event:T74 
+T75	Event 1883 1891	problems
+E75	Event:T75 
+T78	Event 1930 1937	lowered
+E78	Event:T78 
+T79	Event 1972 1982	activities
+E79	Event:T79 
+T80	Event 1996 2003	lowered
+E80	Event:T80 
+T84	Event 2062 2066	know
+E84	Event:T84 
+T85	Event 2074 2077	run
+E85	Event:T85 
+T86	Event 2084 2098	Transportation
+E86	Event:T86 
+T88	Event 2149 2153	used
+E88	Event:T88 
+T89	Event 2157 2161	take
+E89	Event:T89 
+T91	Event 2243 2247	sent
+E91	Event:T91 
+T92	Event 2251 2255	work
+E92	Event:T92 
+T96	Event 2307 2311	lost
+E96	Event:T96 
+T97	Event 2330 2337	changes
+E97	Event:T97 
+T99	Event 2374 2381	reduced
+E99	Event:T99 
+T100	Event 2401 2410	education
+E100	Event:T100 
+T103	Event 2484 2493	disrupted
+E103	Event:T103 
+T104	Event 2568 2574	closed
+E104	Event:T104 
+T105	Event 2586 2592	called
+E105	Event:T105 
+T106	Event 2628 2637	disrupted
+E106	Event:T106 
+T107	Event 2638 2647	education
+E107	Event:T107 
+T108	Event 2680 2684	sent
+E108	Event:T108 
+T1	Event 4 41	Great Proletarian Cultural Revolution
+E1	Event:T1 
+T2	Event 138 175	Proletarian Cultural Great Revolution
+E2	Event:T2 
+T3	Event 252 271	Cultural Revolution
+E3	Event:T3 
+T4	Event 353 355	It
+E4	Event:T4 
+T5	Event 401 420	Cultural Revolution
+E5	Event:T5 
+T6	Event 449 467	Great Leap Forward
+E6	Event:T6 
+T7	Event 546 555	in charge
+E7	Event:T7 
+T8	Event 569 579	get rid of
+E8	Event:T8 
+T10	Event 612 640	Socialist Education Movement
+E10	Event:T10 
+T11	Event 729 738	made sure
+E11	Event:T11 
+T16	Event 1032 1043	get support
+E16	Event:T16 
+T19	Event 1219 1231	made popular
+E19	Event:T19 
+T22	Event 1281 1292	went around
+E22	Event:T22 
+T23	Event 1418 1430	breaking out
+E23	Event:T23 
+T28	Event 1663 1682	Cultural Revolution
+E28	Event:T28 
+T30	Event 1799 1818	Cultural Revolution
+E30	Event:T30 
+T32	Event 1734 1763	Ninth National Party Congress
+E32	Event:T32 
+T36	Event 1847 1866	Cultural Revolution
+E36	Event:T36 
+T40	Event 2023 2036	put in charge
+E40	Event:T40 
+T41	Event 2103 2113	made worse
+E41	Event:T41 
+T43	Event 2228 2239	put in jail
+E43	Event:T43 
+T44	Event 2443 2452	cut short
+E44	Event:T44 
+T46	Event 2598 2607	sent-down
+E46	Event:T46 
+T47	Event 1692 1701	slow down
+E47	Event:T47 
+T49	Event 2578 2585	program
+E49	Event:T49 
+T50	Event 2615 2622	program
+E50	Event:T50 
+T52	Event 2657 2664	program
+E52	Event:T52 
+T57	Event 642 644	It
+E57	Event:T57 
+T33	Event 814 821	started
+E33	Event:T33 
+T54	Event 1343 1357	disagreed with
+E54	Event:T54 
+T34	Event 1448 1455	anarchy
+E34	Event:T34 
+T38	Event 1834 1841	Effects
+E38	Event:T38 
+T24	Event 825 831	regain
+E24	Event:T24 

@@ -1,0 +1,122 @@
+T1	Event 67 72	exist
+E1	Event:T1 
+T2	Event 93 98	split
+E2	Event:T2 
+T4	Event 170 177	made up
+E4	Event:T4 
+T5	Event 196 210	stuck together
+E5	Event:T5 
+T6	Event 348 352	like
+E6	Event:T6 
+T7	Event 417 421;426 431	have bonds
+E7	Event:T7 
+T8	Event 470 474;480 485	have bonds
+E8	Event:T8 
+T9	Event 530 534;541 546	have bonds
+E9	Event:T9 
+T10	Event 625 629	used
+E10	Event:T10 
+T11	Event 673 684	composition
+E11	Event:T11 
+T13	Event 736 746	considered
+E13	Event:T13 
+T14	Event 842 848	flying
+E14	Event:T14 
+T15	Event 932 936	move
+E15	Event:T15 
+T16	Event 898 912	stuck together
+E16	Event:T16 
+T17	Event 983 990	vibrate
+E17	Event:T17 
+T18	Event 1022 1027	known
+E18	Event:T18 
+T19	Event 1053 1060	ionized
+E19	Event:T19 
+T20	Event 1072 1076	form
+E20	Event:T20 
+T21	Event 1006 1021	state of matter
+E21	Event:T21 
+T22	Event 1123 1133	write down
+E22	Event:T22 
+T24	Event 1275 1282	made up
+E24	Event:T24 
+T25	Event 1349 1356	Bonding
+E25	Event:T25 
+T26	Event 1376 1381	exist
+E26	Event:T26 
+T27	Event 1397 1411	stick together
+E27	Event:T27 
+T28	Event 1418 1425	happens
+E28	Event:T28 
+T29	Event 1441 1446	share
+E29	Event:T29 
+T30	Event 1469 1477	circling
+E30	Event:T30 
+T31	Event 1510 1517	circles
+E31	Event:T31 
+T32	Event 1538 1544	called
+E32	Event:T32 
+T34	Event 1599 1605	shared
+E34	Event:T34 
+T35	Event 1630 1636	shared
+E35	Event:T35 
+T37	Event 1642 1650;1660 1664	stronger gets
+E37	Event:T37 
+T38	Event 1692 1706	stick together
+E38	Event:T38 
+T40	Event 1727 1739	broken apart
+E40	Event:T40 
+T42	Event 1758 1765	require
+E42	Event:T42 
+T43	Event 1776 1780	form
+E43	Event:T43 
+T44	Event 1822 1828	broken
+E44	Event:T44 
+T45	Event 1792 1800	give off
+E45	Event:T45 
+T47	Event 1852 1857	break
+E47	Event:T47 
+T48	Event 1882 1888	heated
+E48	Event:T48 
+T49	Event 1905 1910	start
+E49	Event:T49 
+T50	Event 1914 1918	move
+E50	Event:T50 
+T51	Event 1934 1938	move
+E51	Event:T51 
+T53	Event 1958 1964	breaks
+E53	Event:T53 
+T54	Event 1981 1988	require
+E54	Event:T54 
+T55	Event 2004 2009	break
+E55	Event:T55 
+T56	Event 2034 2040	broken
+E56	Event:T56 
+T57	Event 2045 2051	called
+E57	Event:T57 
+T58	Event 2020 2028	give off
+E58	Event:T58 
+T59	Event 2091 2094	sit
+E59	Event:T59 
+T60	Event 2113 2120	happens
+E60	Event:T60 
+T61	Event 2135 2138	use
+E61	Event:T61 
+T62	Event 2150 2155	light
+E62	Event:T62 
+T63	Event 2168 2172	burn
+E63	Event:T63 
+T64	Event 2200 2206	brings
+E64	Event:T64 
+T65	Event 2221 2226	break
+E65	Event:T65 
+T67	Event 2250 2257	release
+E67	Event:T67 
+T68	Event 2275 2280	break
+E68	Event:T68 
+T70	Event 2324 2335	burned down
+E70	Event:T70 
+T3	Event 1031 1037	plasma
+E3	Event:T3 
+T23	Event 300 304	like
+E23	Event:T23 

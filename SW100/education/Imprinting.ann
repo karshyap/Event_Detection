@@ -1,0 +1,124 @@
+T1	Event 21 25	used
+E1	Event:T1 
+T2	Event 56 64	describe
+E2	Event:T2 
+T4	Event 115 121	occurs
+E4	Event:T4 
+T5	Event 174 179	fixes
+E5	Event:T5 
+T8	Event 230 234	said
+E8	Event:T8 
+T9	Event 242 251	imprinted
+E9	Event:T9 
+T10	Event 275 282	process
+E10	Event:T10 
+T11	Event 286 296	imprinting
+E11	Event:T11 
+T12	Event 300 306	caused
+E12	Event:T12 
+T13	Event 313 322	inherited
+E13	Event:T13 
+T14	Event 357 367	imprinting
+E14	Event:T14 
+T15	Event 375 385	imprinting
+E15	Event:T15 
+T16	Event 411 415	born
+E16	Event:T16 
+T17	Event 459 463	keep
+E17	Event:T17 
+T18	Event 609 613	left
+E18	Event:T18 
+T19	Event 629 636	imprint
+E19	Event:T19 
+T20	Event 663 669;675 681	follow around
+E20	Event:T20 
+T21	Event 741 749	reported
+E21	Event:T21 
+T22	Event 835 847	rediscovered
+E22	Event:T22 
+T23	Event 892 899	studied
+E23	Event:T23 
+T25	Event 916 927	popularised
+E25	Event:T25 
+T26	Event 990 996	showed
+E26	Event:T26 
+T27	Event 1031 1038	imprint
+E27	Event:T27 
+T28	Event 1061 1067	moving
+E28	Event:T28 
+T29	Event 1082 1085	saw
+E29	Event:T29 
+T30	Event 1139 1147	hatching
+E30	Event:T30 
+T31	Event 1181 1188	imprint
+E31	Event:T31 
+T33	Event 1263 1268	shown
+E33	Event:T33 
+T34	Event 1290 1298	followed
+E34	Event:T34 
+T35	Event 1328 1337	imprinted
+E35	Event:T35 
+T36	Event 1356 1367	development
+E36	Event:T36 
+T37	Event 1381 1385	used
+E37	Event:T37 
+T39	Event 1402 1409	process
+E39	Event:T39 
+T40	Event 1426 1432	learns
+E40	Event:T40 
+T41	Event 1468 1475	process
+E41	Event:T41 
+T42	Event 1479 1489	recognised
+E42	Event:T42 
+T43	Event 1493 1502	beginning
+E43	Event:T43 
+T44	Event 1537 1543	starts
+E44	Event:T44 
+T45	Event 1547 1556	recognise
+E45	Event:T45 
+T46	Event 1590 1600	imprinting
+E46	Event:T46 
+T48	Event 1634 1638	used
+E48	Event:T48 
+T49	Event 1642 1648	create
+E49	Event:T49 
+T51	Event 1705 1713	contains
+E51	Event:T51 
+T52	Event 1725 1734	migratory
+E52	Event:T52 
+T54	Event 1762 1771	imprinted
+E54	Event:T54 
+T55	Event 1789 1793	wore
+E55	Event:T55 
+T56	Event 1858 1865	trained
+E56	Event:T56 
+T57	Event 1869 1872	fly
+E57	Event:T57 
+T59	Event 104 106	It
+E59	Event:T59 
+T60	Event 131 135	life
+E60	Event:T60 
+T6	Event 0 10	Imprinting
+E6	Event:T6 
+T7	Event 338 348	best-known
+E7	Event:T7 
+T61	Event 393 406	newly-hatched
+E61	Event:T61 
+T62	Event 440 443	Its
+E62	Event:T62 
+T63	Event 529 531	It
+E63	Event:T63 
+T64	Event 728 730	It
+E64	Event:T64 
+T65	Event 828 830	It
+E65	Event:T65 
+T24	Event 1001 1018	incubator-hatched
+E24	Event:T24 
+T32	Event 1389 1397	refer to
+E32	Event:T32 
+T47	Event 1813 1819	honked
+E47	Event:T47 
+T3	Event 83 101	automatic learning
+E3	Event:T3 
+T38	Event 1741 1750	in flight
+E38	Event:T38 

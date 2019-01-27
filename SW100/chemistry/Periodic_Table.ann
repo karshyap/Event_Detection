@@ -1,0 +1,60 @@
+T1	Event 104 110	placed
+E1	Event:T1 
+T4	Event 315 323	arranged
+E4	Event:T4 
+T5	Event 388 394	called
+E5	Event:T5 
+T6	Event 417 420	has
+E6	Event:T6 
+T7	Event 453 456	has
+E7	Event:T7 
+T8	Event 528 532	have
+E8	Event:T8 
+T9	Event 592 596	have
+E9	Event:T9 
+T10	Event 665 671	called
+E10	Event:T10 
+T11	Event 744 747	has
+E11	Event:T11 
+T13	Event 807 815	arranged
+E13	Event:T13 
+T14	Event 839 844	gives
+E14	Event:T14 
+T15	Event 884 890	behave
+E15	Event:T15 
+T16	Event 934 939	known
+E16	Event:T16 
+T17	Event 1002 1009	combine
+E17	Event:T17 
+T18	Event 1055 1059	used
+E18	Event:T18 
+T19	Event 1075 1082	observe
+E19	Event:T19 
+T21	Event 1258 1262	left
+E21	Event:T21 
+T22	Event 1501 1506	using
+E22	Event:T22 
+T23	Event 1549 1554	using
+E23	Event:T23 
+T24	Event 1613 1617	used
+E24	Event:T24 
+T25	Event 1766 1773	decided
+E25	Event:T25 
+T26	Event 1777 1780	use
+E26	Event:T26 
+T27	Event 1811 1816	meant
+E27	Event:T27 
+T28	Event 1820 1827	replace
+E28	Event:T28 
+T29	Event 1885 1893	invented
+E29	Event:T29 
+T30	Event 1898 1906	arranged
+E30	Event:T30 
+T2	Event 792 796	have
+E2	Event:T2 
+T12	Event 2002 2013	named after
+E12	Event:T12 
+T20	Event 1978 1984	honour
+E20	Event:T20 
+T31	Event 57 62	known
+E31	Event:T31 

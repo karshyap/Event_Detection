@@ -1,0 +1,128 @@
+T1	Event 15 21	called
+E1	Event:T1 
+T2	Event 97 104	illness
+E2	Event:T2 
+T3	Event 105 111	caused
+E3	Event:T3 
+T4	Event 135 141	called
+E4	Event:T4 
+T5	Event 173 178	lives
+E5	Event:T5 
+T6	Event 203 210	infects
+E6	Event:T6 
+T8	Event 244 250	called
+E8	Event:T8 
+T9	Event 269 276	infects
+E9	Event:T9 
+T10	Event 338 343	found
+E10	Event:T10 
+T11	Event 383 387;393 401	have symptoms
+E11	Event:T11 
+T15	Event 474 478	kill
+E15	Event:T15 
+T16	Event 549 555	called
+E16	Event:T16 
+T17	Event 569 575	killed
+E17	Event:T17 
+T18	Event 629 635	called
+E18	Event:T18 
+T19	Event 646 652	killed
+E19	Event:T19 
+T20	Event 691 697	called
+E20	Event:T20 
+T21	Event 718 724	killed
+E21	Event:T21 
+T22	Event 764 770	called
+E22	Event:T22 
+T23	Event 777 783	killed
+E23	Event:T23 
+T24	Event 829 833	kill
+E24	Event:T24 
+T26	Event 915 920	found
+E26	Event:T26 
+T27	Event 958 964	spread
+E27	Event:T27 
+T28	Event 1003 1009	killed
+E28	Event:T28 
+T30	Event 1056 1065	slaughter
+E30	Event:T30 
+T31	Event 1108 1113	limit
+E31	Event:T31 
+T32	Event 1118 1124	spread
+E32	Event:T32 
+T33	Event 1153 1160	disease
+E33	Event:T33 
+T34	Event 1172 1179	infects
+E34	Event:T34 
+T36	Event 1236 1244	evolving
+E36	Event:T36 
+T37	Event 1275 1281	create
+E37	Event:T37 
+T38	Event 1314 1318	kill
+E38	Event:T38 
+T39	Event 1377 1385	spending
+E39	Event:T39 
+T41	Event 1424 1431	problem
+E41	Event:T41 
+T42	Event 1433 1441	studying
+E42	Event:T42 
+T43	Event 1448 1456	creating
+E43	Event:T43 
+T45	Event 1467 1477	conducting
+E45	Event:T45 
+T49	Event 1567 1577	activities
+E49	Event:T49 
+T7	Event 1507 1518	stockpiling
+E7	Event:T7 
+T25	Event 0 8	Bird flu
+E25	Event:T25 
+T35	Event 22 37	avian influenza
+E35	Event:T35 
+T44	Event 39 48	avian flu
+E44	Event:T44 
+T48	Event 50 64	bird influenza
+E48	Event:T48 
+T50	Event 69 88	grippe of the birds
+E50	Event:T50 
+T52	Event 251 260	influenza
+E52	Event:T52 
+T55	Event 496 500	kill
+E55	Event:T55 
+T56	Event 539 547	bird flu
+E56	Event:T56 
+T57	Event 556 567	Spanish flu
+E57	Event:T57 
+T58	Event 636 645	Asian Flu
+E58	Event:T58 
+T59	Event 698 711	Hong Kong Flu
+E59	Event:T59 
+T60	Event 771 775	H5N1
+E60	Event:T60 
+T61	Event 898 900	it
+E61	Event:T61 
+T62	Event 996 998	It
+E62	Event:T62 
+T63	Event 1114 1117	its
+E63	Event:T63 
+T64	Event 1133 1135	it
+E64	Event:T64 
+T65	Event 1206 1210	H5N1
+E65	Event:T65 
+T67	Event 1442 1446	H5N1
+E67	Event:T67 
+T13	Event 383 387;411 429	have breathing problems
+E13	Event:T13 
+T47	Event 383 387;453 457	have cold
+E47	Event:T47 
+T12	Event 1040 1051	resulted in
+E12	Event:T12 
+T29	Event 1409 1418	deal with
+E29	Event:T29 
+T14	Event 1478 1505	pandemic practice exercises
+E14	Event:T14 
+T40	Event 1192 1199	concern
+E40	Event:T40 
+T46	Event 1219 1221	it
+E46	Event:T46 
+T51	Event 1290 1302	flu pandemic
+E51	Event:T51 

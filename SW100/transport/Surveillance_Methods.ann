@@ -1,0 +1,94 @@
+T1	Event 0 12	Surveillance
+E1	Event:T1 
+T3	Event 19 27	watching
+E3	Event:T3 
+T4	Event 89 93	used
+E4	Event:T4 
+T8	Event 125 131	listen
+E8	Event:T8 
+T9	Event 148 153	calls
+E9	Event:T9 
+T10	Event 158 165	putting
+E10	Event:T10 
+T11	Event 252 257	built
+E11	Event:T11 
+T12	Event 275 283	designed
+E12	Event:T12 
+T14	Event 300 314	communications
+E14	Event:T14 
+T16	Event 383 386	has
+E16	Event:T16 
+T18	Event 449 456	listens
+E18	Event:T18 
+T21	Event 507 520	Eavesdropping
+E21	Event:T21 
+T22	Event 529 541	surveillance
+E22	Event:T22 
+T23	Event 566 574	planning
+E23	Event:T23 
+T25	Event 585 594	listening
+E25	Event:T25 
+T27	Event 628 632	hear
+E27	Event:T27 
+T28	Event 653 656	act
+E28	Event:T28 
+T29	Event 677 688	overhearing
+E29	Event:T29 
+T30	Event 702 709	talking
+E30	Event:T30 
+T31	Event 711 723	Surveillance
+E31	Event:T31 
+T32	Event 733 745	Surveillance
+E32	Event:T32 
+T35	Event 863 872	gathering
+E35	Event:T35 
+T38	Event 928 940	surveillance
+E38	Event:T38 
+T39	Event 955 961	called
+E39	Event:T39 
+T41	Event 978 990	Surveillance
+E41	Event:T41 
+T42	Event 991 999	collects
+E42	Event:T42 
+T46	Event 1103 1114	observation
+E46	Event:T46 
+T48	Event 1222 1233	transmitted
+E48	Event:T48 
+T53	Event 1289 1301	Surveillance
+E53	Event:T53 
+T58	Event 1441 1453;1457 1461	surveillance done
+E58	Event:T58 
+T61	Event 1521 1527	called
+E61	Event:T61 
+T70	Event 1693 1698	watch
+E70	Event:T70 
+T2	Event 770 778	watching
+E2	Event:T2 
+T5	Event 1191 1203	interception
+E5	Event:T5 
+T15	Event 1401 1413	interception
+E15	Event:T15 
+T13	Event 287 296	listen in
+E13	Event:T13 
+T20	Event 576 578	It
+E20	Event:T20 
+T26	Event 634 636	It
+E26	Event:T26 
+T37	Event 1086 1090	This
+E37	Event:T37 
+T44	Event 1628 1641	watching over
+E44	Event:T44 
+T50	Event 763 769	hidden
+E50	Event:T50 
+T6	Event 104 121	telephone tapping
+E6	Event:T6 
+T7	Event 835 851	crime prevention
+E7	Event:T7 
+T17	Event 1275 1286	phone calls
+E17	Event:T17 
+T19	Event 50 52	It
+E19	Event:T19 
+T24	Event 642 652	deliberate
+E24	Event:T24 
+T33	Event 1306 1313	include
+E33	Event:T33 

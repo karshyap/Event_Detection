@@ -1,0 +1,124 @@
+T2	Event 30 36	called
+E2	Event:T2 
+T3	Event 98 106	designed
+E3	Event:T3 
+T7	Event 200 208	changing
+E7	Event:T7 
+T10	Event 267 273	called
+E10	Event:T10 
+T13	Event 331 342	Development
+E13	Event:T13 
+T19	Event 476 482	design
+E19	Event:T19 
+T20	Event 511 515	meet
+E20	Event:T20 
+T23	Event 602 609	support
+E23	Event:T23 
+T24	Event 618 629	development
+E24	Event:T24 
+T25	Event 652 659	support
+E25	Event:T25 
+T26	Event 664 669	found
+E26	Event:T26 
+T27	Event 693 697	flew
+E27	Event:T27 
+T28	Event 715 722;728 732	changes made
+E28	Event:T28 
+T30	Event 757 761	flew
+E30	Event:T30 
+T31	Event 814 819	built
+E31	Event:T31 
+T32	Event 885 897	manufactured
+E32	Event:T32 
+T33	Event 966 971	owned
+E33	Event:T33 
+T34	Event 1067 1071	used
+E34	Event:T34 
+T36	Event 1191 1195	used
+E36	Event:T36 
+T37	Event 1288 1297	delivered
+E37	Event:T37 
+T38	Event 1299 1310	Manufacture
+E38	Event:T38 
+T39	Event 1327 1332	ended
+E39	Event:T39 
+T40	Event 1411 1420	delivered
+E40	Event:T40 
+T41	Event 1444 1449	ended
+E41	Event:T41 
+T44	Event 1501 1505	used
+E44	Event:T44 
+T46	Event 1592 1595	use
+E46	Event:T46 
+T47	Event 1625 1633	designed
+E47	Event:T47 
+T49	Event 1653 1660	landing
+E49	Event:T49 
+T50	Event 1705 1708	use
+E50	Event:T50 
+T52	Event 1766 1776	introduced
+E52	Event:T52 
+T56	Event 1928 1932	used
+E56	Event:T56 
+T58	Event 1974 1978	flew
+E58	Event:T58 
+T60	Event 2064 2068	lost
+E60	Event:T60 
+T61	Event 2081 2085	lost
+E61	Event:T61 
+T63	Event 2128 2135	damaged
+E63	Event:T63 
+T64	Event 2139 2148	accidents
+E64	Event:T64 
+T66	Event 2182 2186;2216 2230	made less effective
+E66	Event:T66 
+T67	Event 2241 2246	hoped
+E67	Event:T67 
+T69	Event 2281 2286	carry
+E69	Event:T69 
+T71	Event 2316 2323	mission
+E71	Event:T71 
+T72	Event 2332 2337	carry
+E72	Event:T72 
+T74	Event 2370 2375	carry
+E74	Event:T74 
+T77	Event 54 70	British-designed
+E77	Event:T77 
+T6	Event 189 196	do this
+E6	Event:T6 
+T8	Event 274 280	V/STOL
+E8	Event:T8 
+T12	Event 294 328	Vertical/Short Takeoff and Landing
+E12	Event:T12 
+T17	Event 869 880	redeveloped
+E17	Event:T17 
+T18	Event 1351 1365	remanufactured
+E18	Event:T18 
+T21	Event 1439 1443	This
+E21	Event:T21 
+T29	Event 1638 1648	taking off
+E29	Event:T29 
+T43	Event 1950 1963	Falklands War
+E43	Event:T43 
+T45	Event 2005 2014	shot down
+E45	Event:T45 
+T48	Event 2101 2110	shot down
+E48	Event:T48 
+T55	Event 2387 2400	take pictures
+E55	Event:T55 
+T1	Event 161 169	take off
+E1	Event:T1 
+T5	Event 380 392	came up with
+E5	Event:T5 
+T9	Event 461 473	came up with
+E9	Event:T9 
+T11	Event 1136 1144	modified
+E11	Event:T11 
+T14	Event 1828 1835	updated
+E14	Event:T14 
+T15	Event 1882 1885	has
+E15	Event:T15 
+T16	Event 1996 2003	sorties
+E16	Event:T16 
+T4	Event 140 150	well known
+E4	Event:T4 

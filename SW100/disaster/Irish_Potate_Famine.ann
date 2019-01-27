@@ -1,0 +1,102 @@
+T4	Event 101 107	famine
+E4	Event:T4 
+T5	Event 173 179	called
+E5	Event:T5 
+T7	Event 209 215	famine
+E7	Event:T7 
+T8	Event 220 226	caused
+E8	Event:T8 
+T13	Event 479 487	believed
+E13	Event:T13 
+T14	Event 542 546	died
+E14	Event:T14 
+T16	Event 605 612	disease
+E16	Event:T16 
+T18	Event 661 667	famine
+E18	Event:T18 
+T19	Event 685 689	left
+E19	Event:T19 
+T20	Event 698 703	moved
+E20	Event:T20 
+T23	Event 849 857	affected
+E23	Event:T23 
+T24	Event 871 880	continued
+E24	Event:T24 
+T25	Event 884 891	produce
+E25	Event:T25 
+T26	Event 961 965;975 981	made profit
+E26	Event:T26 
+T28	Event 985 992	selling
+E28	Event:T28 
+T35	Event 1188 1194	became
+E35	Event:T35 
+T39	Event 1309 1315	caused
+E39	Event:T39 
+T40	Event 1320 1329	emergence
+E40	Event:T40 
+T44	Event 1494 1498	feed
+E44	Event:T44 
+T45	Event 1509 1517	Starting
+E45	Event:T45 
+T49	Event 1644 1649	union
+E49	Event:T49 
+T50	Event 1671 1679	grappled
+E50	Event:T50 
+T51	Event 1689 1697	problems
+E51	Event:T51 
+T52	Event 1701 1710	governing
+E52	Event:T52 
+T53	Event 1738 1748	calculated
+E53	Event:T53 
+T56	Event 1835 1844	enquiring
+E56	Event:T56 
+T58	Event 1906 1916	prophesied
+E58	Event:T58 
+T59	Event 1917 1925	disaster
+E59	Event:T59 
+T10	Event 2034 2044	unemployed
+E10	Event:T10 
+T1	Event 4 16	Great Famine
+E1	Event:T1 
+T2	Event 24 36	Great Hunger
+E2	Event:T2 
+T11	Event 48 57	Gorta Mor
+E11	Event:T11 
+T12	Event 64 74	Drochshaol
+E12	Event:T12 
+T3	Event 83 93	name given
+E3	Event:T3 
+T15	Event 159 161	it
+E15	Event:T15 
+T6	Event 184 203	Irish Potato Famine
+E6	Event:T6 
+T29	Event 595 601	hunger
+E29	Event:T29 
+T30	Event 807 817	starvation
+E30	Event:T30 
+T27	Event 1061 1074	become common
+E27	Event:T27 
+T31	Event 1246 1250	lack
+E31	Event:T31 
+T33	Event 1955 1965	starvation
+E33	Event:T33 
+T37	Event 2065 2074	appalling
+E37	Event:T37 
+T9	Event 288 297	destroyed
+E9	Event:T9 
+T42	Event 350 356	effect
+E42	Event:T42 
+T17	Event 630 636	became
+E17	Event:T17 
+T22	Event 787 798	referred to
+E22	Event:T22 
+T34	Event 1362 1365;1378 1385	had effects
+E34	Event:T34 
+T36	Event 1553 1561	governed
+E36	Event:T36 
+T32	Event 1990 2000	increasing
+E32	Event:T32 
+T38	Event 2095 2101	living
+E38	Event:T38 
+T21	Event 2115 2118	low
+E21	Event:T21 

@@ -1,0 +1,98 @@
+T1	Event 3 13	earthquake
+E1	Event:T1 
+T2	Event 18 24	quakes
+E2	Event:T2 
+T3	Event 26 33	tremors
+E3	Event:T3 
+T4	Event 38 45	shaking
+E4	Event:T4 
+T5	Event 46 52	caused
+E5	Event:T5 
+T7	Event 125 136	Earthquakes
+E7	Event:T7 
+T8	Event 170 176	repeat
+E8	Event:T8 
+T11	Event 255 262	creates
+E11	Event:T11 
+T13	Event 288 293	waves
+E13	Event:T13 
+T14	Event 309 315	travel
+E14	Event:T14 
+T16	Event 348 359	earthquakes
+E16	Event:T16 
+T17	Event 363 369	called
+E17	Event:T17 
+T18	Event 393 400	studies
+E18	Event:T18 
+T19	Event 433 444	earthquakes
+E19	Event:T19 
+T21	Event 484 495	earthquakes
+E21	Event:T21 
+T22	Event 506 517	earthquakes
+E22	Event:T22 
+T23	Event 525 536	earthquakes
+E23	Event:T23 
+T26	Event 565 570	cause
+E26	Event:T26 
+T27	Event 571 576	death
+E27	Event:T27 
+T28	Event 581 587	injury
+E28	Event:T28 
+T29	Event 589 600	Earthquakes
+E29	Event:T29 
+T30	Event 605 613	measured
+E30	Event:T30 
+T31	Event 614 619	using
+E31	Event:T31 
+T32	Event 620 632	observations
+E32	Event:T32 
+T33	Event 672 682	earthquake
+E33	Event:T33 
+T34	Event 705 712	shaking
+E34	Event:T34 
+T35	Event 725 733	reported
+E35	Event:T35 
+T36	Event 830 836	causes
+E36	Event:T36 
+T37	Event 837 843	damage
+E37	Event:T37 
+T38	Event 865 875	earthquake
+E38	Event:T38 
+T39	Event 896 901	cause
+E39	Event:T39 
+T40	Event 904 911	tsunami
+E40	Event:T40 
+T41	Event 922 927	cause
+E41	Event:T41 
+T42	Event 941 946	death
+E42	Event:T42 
+T43	Event 951 962	destruction
+E43	Event:T43 
+T44	Event 970 980	earthquake
+E44	Event:T44 
+T45	Event 1004 1010	happen
+E45	Event:T45 
+T46	Event 1017 1028	Earthquakes
+E46	Event:T46 
+T9	Event 94 98	They
+E9	Event:T9 
+T20	Event 178 182	They
+E20	Event:T20 
+T25	Event 250 254	This
+E25	Event:T25 
+T24	Event 541 550	take down
+E24	Event:T24 
+T47	Event 913 917	This
+E47	Event:T47 
+T48	Event 989 999	Landslides
+E48	Event:T48 
+T49	Event 1053 1063	rock cycle
+E49	Event:T49 
+T51	Event 792 802	noticeable
+E51	Event:T51 
+T6	Event 63 71	movement
+E6	Event:T6 
+T10	Event 210 217	release
+E10	Event:T10 
+T12	Event 263 276	seismic waves
+E12	Event:T12 

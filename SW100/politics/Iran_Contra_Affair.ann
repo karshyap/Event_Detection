@@ -1,0 +1,80 @@
+T1	Event 29 36	scandal
+E1	Event:T1 
+T2	Event 42 50	happened
+E2	Event:T2 
+T3	Event 87 94	scandal
+E3	Event:T3 
+T4	Event 95 103	involved
+E4	Event:T4 
+T5	Event 133 140	selling
+E5	Event:T5 
+T6	Event 160 168	exchange
+E6	Event:T6 
+T7	Event 189 193	fund
+E7	Event:T7 
+T8	Event 221 229	happened
+E8	Event:T8 
+T9	Event 299 306	shipped
+E9	Event:T9 
+T10	Event 327 335	released
+E10	Event:T10 
+T11	Event 371 379	replaced
+E11	Event:T11 
+T12	Event 439 445	called
+E12	Event:T12 
+T13	Event 486 491	tried
+E13	Event:T13 
+T14	Event 527 531;536 541	took blame
+E14	Event:T14 
+T15	Event 571 576;589 599	found not guilty
+E15	Event:T15 
+T16	Event 635 645	apologized
+E16	Event:T16 
+T17	Event 673 677	said
+E17	Event:T17 
+T18	Event 693 698	fault
+E18	Event:T18 
+T19	Event 724 732	pardoned
+E19	Event:T19 
+T20	Event 748 756	involved
+E20	Event:T20 
+T22	Event 881 885	knew
+E22	Event:T22 
+T23	Event 896 903	scandal
+E23	Event:T23 
+T24	Event 945 954	announced
+E24	Event:T24 
+T25	Event 959 967	creation
+E25	Event:T25 
+T28	Event 1041 1050	appointed
+E28	Event:T28 
+T29	Event 1175 1180	serve
+E29	Event:T29 
+T31	Event 1213 1219	called
+E31	Event:T31 
+T33	Event 1272 1276	said
+E33	Event:T33 
+T34	Event 1307 1310	say
+E34	Event:T34 
+T37	Event 4 22	Iran-Contra affair
+E37	Event:T37 
+T38	Event 218 220	It
+E38	Event:T38 
+T39	Event 446 448	it
+E39	Event:T39 
+T40	Event 452 466	hostage Bazaar
+E40	Event:T40 
+T41	Event 509 515	affair
+E41	Event:T41 
+T42	Event 678 680	it
+E42	Event:T42 
+T43	Event 764 770	affair
+E43	Event:T43 
+T26	Event 997 1006	look into
+E26	Event:T26 
+T27	Event 1011 1017	matter
+E27	Event:T27 
+T32	Event 1323 1346	had anything to do with
+E32	Event:T32 
+T35	Event 1351 1357	affair
+E35	Event:T35 

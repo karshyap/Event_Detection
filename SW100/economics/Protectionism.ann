@@ -1,0 +1,98 @@
+T3	Event 64 68;72 78	make easier
+E3	Event:T3 
+T4	Event 116 120	sell
+E4	Event:T4 
+T7	Event 188 191	get
+E7	Event:T7 
+T9	Event 226 230	stop
+E9	Event:T9 
+T10	Event 252 255	buy
+E10	Event:T10 
+T12	Event 398 405	selling
+E12	Event:T12 
+T13	Event 474 477	buy
+E13	Event:T13 
+T14	Event 567 570;579 584	get money
+E14	Event:T14 
+T15	Event 656 660;666 671	make money
+E15	Event:T15 
+T16	Event 702 706	sell
+E16	Event:T16 
+T19	Event 818 821	buy
+E19	Event:T19 
+T21	Event 859 863	sell
+E21	Event:T21 
+T22	Event 911 918	believe
+E22	Event:T22 
+T23	Event 937 944	support
+E23	Event:T23 
+T24	Event 969 974	trade
+E24	Event:T24 
+T25	Event 975 984	involving
+E25	Event:T25 
+T26	Event 1031 1034;1044 1049	get money
+E26	Event:T26 
+T28	Event 1084 1090	raises
+E28	Event:T28 
+T29	Event 1146 1152	raises
+E29	Event:T29 
+T30	Event 1186 1194	get even
+E30	Event:T30 
+T31	Event 1204 1210	called
+E31	Event:T31 
+T34	Event 1312 1316;1343 1346	made law
+E34	Event:T34 
+T35	Event 1359 1365	raised
+E35	Event:T35 
+T36	Event 1398 1406	response
+E36	Event:T36 
+T37	Event 1415 1421	raised
+E37	Event:T37 
+T41	Event 1518 1525	believe
+E41	Event:T41 
+T42	Event 1543 1547;1569 1574	made worse
+E42	Event:T42 
+T43	Event 1552 1568	Great Depression
+E43	Event:T43 
+T44	Event 1633 1640	support
+E44	Event:T44 
+T45	Event 1704 1709;1713 1719	makes easier
+E45	Event:T45 
+T46	Event 1739 1744	trade
+E46	Event:T46 
+T47	Event 1641 1651	free trade
+E47	Event:T47 
+T1	Event 35 38	has
+E1	Event:T1 
+T2	Event 124 130;165 174	making expensive
+E2	Event:T2 
+T5	Event 124 130;178 184	making harder
+E5	Event:T5 
+T6	Event 231 238	imports
+E6	Event:T6 
+T8	Event 774 784	lose money
+E8	Event:T8 
+T49	Event 1196 1200	This
+E49	Event:T49 
+T32	Event 1213 1222	trade war
+E32	Event:T32 
+T33	Event 1225 1232	Tariffs
+E33	Event:T33 
+T39	Event 1476 1485	trade war
+E39	Event:T39 
+T38	Event 1462 1473	resulted in
+E38	Event:T38 
+T11	Event 0 13	Protectionism
+E11	Event:T11 
+T17	Event 206 219	protectionism
+E17	Event:T17 
+T18	Event 311 323	Mercantilism
+E18	Event:T18 
+T20	Event 339 352	protectionism
+E20	Event:T20 
+T27	Event 603 616	protectionism
+E27	Event:T27 
+T40	Event 922 935	protectionism
+E40	Event:T40 
+T48	Event 1669 1682	protectionism
+E48	Event:T48 

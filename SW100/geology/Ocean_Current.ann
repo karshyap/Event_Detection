@@ -1,0 +1,50 @@
+T1	Event 33 41	movement
+E1	Event:T1 
+T2	Event 103 110	created
+E2	Event:T2 
+T7	Event 270 274	flow
+E7	Event:T7 
+T8	Event 306 311	found
+E8	Event:T8 
+T10	Event 452 457	found
+E10	Event:T10 
+T13	Event 547 553	travel
+E13	Event:T13 
+T14	Event 597 603	travel
+E14	Event:T14 
+T15	Event 658 663	found
+E15	Event:T15 
+T11	Event 186 195	current's
+E11	Event:T11 
+T12	Event 261 265	They
+E12	Event:T12 
+T18	Event 496 504	Currents
+E18	Event:T18 
+T19	Event 542 546	They
+E19	Event:T19 
+T20	Event 592 596	They
+E20	Event:T20 
+T21	Event 649 653	They
+E21	Event:T21 
+T22	Event 731 739	currents
+E22	Event:T22 
+T23	Event 395 406	Gulf Stream
+E23	Event:T23 
+T6	Event 3 16	ocean current
+E6	Event:T6 
+T9	Event 84 98	Ocean currents
+E9	Event:T9 
+T16	Event 374 387	ocean current
+E16	Event:T16 
+T17	Event 430 444	Ocean currents
+E17	Event:T17 
+T5	Event 526 535	depend on
+E5	Event:T5 
+T4	Event 740 749	depend on
+E4	Event:T4 
+T3	Event 216 225	depend on
+E3	Event:T3 
+T24	Event 114 118	wind
+E24	Event:T24 
+T25	Event 536 540	wind
+E25	Event:T25 

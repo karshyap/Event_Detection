@@ -1,0 +1,90 @@
+T1	Event 72 80	required
+E1	Event:T1 
+T2	Event 37 41;84 87	levy pay
+E2	Event:T2 
+T3	Event 100 107;93 96	imposed tax
+E3	Event:T3 
+T4	Event 115 124	governing
+E4	Event:T4 
+T5	Event 193 196;204 208	tax paid
+E5	Event:T5 
+T6	Event 316 319	tax
+E6	Event:T6 
+T8	Event 580 586	called
+E8	Event:T8 
+T10	Event 644 656	improvements
+E10	Event:T10 
+T11	Event 702 710	requires
+E11	Event:T11 
+T12	Event 718 726	performs
+E12	Event:T12 
+T13	Event 789 797	assessed
+E13	Event:T13 
+T15	Event 846 850	vary
+E15	Event:T15 
+T16	Event 909 914	taxed
+E16	Event:T16 
+T18	Event 928 942	classification
+E18	Event:T18 
+T19	Event 944 958	Classification
+E19	Event:T19 
+T21	Event 1006 1009	use
+E21	Event:T21 
+T23	Event 1047 1052	taxed
+E23	Event:T23 
+T26	Event 1264 1272	occupied
+E26	Event:T26 
+T27	Event 1324 1332	confused
+E27	Event:T27 
+T29	Event 1471 1476	taxed
+E29	Event:T29 
+T31	Event 1531 1542	enhancement
+E31	Event:T31 
+T32	Event 1543 1549	called
+E32	Event:T32 
+T33	Event 1617 1622	given
+E33	Event:T33 
+T34	Event 1655 1664	expressed
+E34	Event:T34 
+T36	Event 1757 1762	known
+E36	Event:T36 
+T38	Event 1843 1852	calculate
+E38	Event:T38 
+T39	Event 1890 1898	multiply
+E39	Event:T39 
+T40	Event 1903 1911	assessed
+E40	Event:T40 
+T41	Event 1967 1973	divide
+E41	Event:T41 
+T42	Event 2016 2024	assessed
+E42	Event:T42 
+T43	Event 2042 2049	located
+E43	Event:T43 
+T7	Event 395 403	based on
+E7	Event:T7 
+T9	Event 730 739	appraisal
+E9	Event:T9 
+T14	Event 798 806	based on
+E14	Event:T14 
+T51	Event 841 845	used
+E51	Event:T51 
+T17	Event 915 923	based on
+E17	Event:T17 
+T20	Event 989 997	based on
+E20	Event:T20 
+T24	Event 966 974	grouping
+E24	Event:T24 
+T22	Event 1239 1245	vacant
+E22	Event:T22 
+T53	Event 1384 1392	taxation
+E53	Event:T53 
+T28	Event 1415 1426	relies upon
+E28	Event:T28 
+T55	Event 1497 1507	assessment
+E55	Event:T55 
+T30	Event 1509 1520	relies upon
+E30	Event:T30 
+T44	Event 2103 2107;2123 2127	have bill
+E44	Event:T44 
+T25	Event 1570 1583	justification
+E25	Event:T25 

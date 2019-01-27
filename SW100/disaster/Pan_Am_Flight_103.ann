@@ -1,0 +1,138 @@
+T2	Event 61 67	flight
+E2	Event:T2 
+T3	Event 73 77	flew
+E3	Event:T3 
+T4	Event 169 175	flying
+E4	Event:T4 
+T5	Event 191 200	destroyed
+E5	Event:T5 
+T7	Event 216 225	explosion
+E7	Event:T7 
+T8	Event 226 232	killed
+E8	Event:T8 
+T9	Event 260 268	exploded
+E9	Event:T9 
+T10	Event 349 355	killed
+E10	Event:T10 
+T11	Event 363 370	falling
+E11	Event:T11 
+T12	Event 382 387	event
+E12	Event:T12 
+T13	Event 396 401	known
+E13	Event:T13 
+T15	Event 462 467	named
+E15	Event:T15 
+T17	Event 498 507	explosion
+E17	Event:T17 
+T18	Event 508 514	killed
+E18	Event:T18 
+T19	Event 592 598	killed
+E19	Event:T19 
+T20	Event 627 631	fell
+E20	Event:T20 
+T21	Event 648 655	crashed
+E21	Event:T21 
+T22	Event 696 702	killed
+E22	Event:T22 
+T23	Event 710 718	disaster
+E23	Event:T23 
+T24	Event 748 761	investigation
+E24	Event:T24 
+T25	Event 767 773	attack
+E25	Event:T25 
+T26	Event 778 784	blamed
+E26	Event:T26 
+T27	Event 806 813	working
+E27	Event:T27 
+T28	Event 879 888	convicted
+E28	Event:T28 
+T30	Event 908 914	attack
+E30	Event:T30 
+T31	Event 926 931	freed
+E31	Event:T31 
+T34	Event 965 969	died
+E34	Event:T34 
+T35	Event 1035 1039	said
+E35	Event:T35 
+T36	Event 1048 1055	ordered
+E36	Event:T36 
+T37	Event 1060 1066	attack
+E37	Event:T37 
+T38	Event 1077 1085	involved
+E38	Event:T38 
+T39	Event 1105 1112	crashed
+E39	Event:T39 
+T40	Event 1135 1145	registered
+E40	Event:T40 
+T41	Event 1157 1162	named
+E41	Event:T41 
+T43	Event 1217 1223	Flight
+E43	Event:T43 
+T45	Event 1240 1250	originated
+E45	Event:T45 
+T46	Event 1273 1281	operated
+E46	Event:T46 
+T48	Event 1344 1351	changed
+E48	Event:T48 
+T52	Event 1570 1575	Crash
+E52	Event:T52 
+T54	Event 1600 1611	disappeared
+E54	Event:T54 
+T58	Event 1666 1674	returned
+E58	Event:T58 
+T59	Event 1730 1738	reported
+E59	Event:T59 
+T60	Event 1753 1756	see
+E60	Event:T60 
+T61	Event 1764 1768	fire
+E61	Event:T61 
+T62	Event 1788 1797	explosion
+E62	Event:T62 
+T63	Event 1798 1805;1824 1828	punched hole
+E63	Event:T63 
+T66	Event 1869 1878	descended
+E66	Event:T66 
+T68	Event 1940 1948	attached
+E68	Event:T68 
+T69	Event 1962 1969	landing
+E69	Event:T69 
+T71	Event 2015 2024	contained
+E71	Event:T71 
+T72	Event 2026 2033	ignited
+E72	Event:T72 
+T74	Event 2058 2067	destroyed
+E74	Event:T74 
+T75	Event 2087 2091	tore
+E75	Event:T75 
+T76	Event 2139 2146	killing
+E76	Event:T76 
+T6	Event 1683 1688	echos
+E6	Event:T6 
+T14	Event 409 426	Lockerbie bombing
+E14	Event:T14 
+T16	Event 1382 1393	pushed back
+E16	Event:T16 
+T33	Event 1425 1433	took off
+E33	Event:T33 
+T42	Event 1464 1472	took off
+E42	Event:T42 
+T49	Event 1893 1901	broke up
+E49	Event:T49 
+T50	Event 2039 2048	resulting
+E50	Event:T50 
+T1	Event 7 13	Flight
+E1	Event:T1 
+T44	Event 1225 1231	Flight
+E44	Event:T44 
+T47	Event 1329 1335	flight
+E47	Event:T47 
+T51	Event 1589 1595	Flight
+E51	Event:T51 
+T53	Event 942 948	deadly
+E53	Event:T53 
+T56	Event 2049 2057	fireball
+E56	Event:T56 
+T29	Event 938 941;949 955	had cancer
+E29	Event:T29 
+T32	Event 892 898	murder
+E32	Event:T32 

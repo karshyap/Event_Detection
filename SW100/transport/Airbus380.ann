@@ -1,0 +1,110 @@
+T1	Event 22 28	called
+E1	Event:T1 
+T2	Event 90 102	manufactured
+E2	Event:T2 
+T3	Event 337 342	carry
+E3	Event:T3 
+T4	Event 380 387	carries
+E4	Event:T4 
+T5	Event 404 410	weighs
+E5	Event:T5 
+T6	Event 431 434	has
+E6	Event:T6 
+T7	Event 561 565	make
+E7	Event:T7 
+T9	Event 585 591	Orders
+E9	Event:T9 
+T10	Event 637 644	ordered
+E10	Event:T10 
+T11	Event 674 681	ordered
+E11	Event:T11 
+T12	Event 748 754	called
+E12	Event:T12 
+T13	Event 765 770	gives
+E13	Event:T13 
+T14	Event 874 878	have
+E14	Event:T14 
+T15	Event 921 928	ordered
+E15	Event:T15 
+T19	Event 1023 1027	flew
+E19	Event:T19 
+T20	Event 1095 1099	have
+E20	Event:T20 
+T21	Event 1123 1130	waiting
+E21	Event:T21 
+T22	Event 1169 1176	ordered
+E22	Event:T22 
+T23	Event 1224 1233	operating
+E23	Event:T23 
+T27	Event 1618 1622	make
+E27	Event:T27 
+T28	Event 1651 1658	carried
+E28	Event:T28 
+T30	Event 1778 1782	have
+E30	Event:T30 
+T31	Event 1838 1845	ordered
+E31	Event:T31 
+T32	Event 1897 1901	took
+E32	Event:T32 
+T33	Event 1914 1918	make
+E33	Event:T33 
+T34	Event 1929 1935	orders
+E34	Event:T34 
+T35	Event 1960 1969	cancelled
+E35	Event:T35 
+T36	Event 1994 1997;2002 2008	got orders
+E36	Event:T36 
+T37	Event 2037 2044	decided
+E37	Event:T37 
+T38	Event 2052 2056	make
+E38	Event:T38 
+T39	Event 2104 2110	making
+E39	Event:T39 
+T40	Event 2147 2156	Incidents
+E40	Event:T40 
+T41	Event 2174 2177;2180 2188	had incident
+E41	Event:T41 
+T42	Event 2198 2204	deaths
+E42	Event:T42 
+T43	Event 2248 2254	flying
+E43	Event:T43 
+T44	Event 2310 2316	failed
+E44	Event:T44 
+T45	Event 2318 2325	causing
+E45	Event:T45 
+T47	Event 2356 2363	forcing
+E47	Event:T47 
+T48	Event 2370 2376	return
+E48	Event:T48 
+T49	Event 2402 2409	injured
+E49	Event:T49 
+T50	Event 2440 2444	fell
+E50	Event:T50 
+T51	Event 2485 2499	Investigations
+E51	Event:T51 
+T52	Event 2500 2505	found
+E52	Event:T52 
+T53	Event 2544 2550	leaked
+E53	Event:T53 
+T54	Event 2556 2563	causing
+E54	Event:T54 
+T55	Event 2567 2576	explosion
+E55	Event:T55 
+T56	Event 2610 2618	affected
+E56	Event:T56 
+T57	Event 2647 2654	changed
+E57	Event:T57 
+T8	Event 800 804	rent
+E8	Event:T8 
+T16	Event 956 960	have
+E16	Event:T16 
+T24	Event 1254 1258	have
+E24	Event:T24 
+T25	Event 1320 1324	have
+E25	Event:T25 
+T17	Event 984 997	took delivery
+E17	Event:T17 
+T18	Event 2095 2100	focus
+E18	Event:T18 
+T46	Event 2331 2337	damage
+E46	Event:T46 

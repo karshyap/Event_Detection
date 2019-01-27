@@ -1,0 +1,80 @@
+T2	Event 30 38	happened
+E2	Event:T2 
+T4	Event 79 87	collided
+E4	Event:T4 
+T5	Event 159 164	crash
+E5	Event:T5 
+T6	Event 165 171	killed
+E6	Event:T6 
+T7	Event 183 190	onboard
+E7	Event:T7 
+T8	Event 199 206	flights
+E8	Event:T8 
+T9	Event 212 217	crash
+E9	Event:T9 
+T10	Event 222 228	caused
+E10	Event:T10 
+T13	Event 284 290	wanted
+E13	Event:T13 
+T14	Event 327 333	return
+E14	Event:T14 
+T15	Event 353 357	made
+E15	Event:T15 
+T16	Event 362 375	misunderstand
+E16	Event:T16 
+T17	Event 388 395	cleared
+E17	Event:T17 
+T18	Event 443 448	began
+E18	Event:T18 
+T20	Event 473 481	crashing
+E20	Event:T20 
+T24	Event 603 607	know
+E24	Event:T24 
+T28	Event 671 682	surrounding
+E28	Event:T28 
+T29	Event 712 719	reduced
+E29	Event:T29 
+T31	Event 765 768	see
+E31	Event:T31 
+T32	Event 814 817	see
+E32	Event:T32 
+T33	Event 884 887	saw
+E33	Event:T33 
+T35	Event 944 953	prevented
+E35	Event:T35 
+T36	Event 958 963	crash
+E36	Event:T36 
+T37	Event 1010 1014	seen
+E37	Event:T37 
+T39	Event 1093 1098	crash
+E39	Event:T39 
+T11	Event 294 301	takeoff
+E11	Event:T11 
+T12	Event 425 432	takeoff
+E12	Event:T12 
+T1	Event 4 29	Tenerife airport disaster
+E1	Event:T1 
+T3	Event 348 352	This
+E3	Event:T3 
+T19	Event 452 460	take off
+E19	Event:T19 
+T21	Event 555 559	have
+E21	Event:T21 
+T23	Event 621 627	flight
+E23	Event:T23 
+T25	Event 633 642	aking off
+E25	Event:T25 
+T26	Event 667 670	fog
+E26	Event:T26 
+T27	Event 700 711	bad weather
+E27	Event:T27 
+T30	Event 863 866	fog
+E30	Event:T30 
+T34	Event 981 984	fog
+E34	Event:T34 
+T38	Event 1065 1074	taken off
+E38	Event:T38 
+T40	Event 1076 1078	It
+E40	Event:T40 
+T22	Event 498 504	flight
+E22	Event:T22 

@@ -1,0 +1,116 @@
+T1	Event 29 40	established
+E1	Event:T1 
+T2	Event 57 63	called
+E2	Event:T2 
+T3	Event 173 181	research
+E3	Event:T3 
+T4	Event 186 196	production
+E4	Event:T4 
+T6	Event 247 254	oversaw
+E6	Event:T6 
+T7	Event 259 269	production
+E7	Event:T7 
+T10	Event 371 376	spent
+E10	Event:T10 
+T11	Event 397 408	researching
+E11	Event:T11 
+T12	Event 410 420	developing
+E12	Event:T12 
+T15	Event 465 471	called
+E15	Event:T15 
+T17	Event 510 522	developments
+E17	Event:T17 
+T18	Event 554 563	premiered
+E18	Event:T18 
+T19	Event 639 643	said
+E19	Event:T19 
+T21	Event 714 722	designed
+E21	Event:T21 
+T24	Event 833 846	collaborating
+E24	Event:T24 
+T26	Event 871 880	described
+E26	Event:T26 
+T27	Event 885 898	collaboration
+E27	Event:T27 
+T30	Event 927 935	Research
+E30	Event:T30 
+T31	Event 955 963	included
+E31	Event:T31 
+T32	Event 964 969	using
+E32	Event:T32 
+T33	Event 990 998	research
+E33	Event:T33 
+T34	Event 1012 1018	inform
+E34	Event:T34 
+T35	Event 1023 1030	improve
+E35	Event:T35 
+T36	Event 1031 1041	production
+E36	Event:T36 
+T37	Event 1055 1066	evaluations
+E37	Event:T37 
+T38	Event 1067 1073	tested
+E38	Event:T38 
+T40	Event 1085 1091	impact
+E40	Event:T40 
+T41	Event 1168 1173	hired
+E41	Event:T41 
+T42	Event 1177 1188	do research
+E42	Event:T42 
+T44	Event 1258 1266	studying
+E44	Event:T44 
+T47	Event 1330 1340	developing
+E47	Event:T47 
+T48	Event 1353 1361	planning
+E48	Event:T48 
+T49	Event 1363 1373	production
+E49	Event:T49 
+T50	Event 1379 1389	evaluation
+E50	Event:T50 
+T51	Event 1399 1410	interaction
+E51	Event:T51 
+T53	Event 1461 1467	called
+E53	Event:T53 
+T54	Event 1523 1530	success
+E54	Event:T54 
+T55	Event 1540 1545	began
+E55	Event:T55 
+T56	Event 1549 1554	think
+E56	Event:T56 
+T57	Event 1565 1573	survival
+E57	Event:T57 
+T58	Event 1621 1627	tended
+E58	Event:T58 
+T59	Event 1631 1636	start
+E59	Event:T59 
+T60	Event 1651 1658	sustain
+E60	Event:T60 
+T61	Event 1684 1689	ended
+E61	Event:T61 
+T62	Event 1708 1716	expanded
+E62	Event:T62 
+T64	Event 1812 1823	interactive
+E64	Event:T64 
+T67	Event 1880 1888	outreach
+E67	Event:T67 
+T5	Event 426 439	raising money
+E5	Event:T5 
+T9	Event 906 923	arranged marriage
+E9	Event:T9 
+T13	Event 1114 1122	learning
+E13	Event:T13 
+T14	Event 1314 1325	responsible
+E14	Event:T14 
+T16	Event 1676 1683	funding
+E16	Event:T16 
+T20	Event 1749 1761	publications
+E20	Event:T20 
+T22	Event 1796 1810	co-productions
+E22	Event:T22 
+T28	Event 2037 2050	accounted for
+E28	Event:T28 
+T8	Event 738 767	experimental research project
+E8	Event:T8 
+T25	Event 1581 1588	funding
+E25	Event:T25 
+T23	Event 1852 1861	licensing
+E23	Event:T23 

@@ -1,0 +1,100 @@
+T3	Event 18 24	called
+E3	Event:T3 
+T9	Event 108 111	pay
+E9	Event:T9 
+T11	Event 163 168	tolls
+E11	Event:T11 
+T12	Event 173 182	collected
+E12	Event:T12 
+T13	Event 196 202	income
+E13	Event:T13 
+T14	Event 211 214	use
+E14	Event:T14 
+T15	Event 250 255	tolls
+E15	Event:T15 
+T16	Event 275 278	tax
+E16	Event:T16 
+T17	Event 285 289	pays
+E17	Event:T17 
+T18	Event 298 302	cost
+E18	Event:T18 
+T20	Event 311 323	construction
+E20	Event:T20 
+T21	Event 328 339	maintenance
+E21	Event:T21 
+T22	Event 348 355	raising
+E22	Event:T22 
+T23	Event 356 361	taxes
+E23	Event:T23 
+T25	Event 406 409	pay
+E25	Event:T25 
+T26	Event 418 430	construction
+E26	Event:T26 
+T27	Event 435 446	maintenance
+E27	Event:T27 
+T29	Event 464 470	issued
+E29	Event:T29 
+T30	Event 475 479	sold
+E30	Event:T30 
+T31	Event 489 500	expectation
+E31	Event:T31 
+T35	Event 552 557	tolls
+E35	Event:T35 
+T40	Event 645 649	owns
+E40	Event:T40 
+T41	Event 666 671	built
+E41	Event:T41 
+T42	Event 683 693	authorized
+E42	Event:T42 
+T43	Event 698 710	construction
+E43	Event:T43 
+T44	Event 712 718	Access
+E44	Event:T44 
+T47	Event 751 758	prevent
+E47	Event:T47 
+T48	Event 775 780	using
+E48	Event:T48 
+T52	Event 809 814	built
+E52	Event:T52 
+T53	Event 818 823	allow
+E53	Event:T53 
+T54	Event 838 844	travel
+E54	Event:T54 
+T55	Event 856 865	relieving
+E55	Event:T55 
+T63	Event 1012 1016	paid
+E63	Event:T63 
+T65	Event 1076 1088	construction
+E65	Event:T65 
+T66	Event 1089 1094	costs
+E66	Event:T66 
+T67	Event 1099 1103	paid
+E67	Event:T67 
+T68	Event 1115 1120	taxes
+E68	Event:T68 
+T72	Event 1183 1186	pay
+E72	Event:T72 
+T73	Event 1193 1198	taxes
+E73	Event:T73 
+T74	Event 1207 1212	tolls
+E74	Event:T74 
+T75	Event 1217 1222	using
+E75	Event:T75 
+T5	Event 114 117	fee
+E5	Event:T5 
+T6	Event 122 126	toll
+E6	Event:T6 
+T8	Event 524 533	paid back
+E8	Event:T8 
+T10	Event 579 587	paid off
+E10	Event:T10 
+T19	Event 889 900	speeding up
+E19	Event:T19 
+T2	Event 866 884	traffic congestion
+E2	Event:T2 
+T24	Event 935 945	restricted
+E24	Event:T24 
+T28	Event 737 747	restricted
+E28	Event:T28 
+T1	Event 607 617	reverts to
+E1	Event:T1 

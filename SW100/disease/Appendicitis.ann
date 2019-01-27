@@ -1,0 +1,104 @@
+T1	Event 20 28	swelling
+E1	Event:T1 
+T5	Event 138 146	blocking
+E5	Event:T5 
+T6	Event 184 194	infections
+E6	Event:T6 
+T7	Event 214 222	multiply
+E7	Event:T7 
+T8	Event 237 241	fill
+E8	Event:T8 
+T16	Event 375 382	rupture
+E16	Event:T16 
+T17	Event 384 389	burst
+E17	Event:T17 
+T18	Event 403 408	cause
+E18	Event:T18 
+T19	Event 421 427	travel
+E19	Event:T19 
+T20	Event 461 466	cause
+E20	Event:T20 
+T21	Event 467 476	infection
+E21	Event:T21 
+T22	Event 503 510	happens
+E22	Event:T22 
+T23	Event 534 541	treated
+E23	Event:T23 
+T24	Event 556 563	treated
+E24	Event:T24 
+T25	Event 572 576	lead
+E25	Event:T25 
+T26	Event 596 601	shock
+E26	Event:T26 
+T29	Event 812 815;819 831	get appendectomy
+E29	Event:T29 
+T31	Event 852 859	removes
+E31	Event:T31 
+T33	Event 912 919	surgery
+E33	Event:T33 
+T34	Event 944 951	avoided
+E34	Event:T34 
+T35	Event 974 979	think
+E35	Event:T35 
+T36	Event 985 991	eating
+E36	Event:T36 
+T38	Event 1034 1043	described
+E38	Event:T38 
+T41	Event 1117 1121	pain
+E41	Event:T41 
+T4	Event 0 12	Appendicitis
+E4	Event:T4 
+T2	Event 164 169	sores
+E2	Event:T2 
+T9	Event 273 278	fever
+E9	Event:T9 
+T10	Event 335 351	loss of appetite
+E10	Event:T10 
+T11	Event 392 396	This
+E11	Event:T11 
+T12	Event 447 451	This
+E12	Event:T12 
+T13	Event 498 502	This
+E13	Event:T13 
+T14	Event 514 526	appendicitis
+E14	Event:T14 
+T15	Event 546 548	it
+E15	Event:T15 
+T27	Event 580 591	peritonitis
+E27	Event:T27 
+T30	Event 627 639	appendicitis
+E30	Event:T30 
+T28	Event 640 650	take place
+E28	Event:T28 
+T37	Event 689 701	Appendicitis
+E37	Event:T37 
+T3	Event 893 903	get better
+E3	Event:T3 
+T32	Event 885 887	it
+E32	Event:T32 
+T39	Event 921 933	Appendicitis
+E39	Event:T39 
+T40	Event 1008 1012	help
+E40	Event:T40 
+T42	Event 1050 1062	appendicitis
+E42	Event:T42 
+T43	Event 1072 1074	It
+E43	Event:T43 
+T44	Event 1078 1081	one
+E44	Event:T44 
+T45	Event 256 264	Symptoms
+E45	Event:T45 
+T46	Event 311 326	fast heart rate
+E46	Event:T46 
+T47	Event 282 309	high white blood cell count
+E47	Event:T47 
+T48	Event 123 129	causes
+E48	Event:T48 
+T49	Event 616 623	effects
+E49	Event:T49 
+T50	Event 1097 1103	causes
+E50	Event:T50 
+T51	Event 565 567	it
+E51	Event:T51 
+T52	Event 705 711	common
+E52	Event:T52 

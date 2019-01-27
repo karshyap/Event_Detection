@@ -1,0 +1,156 @@
+T1	Event 2 9	tsunami
+E1	Event:T1 
+T5	Event 56 62	caused
+E5	Event:T5 
+T6	Event 75 86	earthquakes
+E6	Event:T6 
+T7	Event 99 108	eruptions
+E7	Event:T7 
+T8	Event 112 119	tsunami
+E8	Event:T8 
+T9	Event 120 123	has
+E9	Event:T9 
+T10	Event 198 205	tsunami
+E10	Event:T10 
+T11	Event 206 212	starts
+E11	Event:T11 
+T13	Event 233 239	travel
+E13	Event:T13 
+T15	Event 307 313	remove
+E15	Event:T15 
+T16	Event 333 340	destroy
+E16	Event:T16 
+T17	Event 348 352	toss
+E17	Event:T17 
+T18	Event 357 361	drag
+E18	Event:T18 
+T19	Event 372 378	damage
+E19	Event:T19 
+T20	Event 395 402	destroy
+E20	Event:T20 
+T21	Event 437 443	caused
+E21	Event:T21 
+T28	Event 680 684	know
+E28	Event:T28 
+T29	Event 710 716	remain
+E29	Event:T29 
+T30	Event 750 759	prevented
+E30	Event:T30 
+T32	Event 788 792	help
+E32	Event:T32 
+T33	Event 793 797	stop
+E33	Event:T33 
+T34	Event 805 810	dying
+E34	Event:T34 
+T35	Event 818 825	tsunami
+E35	Event:T35 
+T39	Event 933 938	waves
+E39	Event:T39 
+T40	Event 939 944	reach
+E40	Event:T40 
+T41	Event 967 977	earthquake
+E41	Event:T41 
+T42	Event 983 989	caused
+E42	Event:T42 
+T43	Event 994 1001	tsunami
+E43	Event:T43 
+T44	Event 1009 1013	felt
+E44	Event:T44 
+T45	Event 1025 1029	wave
+E45	Event:T45 
+T47	Event 1063 1069	warned
+E47	Event:T47 
+T48	Event 1073 1075	go
+E48	Event:T48 
+T49	Event 1106 1113	tsunami
+E49	Event:T49 
+T50	Event 1114 1122	recorded
+E50	Event:T50 
+T51	Event 1155 1161	caused
+E51	Event:T51 
+T52	Event 1168 1178	earthquake
+E52	Event:T52 
+T53	Event 1184 1194	earthquake
+E53	Event:T53 
+T54	Event 1199 1203	said
+E54	Event:T54 
+T55	Event 1207 1211	have
+E55	Event:T55 
+T56	Event 1269 1277	centered
+E56	Event:T56 
+T57	Event 1392 1396	died
+E57	Event:T57 
+T58	Event 1407 1415	disaster
+E58	Event:T58 
+T60	Event 1432 1437	moved
+E60	Event:T60 
+T61	Event 1559 1565	killed
+E61	Event:T61 
+T62	Event 1569 1576	injured
+E62	Event:T62 
+T63	Event 1603 1609	called
+E63	Event:T63 
+T65	Event 1643 1647	rise
+E65	Event:T65 
+T66	Event 1652 1656	fall
+E66	Event:T66 
+T68	Event 1737 1745	tsunamis
+E68	Event:T68 
+T70	Event 1765 1770	tides
+E70	Event:T70 
+T71	Event 1784 1788	rise
+E71	Event:T71 
+T72	Event 1801 1806	tides
+E72	Event:T72 
+T73	Event 1807 1809	do
+E73	Event:T73 
+T2	Event 416 424	Tsunamis
+E2	Event:T2 
+T4	Event 1584 1592	Tsunamis
+E4	Event:T4 
+T12	Event 482 492	draws back
+E12	Event:T12 
+T23	Event 553 563	getting to
+E23	Event:T23 
+T24	Event 628 637	pull back
+E24	Event:T24 
+T25	Event 731 739	Tsunamis
+E25	Event:T25 
+T26	Event 905 917	issue alerts
+E26	Event:T26 
+T27	Event 1030 1037	gets to
+E27	Event:T27 
+T31	Event 1096 1105	deadliest
+E31	Event:T31 
+T37	Event 1148 1150	It
+E37	Event:T37 
+T38	Event 1262 1264	It
+E38	Event:T38 
+T46	Event 1427 1431	wave
+E46	Event:T46 
+T59	Event 1580 1582	it
+E59	Event:T59 
+T69	Event 1772 1776	they
+E69	Event:T69 
+T76	Event 227 232	waves
+E76	Event:T76 
+T77	Event 298 302	They
+E77	Event:T77 
+T78	Event 548 552	wave
+E78	Event:T78 
+T22	Event 447 464	meteorite impacts
+E22	Event:T22 
+T14	Event 292 296	loss
+E14	Event:T14 
+T36	Event 1610 1621	tidal waves
+E36	Event:T36 
+T64	Event 1683 1702	ocean surface waves
+E64	Event:T64 
+T67	Event 692 698	danger
+E67	Event:T67 
+T75	Event 1754 1761	related
+E75	Event:T75 
+T3	Event 37 42	waves
+E3	Event:T3 
+T79	Event 30 36	moving
+E79	Event:T79 

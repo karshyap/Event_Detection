@@ -1,0 +1,156 @@
+T1	Event 19 25;4 10	effect Eureka
+E1	Event:T1 
+T6	Event 167 172	asked
+E6	Event:T6 
+T7	Event 194 200	detect
+E7	Event:T7 
+T8	Event 256 261	added
+E8	Event:T8 
+T9	Event 281 285	trip
+E9	Event:T9 
+T10	Event 309 316	noticed
+E10	Event:T10 
+T13	Event 355 359	sank
+E13	Event:T13 
+T15	Event 435 443	immersed
+E15	Event:T15 
+T16	Event 470 478	realized
+E16	Event:T16 
+T17	Event 502 509	weighed
+E17	Event:T17 
+T18	Event 536 541	weigh
+E18	Event:T18 
+T19	Event 597 605	displace
+E19	Event:T19 
+T20	Event 626 631	known
+E20	Event:T20 
+T21	Event 703 706	ran
+E21	Event:T21 
+T22	Event 718 726	shouting
+E22	Event:T22 
+T23	Event 670 680	leaped out
+E23	Event:T23 
+T24	Event 738 743	found
+E24	Event:T24 
+T25	Event 763 770	thought
+E25	Event:T25 
+T26	Event 868 879	experienced
+E26	Event:T26 
+T28	Event 912 920	research
+E28	Event:T28 
+T29	Event 965 974	predicted
+E29	Event:T29 
+T30	Event 1008 1017	describes
+E30	Event:T30 
+T31	Event 1022 1029	process
+E31	Event:T31 
+T32	Event 1085 1092;1102 1107	becomes clear
+E32	Event:T32 
+T33	Event 1132 1142	transition
+E33	Event:T33 
+T34	Event 1152 1165	understanding
+E34	Event:T34 
+T35	Event 1193 1204	accompanied
+E35	Event:T35 
+T36	Event 1226 1229	joy
+E36	Event:T36 
+T37	Event 1233 1245	satisfaction
+E37	Event:T37 
+T39	Event 1289 1294	solve
+E39	Event:T39 
+T41	Event 1316 1320;1358 1367	give responses
+E41	Event:T41 
+T42	Event 1393 1398	using
+E42	Event:T42 
+T44	Event 1438 1445;1466 1475	produce responses
+E44	Event:T44 
+T47	Event 1508 1515	process
+E47	Event:T47 
+T49	Event 1556 1566	gets stuck
+E49	Event:T49 
+T50	Event 1594 1602	explored
+E50	Event:T50 
+T51	Event 1644 1647	see
+E51	Event:T51 
+T52	Event 1679 1685;1699 1711	occurs unexpectedly
+E52	Event:T52 
+T53	Event 1721 1726	break
+E53	Event:T53 
+T55	Event 1749 1762	re-evaluating
+E55	Event:T55 
+T57	Event 1790 1794	seen
+E57	Event:T57 
+T59	Event 1833 1838	solve
+E59	Event:T59 
+T62	Event 1922 1926;1934 1940	have memory
+E62	Event:T62 
+T63	Event 1971 1976	occur
+E63	Event:T63 
+T64	Event 1985 1990	break
+E64	Event:T64 
+T66	Event 2011 2019	allowing
+E66	Event:T66 
+T5	Event 108 119	named after
+E5	Event:T5 
+T11	Event 327 340	got displaced
+E11	Event:T11 
+T12	Event 395 404	displaced
+E12	Event:T12 
+T14	Event 1033 1048	problem solving
+E14	Event:T14 
+T68	Event 1085 1092;1112 1119	becomes obvious
+E68	Event:T68 
+T69	Event 1176 1189	comprehension
+E69	Event:T69 
+T70	Event 1211 1222	exclamation
+E70	Event:T70 
+T40	Event 1403 1418	insight process
+E40	Event:T40 
+T43	Event 1959 1966	Insight
+E43	Event:T43 
+T45	Event 2036 2054	appear transparent
+E45	Event:T45 
+T46	Event 2036 2042;2059 2066	appear obvious
+E46	Event:T46 
+T48	Event 1067 1077	unsolvable
+E48	Event:T48 
+T56	Event 976 983	Insight
+E56	Event:T56 
+T38	Event 1272 1277	using
+E38	Event:T38 
+T61	Event 1278 1285	insight
+E61	Event:T61 
+T72	Event 1767 1774	problem
+E72	Event:T72 
+T73	Event 1906 1913	problem
+E73	Event:T73 
+T74	Event 1796 1812	Insight problems
+E74	Event:T74 
+T4	Event 94 100	solved
+E4	Event:T4 
+T67	Event 1297 1304	problem
+E67	Event:T67 
+T3	Event 74 81	problem
+E3	Event:T3 
+T75	Event 102 104	It
+E75	Event:T75 
+T27	Event 884 895	Aha! effect
+E27	Event:T27 
+T2	Event 14 25	Aha! effect
+E2	Event:T2 
+T58	Event 928 940	Aha! insight
+E58	Event:T58 
+T76	Event 40 57	moment of insight
+E76	Event:T76 
+T77	Event 942 954	Aha! moments
+E77	Event:T77 
+T71	Event 1250 1261	Aha! moment
+E71	Event:T71 
+T54	Event 1730 1745	mental fixation
+E54	Event:T54 
+T60	Event 1854 1869	mental fixation
+E60	Event:T60 
+T78	Event 1945 1957	Aha! moments
+E78	Event:T78 
+T65	Event 1994 2009	mental fixation
+E65	Event:T65 

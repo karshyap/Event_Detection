@@ -1,0 +1,82 @@
+T1	Event 48 56	shooting
+E1	Event:T1 
+T2	Event 206 210	came
+E2	Event:T2 
+T3	Event 221 226	armed
+E3	Event:T3 
+T5	Event 266 272	walked
+E5	Event:T5 
+T8	Event 396 402	killed
+E8	Event:T8 
+T9	Event 434 438	hurt
+E9	Event:T9 
+T10	Event 493 502	massacres
+E10	Event:T10 
+T11	Event 563 569	deaths
+E11	Event:T11 
+T13	Event 622 630	shooting
+E13	Event:T13 
+T14	Event 642 650	shooting
+E14	Event:T14 
+T15	Event 664 670	wanted
+E15	Event:T15 
+T16	Event 674 678	know
+E16	Event:T16 
+T17	Event 690 698	happened
+E17	Event:T17 
+T18	Event 712 719	thought
+E18	Event:T18 
+T20	Event 774 781	bullied
+E20	Event:T20 
+T21	Event 816 821	began
+E21	Event:T21 
+T22	Event 822 829	talking
+E22	Event:T22 
+T23	Event 843 847	stop
+E23	Event:T23 
+T24	Event 848 856	bullying
+E24	Event:T24 
+T25	Event 877 884	thought
+E25	Event:T25 
+T27	Event 947 953	blamed
+E27	Event:T27 
+T28	Event 974 980	saying
+E28	Event:T28 
+T30	Event 1080 1086	played
+E30	Event:T30 
+T31	Event 1098 1104	caused
+E31	Event:T31 
+T32	Event 1142 1150	released
+E32	Event:T32 
+T33	Event 1171 1177	called
+E33	Event:T33 
+T34	Event 1223 1231	shooting
+E34	Event:T34 
+T35	Event 1232 1240	happened
+E35	Event:T35 
+T37	Event 1311 1322	interviewed
+E37	Event:T37 
+T39	Event 683 685	it
+E39	Event:T39 
+T26	Event 1105 1107	it
+E26	Event:T26 
+T36	Event 4 34	Columbine High School Massacre
+E36	Event:T36 
+T38	Event 458 460	It
+E38	Event:T38 
+T41	Event 465 468	one
+E41	Event:T41 
+T42	Event 545 548	one
+E42	Event:T42 
+T12	Event 580 602	Virginia Tech massacre
+E12	Event:T12 
+T29	Event 1255 1259;1265 1269	role have
+E29	Event:T29 
+T19	Event 748 755	done it
+E19	Event:T19 
+T40	Event 482 492	well-known
+E40	Event:T40 
+T6	Event 292 298	firing
+E6	Event:T6 
+T4	Event 347 365	killing themselves
+E4	Event:T4 

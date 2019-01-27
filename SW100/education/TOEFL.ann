@@ -1,0 +1,112 @@
+T4	Event 69 77	measures
+E4	Event:T4 
+T6	Event 114 117	see
+E6	Event:T6 
+T7	Event 145 149;152 158	take course
+E7	Event:T7 
+T9	Event 281 289	measures
+E9	Event:T9 
+T10	Event 308 312	uses
+E10	Event:T10 
+T15	Event 364 371;381 386	perform tasks
+E15	Event:T15 
+T17	Event 401 409	accepted
+E17	Event:T17 
+T19	Event 528 538	recognized
+E19	Event:T19 
+T22	Event 605 612	changed
+E22	Event:T22 
+T25	Event 677 682	tests
+E25	Event:T25 
+T28	Event 790 799	available
+E28	Event:T28 
+T29	Event 806 811	offer
+E29	Event:T29 
+T31	Event 899 907	provided
+E31	Event:T31 
+T32	Event 927 931;936 940	take test
+E32	Event:T32 
+T35	Event 964 969	added
+E35	Event:T35 
+T38	Event 1061 1068	changed
+E38	Event:T38 
+T43	Event 1206 1214	measures
+E43	Event:T43 
+T48	Event 1274 1284	procedures
+E48	Event:T48 
+T49	Event 1301 1310	following
+E49	Event:T49 
+T50	Event 1314 1318;1323 1327	take test
+E50	Event:T50 
+T52	Event 1341 1348	decided
+E52	Event:T52 
+T54	Event 1381 1385;1390 1394	take test
+E54	Event:T54 
+T58	Event 1491 1499	register
+E58	Event:T58 
+T59	Event 1525 1528;1531 1536	get place
+E59	Event:T59 
+T63	Event 1663 1671	required
+E63	Event:T63 
+T64	Event 1675 1683	complete
+E64	Event:T64 
+T65	Event 1688 1700	registration
+E65	Event:T65 
+T69	Event 1745 1749;1753 1758	exam taken
+E69	Event:T69 
+T70	Event 1795 1799	want
+E70	Event:T70 
+T71	Event 1824 1831	wanting
+E71	Event:T71 
+T72	Event 1835 1837;1842 1846	do test
+E72	Event:T72 
+T73	Event 1888 1892;1897 1901	took test
+E73	Event:T73 
+T75	Event 1905 1916	demonstrate
+E75	Event:T75 
+T76	Event 1980 1985;1990 1994	doing test
+E76	Event:T76 
+T77	Event 2002 2012	considered
+E77	Event:T77 
+T78	Event 2070 2075	apply
+E78	Event:T78 
+T79	Event 2089 2095	ranked
+E79	Event:T79 
+T80	Event 2122 2130	studying
+E80	Event:T80 
+T82	Event 2167 2171	help
+E82	Event:T82 
+T83	Event 2175 2182	improve
+E83	Event:T83 
+T84	Event 2207 2210;2216 2222	get scores
+E84	Event:T84 
+T85	Event 2240 2245	exams
+E85	Event:T85 
+T2	Event 1118 1124	change
+E2	Event:T2 
+T3	Event 1172 1182	brought in
+E3	Event:T3 
+T11	Event 1647 1654	payment
+E11	Event:T11 
+T12	Event 1711 1718	changes
+E12	Event:T12 
+T13	Event 195 211	English-speaking
+E13	Event:T13 
+T14	Event 649 660	paper-based
+E14	Event:T14 
+T16	Event 855 869	computer-based
+E16	Event:T16 
+T18	Event 1137 1151	Internet-based
+E18	Event:T18 
+T27	Event 2142 2150	advanced
+E27	Event:T27 
+T1	Event 1548 1560	registration
+E1	Event:T1 
+T8	Event 1615 1627	registration
+E8	Event:T8 
+T20	Event 1719 1731	depending on
+E20	Event:T20 
+T5	Event 1601 1606	email
+E5	Event:T5 
+T21	Event 1583 1588	phone
+E21	Event:T21 

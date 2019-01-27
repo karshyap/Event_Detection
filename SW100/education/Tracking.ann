@@ -1,0 +1,82 @@
+T1	Event 0 8	Tracking
+E1	Event:T1 
+T2	Event 26 33	placing
+E2	Event:T2 
+T7	Event 184 192	assigned
+E7	Event:T7 
+T10	Event 293 301	Tracking
+E10	Event:T10 
+T11	Event 314 319	given
+E11	Event:T11 
+T12	Event 328 335	process
+E12	Event:T12 
+T13	Event 361 368	believe
+E13	Event:T13 
+T14	Event 374 382	tracking
+E14	Event:T14 
+T15	Event 383 388;406 416	makes manageable
+E15	Event:T15 
+T16	Event 425 432	believe
+E16	Event:T16 
+T17	Event 488 494	placed
+E17	Event:T17 
+T18	Event 524 531	move up
+E18	Event:T18 
+T19	Event 578 585	reflect
+E19	Event:T19 
+T21	Event 630 636	charge
+E21	Event:T21 
+T22	Event 660 666;672 674	relies on
+E22	Event:T22 
+T23	Event 675 683	tracking
+E23	Event:T23 
+T24	Event 739 743	work
+E24	Event:T24 
+T25	Event 752 757	avoid
+E25	Event:T25 
+T26	Event 758 763	using
+E26	Event:T26 
+T28	Event 813 819;826 829	taking cue
+E28	Event:T28 
+T29	Event 892 897	favor
+E29	Event:T29 
+T31	Event 979 983	vary
+E31	Event:T31 
+T32	Event 899 915	Ability grouping
+E32	Event:T32 
+T33	Event 1009 1016	suggest
+E33	Event:T33 
+T34	Event 1092 1096	find
+E34	Event:T34 
+T35	Event 1214 1224	reassigned
+E35	Event:T35 
+T36	Event 1256 1264	tracking
+E36	Event:T36 
+T38	Event 1278 1289	functioning
+E38	Event:T38 
+T39	Event 1299 1306	assumed
+E39	Event:T39 
+T40	Event 1316 1322	called
+E40	Event:T40 
+T4	Event 389 400	instruction
+E4	Event:T4 
+T5	Event 438 440	it
+E5	Event:T5 
+T6	Event 455 461	flawed
+E6	Event:T6 
+T8	Event 563 573	placements
+E8	Event:T8 
+T20	Event 916 921	sorts
+E20	Event:T20 
+T27	Event 931 939	based on
+E27	Event:T27 
+T30	Event 960 969	groupings
+E30	Event:T30 
+T41	Event 1029 1045	ability grouping
+E41	Event:T41 
+T42	Event 1054 1064	transitory
+E42	Event:T42 
+T43	Event 1323 1339	ability grouping
+E43	Event:T43 
+T3	Event 102 122	learning experiences
+E3	Event:T3 

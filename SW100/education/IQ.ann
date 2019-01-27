@@ -1,0 +1,100 @@
+T6	Event 151 159	designed
+E6	Event:T6 
+T7	Event 163 170	measure
+E7	Event:T7 
+T8	Event 215 226	comparative
+E8	Event:T8 
+T9	Event 239 244	tells
+E9	Event:T9 
+T11	Event 323 332	developed
+E11	Event:T11 
+T14	Event 377 380	try
+E14	Event:T14 
+T15	Event 384 389	avoid
+E15	Event:T15 
+T16	Event 414 417	try
+E16	Event:T16 
+T17	Event 421 424	ask
+E17	Event:T17 
+T18	Event 480 486	answer
+E18	Event:T18 
+T21	Event 553 557	says
+E21	Event:T21 
+T22	Event 624 628	used
+E22	Event:T22 
+T23	Event 629 632	has
+E23	Event:T23 
+T25	Event 703 707	have
+E25	Event:T25 
+T27	Event 754 758	tell
+E27	Event:T27 
+T28	Event 844 850	linked
+E28	Event:T28 
+T29	Event 871 875	life
+E29	Event:T29 
+T32	Event 902 911	completed
+E32	Event:T32 
+T33	Event 920 929	predicted
+E33	Event:T33 
+T34	Event 930 935	onset
+E34	Event:T34 
+T35	Event 939 947	dementia
+E35	Event:T35 
+T37	Event 1004 1011	predict
+E37	Event:T37 
+T39	Event 1083 1095	disagreement
+E39	Event:T39 
+T40	Event 1123 1132	inherited
+E40	Event:T40 
+T41	Event 1147 1155	disagree
+E41	Event:T41 
+T42	Event 1188 1193	comes
+E42	Event:T42 
+T45	Event 1286 1290	used
+E45	Event:T45 
+T46	Event 1312 1319	predict
+E46	Event:T46 
+T47	Event 1343 1354	achievement
+E47	Event:T47 
+T49	Event 1376 1380	tell
+E49	Event:T49 
+T51	Event 1394 1398;1423 1425	jobs do
+E51	Event:T51 
+T52	Event 1430 1435	study
+E52	Event:T52 
+T53	Event 1484 1489	study
+E53	Event:T53 
+T55	Event 1599 1605	rising
+E55	Event:T55 
+T56	Event 1733 1739	called
+E56	Event:T56 
+T57	Event 1769 1774	study
+E57	Event:T57 
+T58	Event 1778 1786	disagree
+E58	Event:T58 
+T59	Event 1830 1839	happening
+E59	Event:T59 
+T60	Event 1852 1856	mean
+E60	Event:T60 
+T61	Event 1873 1881	mistakes
+E61	Event:T61 
+T62	Event 1901 1907	tested
+E62	Event:T62 
+T1	Event 1219 1229	depends on
+E1	Event:T1 
+T2	Event 1527 1534	related
+E2	Event:T2 
+T3	Event 1678 1686	increase
+E3	Event:T3 
+T4	Event 1775 1777	it
+E4	Event:T4 
+T5	Event 1744 1756	Flynn effect
+E5	Event:T5 
+T10	Event 1725 1729	This
+E10	Event:T10 
+T12	Event 1801 1808	changes
+E12	Event:T12 
+T13	Event 952 971	Alzheimer’s disease
+E13	Event:T13 
+T19	Event 1358 1371	special needs
+E19	Event:T19 

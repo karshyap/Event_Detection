@@ -1,0 +1,126 @@
+T4	Event 31 38	service
+E4	Event:T4 
+T5	Event 39 47	provided
+E5	Event:T5 
+T6	Event 80 86	direct
+E6	Event:T6 
+T8	Event 152 160	separate
+E8	Event:T8 
+T9	Event 173 180	prevent
+E9	Event:T9 
+T10	Event 181 188	crashes
+E10	Event:T10 
+T12	Event 219 226	running
+E12	Event:T12 
+T14	Event 292 296;319 323	play role
+E14	Event:T14 
+T16	Event 311 318	defense
+E16	Event:T16 
+T17	Event 366 369	run
+E17	Event:T17 
+T21	Event 441 451	introduced
+E21	Event:T21 
+T22	Event 508 518	controlled
+E22	Event:T22 
+T23	Event 528 533	using
+E23	Event:T23 
+T24	Event 534 541	colored
+E24	Event:T24 
+T26	Event 615 625	considered
+E26	Event:T26 
+T29	Event 660 670	Preventing
+E29	Event:T29 
+T30	Event 671 678	crashes
+E30	Event:T30 
+T32	Event 698 704	called
+E32	Event:T32 
+T33	Event 705 715	separation
+E33	Event:T33 
+T37	Event 818 822	have
+E37	Event:T37 
+T39	Event 856 859	see
+E39	Event:T39 
+T40	Event 880 884	warn
+E40	Event:T40 
+T47	Event 1063 1070	provide
+E47	Event:T47 
+T50	Event 1120 1126	follow
+E50	Event:T50 
+T54	Event 1178 1182;1189 1193	keep safe
+E54	Event:T54 
+T59	Event 1230 1238	provided
+E59	Event:T59 
+T65	Event 1580 1586;1593 1603	issues clearances
+E65	Event:T65 
+T67	Event 1644 1650	flying
+E67	Event:T67 
+T68	Event 1655 1662	planned
+E68	Event:T68 
+T72	Event 1696 1705	cooperate
+E72	Event:T72 
+T77	Event 1794 1802	arriving
+E77	Event:T77 
+T78	Event 1807 1816	departing
+E78	Event:T78 
+T81	Event 1884 1892	directed
+E81	Event:T81 
+T85	Event 2043 2051	approach
+E85	Event:T85 
+T86	Event 2081 2088	compare
+E86	Event:T86 
+T89	Event 2135 2144	separates
+E89	Event:T89 
+T1	Event 0 19	Air traffic control
+E1	Event:T1 
+T2	Event 21 24	ATC
+E2	Event:T2 
+T3	Event 142 145	ATC
+E3	Event:T3 
+T7	Event 196 205	make sure
+E7	Event:T7 
+T11	Event 279 282	ATC
+E11	Event:T11 
+T13	Event 411 430	Air traffic control
+E13	Event:T13 
+T18	Event 717 721	This
+E18	Event:T18 
+T19	Event 750 760	kept apart
+E19	Event:T19 
+T25	Event 956 975	air traffic control
+E25	Event:T25 
+T27	Event 1009 1019	goes wrong
+E27	Event:T27 
+T35	Event 1127 1135	commands
+E35	Event:T35 
+T28	Event 1153 1165	make changes
+E28	Event:T28 
+T44	Event 1410 1413	ATC
+E44	Event:T44 
+T62	Event 1775 1790	gives clearance
+E62	Event:T62 
+T64	Event 1025 1028	ATC
+E64	Event:T64 
+T20	Event 823 842	collision avoidance
+E20	Event:T20 
+T36	Event 1195 1222	Air traffic control service
+E36	Event:T36 
+T38	Event 2100 2111	ATC service
+E38	Event:T38 
+T58	Event 983 992	available
+E58	Event:T58 
+T31	Event 682 686	done
+E31	Event:T31 
+T41	Event 1494 1502	inactive
+E41	Event:T41 
+T43	Event 2074 2077	job
+E43	Event:T43 
+T45	Event 135 138	job
+E45	Event:T45 
+T15	Event 299 307	security
+E15	Event:T15 
+T34	Event 1435 1446	responsible
+E34	Event:T34 
+T46	Event 1617 1621	This
+E46	Event:T46 
+T42	Event 1937 1948	responsible
+E42	Event:T42 

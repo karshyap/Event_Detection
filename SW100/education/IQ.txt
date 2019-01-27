@@ -1,0 +1,17 @@
+An intelligence quotient, or an IQ is a number. This number is the score (result) of a standard test. There are several different tests. The tests are designed to measure the intelligence of an individual.
+
+IQ is a comparative measure: it tells one how much above or below the average a person is. The idea of the test was developed at the start of the 20th century. The tests try to avoid specific knowledge, and try to ask questions which, in principle, anyone might be able to answer.
+
+One modern IQ test is the Wechsler Adult Intelligence Scale. It says where the subject's score is on the Gaussian bell. The bell curve used has a center value of 100 and a standard deviation of 15; other tests may have different standard deviations.
+
+IQ scores can tell some things about a person, as well as intelligence. This is because intelligence is linked to other aspects of life. "All the cognitive tests completed in 1983 predicted onset of dementia and Alzheimer’s disease up to 11 years later". They can predict the social status of the parents, and the parents' IQ.
+
+There is still disagreement about to what extent IQ is inherited. People still disagree about how much of a person's IQ comes his parents and how much depends on his environment (what his home is like).
+
+IQ scores are used in various ways:
+
+to predict a person's educational achievement or special needs.
+to tell what kind of jobs a person could probably do.
+to study what the IQ scores of a population are like.
+to study what other things about a person are related to his IQ.
+The average IQ scores for many populations have been rising about three points per decade since the early 20th century. Most of the increase is in the lower half of the IQ range. This is called the Flynn effect. People who study it disagree whether these changes in scores are really happening, or it they mean that there were mistakes in how people were tested in the past.

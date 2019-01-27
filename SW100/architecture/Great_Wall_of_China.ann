@@ -1,0 +1,114 @@
+T1	Event 65 69	made
+E1	Event:T1 
+T2	Event 122 127	built
+E2	Event:T2 
+T3	Event 131 138	protect
+E3	Event:T3 
+T5	Event 183 190	attacks
+E5	Event:T5 
+T6	Event 237 242	built
+E6	Event:T6 
+T7	Event 388 392	made
+E7	Event:T7 
+T8	Event 453 457	used
+E8	Event:T8 
+T13	Event 583 588	built
+E13	Event:T13 
+T14	Event 599 605	called
+E14	Event:T14 
+T15	Event 645 650	built
+E15	Event:T15 
+T16	Event 699 704	built
+E16	Event:T16 
+T18	Event 825 832	remains
+E18	Event:T18 
+T19	Event 853 861	stealing
+E19	Event:T19 
+T20	Event 941 946	built
+E20	Event:T20 
+T21	Event 1009 1016	started
+E21	Event:T21 
+T23	Event 1136 1141	cross
+E23	Event:T23 
+T24	Event 1160 1167	started
+E24	Event:T24 
+T25	Event 1168 1176	building
+E25	Event:T25 
+T26	Event 1195 1199;1203 1217	make more difficult
+E26	Event:T26 
+T27	Event 1277 1283	worked
+E27	Event:T27 
+T28	Event 1305 1309;1313 1319	made longer
+E28	Event:T28 
+T29	Event 1366 1374	repaired
+E29	Event:T29 
+T30	Event 1387 1395	expanded
+E30	Event:T30 
+T32	Event 1459 1469	took place
+E32	Event:T32 
+T33	Event 1497 1502	built
+E33	Event:T33 
+T34	Event 1544 1556	Construction
+E34	Event:T34 
+T35	Event 1600 1604	used
+E35	Event:T35 
+T36	Event 1661 1665	made
+E36	Event:T36 
+T37	Event 1713 1717	died
+E37	Event:T37 
+T38	Event 1729 1736	falling
+E38	Event:T38 
+T39	Event 1745 1755	exhaustion
+E39	Event:T39 
+T40	Event 1757 1764	disease
+E40	Event:T40 
+T41	Event 1773 1780	attacks
+E41	Event:T41 
+T42	Event 1786 1796	starvation
+E42	Event:T42 
+T43	Event 1824 1828	died
+E43	Event:T43 
+T44	Event 1834 1840	buried
+E44	Event:T44 
+T45	Event 1943 1946	see
+E45	Event:T45 
+T46	Event 1999 2005	proven
+E46	Event:T46 
+T48	Event 2130 2133	see
+E48	Event:T48 
+T49	Event 2026 2034	shown up
+E49	Event:T49 
+T51	Event 2179 2184	spoke
+E51	Event:T51 
+T52	Event 2258 2262	said
+E52	Event:T52 
+T53	Event 2374 2377	see
+E53	Event:T53 
+T54	Event 2482 2490	practice
+E54	Event:T54 
+T55	Event 100 108	powdered
+E55	Event:T55 
+T4	Event 396 405	compacted
+E4	Event:T4 
+T9	Event 1237 1243	invade
+E9	Event:T9 
+T12	Event 1561 1571	rebuilding
+E12	Event:T12 
+T17	Event 1904 1911	Rumours
+E17	Event:T17 
+T22	Event 2088 2092	sure
+E22	Event:T22 
+T31	Event 2320 2327	visible
+E31	Event:T31 
+T50	Event 1376 1383	rebuilt
+E50	Event:T50 
+T11	Event 1443 1458	rebuilding work
+E11	Event:T11 
+T47	Event 2044 2056	images taken
+E47	Event:T47 
+T10	Event 537 541;548 555	send signals
+E10	Event:T10 
+T56	Event 2195 2205	visibility
+E56	Event:T56 
+T57	Event 1881 1891	Visibility
+E57	Event:T57 

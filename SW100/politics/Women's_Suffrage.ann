@@ -1,0 +1,128 @@
+T2	Event 42 46	vote
+E2	Event:T2 
+T3	Event 57 64	elected
+E3	Event:T3 
+T4	Event 108 113;83 88	given right
+E4	Event:T4 
+T6	Event 172 182	recognised
+E6	Event:T6 
+T7	Event 249 252;257 262	had right
+E7	Event:T7 
+T8	Event 288 296	election
+E8	Event:T8 
+T9	Event 310 318	movement
+E9	Event:T9 
+T10	Event 332 336;341 346	gain right
+E10	Event:T10 
+T11	Event 355 362	started
+E11	Event:T11 
+T12	Event 428 435	founded
+E12	Event:T12 
+T13	Event 444 454	revolution
+E13	Event:T13 
+T14	Event 528 538	campaigned
+E14	Event:T14 
+T15	Event 555 562	allowed
+E15	Event:T15 
+T16	Event 566 570	vote
+E16	Event:T16 
+T17	Event 587 595	election
+E17	Event:T17 
+T19	Event 655 658	met
+E19	Event:T19 
+T21	Event 685 690;695 700	given right
+E21	Event:T21 
+T22	Event 729 738	elections
+E22	Event:T22 
+T23	Event 849 854	owned
+E23	Event:T23 
+T24	Event 870 874	vote
+E24	Event:T24 
+T25	Event 920 928	election
+E25	Event:T25 
+T26	Event 1004 1008	vote
+E26	Event:T26 
+T27	Event 1036 1046	recognised
+E27	Event:T27 
+T28	Event 1138 1143	lived
+E28	Event:T28 
+T29	Event 1170 1174	vote
+E29	Event:T29 
+T30	Event 1201 1205	kept
+E30	Event:T30 
+T31	Event 1221 1230	resettled
+E31	Event:T31 
+T32	Event 1283 1290	allowed
+E32	Event:T32 
+T33	Event 1294 1298	vote
+E33	Event:T33 
+T34	Event 1308 1317	elections
+E34	Event:T34 
+T35	Event 1364 1368	vote
+E35	Event:T35 
+T36	Event 1386 1395	elections
+E36	Event:T36 
+T37	Event 1428 1434	became
+E37	Event:T37 
+T38	Event 1468 1472;1493 1498	give right
+E38	Event:T38 
+T39	Event 1519 1528	elections
+E39	Event:T39 
+T40	Event 1559 1562;1572 1577	got right
+E40	Event:T40 
+T41	Event 1591 1597	became
+E41	Event:T41 
+T42	Event 1611 1614;1619 1624	get right
+E42	Event:T42 
+T43	Event 1628 1633;1640 1643	stand for
+E43	Event:T43 
+T44	Event 1635 1638	run
+E44	Event:T44 
+T45	Event 1681 1684	did
+E45	Event:T45 
+T47	Event 1724 1731	battles
+E47	Event:T47 
+T48	Event 1748 1754;1765 1771	rights gained
+E48	Event:T48 
+T51	Event 1935 1944	introduce
+E51	Event:T51 
+T53	Event 1980 1987	elected
+E53	Event:T53 
+T54	Event 2047 2056	elections
+E54	Event:T54 
+T57	Event 2188 2191	won
+E57	Event:T57 
+T58	Event 2205 2209	vote
+E58	Event:T58 
+T60	Event 2128 2139	World War I
+E60	Event:T60 
+T61	Event 2306 2310	came
+E61	Event:T61 
+T63	Event 2351 2357	called
+E63	Event:T63 
+T64	Event 2369 2379	recognised
+E64	Event:T64 
+T65	Event 2402 2409	elected
+E65	Event:T65 
+T66	Event 2500 2509	elections
+E66	Event:T66 
+T68	Event 2543 2553	recognised
+E68	Event:T68 
+T1	Event 135 144	campaigns
+E1	Event:T1 
+T5	Event 266 270	vote
+E5	Event:T5 
+T18	Event 829 838	Unmarried
+E18	Event:T18 
+T20	Event 1445 1456	independent
+E20	Event:T20 
+T69	Event 1502 1506	vote
+E69	Event:T69 
+T46	Event 1733 1740	Limited
+E46	Event:T46 
+T49	Event 2214 2217	did
+E49	Event:T49 
+T50	Event 2325 2336	World War I
+E50	Event:T50 
+T52	Event 704 708	vote
+E52	Event:T52 

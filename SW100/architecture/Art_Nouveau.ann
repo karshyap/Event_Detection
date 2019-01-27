@@ -1,0 +1,120 @@
+T2	Event 86 90	seen
+E2	Event:T2 
+T4	Event 199 205	peaked
+E4	Event:T4 
+T5	Event 283 292	continued
+E5	Event:T5 
+T6	Event 303 318	First World War
+E6	Event:T6 
+T7	Event 323 331	reaction
+E7	Event:T7 
+T9	Event 405 408	has
+E9	Event:T9 
+T11	Event 514 520	design
+E11	Event:T11 
+T16	Event 645 653	movement
+E16	Event:T16 
+T17	Event 667 677	influenced
+E17	Event:T17 
+T18	Event 716 724	produced
+E18	Event:T18 
+T19	Event 753 766	advertisement
+E19	Event:T19 
+T20	Event 775 779	play
+E20	Event:T20 
+T21	Event 810 818	starring
+E21	Event:T21 
+T22	Event 847 855	appeared
+E22	Event:T22 
+T23	Event 934 943	announced
+E23	Event:T23 
+T24	Event 1019 1025	called
+E24	Event:T24 
+T25	Event 1053 1065	became known
+E25	Event:T25 
+T27	Event 1133 1137	felt
+E27	Event:T27 
+T28	Event 1269 1275	shaped
+E28	Event:T28 
+T29	Event 1381 1384;1387 1402	had decisive impact
+E29	Event:T29 
+T31	Event 1454 1460	helped
+E31	Event:T31 
+T32	Event 1461 1467	spread
+E32	Event:T32 
+T33	Event 1558 1568	influenced
+E33	Event:T33 
+T34	Event 1641 1649	movement
+E34	Event:T34 
+T35	Event 1806 1817	interpreted
+E35	Event:T35 
+T37	Event 1903 1910	arrival
+E37	Event:T37 
+T38	Event 1951 1955	seen
+E38	Event:T38 
+T40	Event 2053 2063	recognized
+E40	Event:T40 
+T42	Event 2266 2275	inscribed
+E42	Event:T42 
+T46	Event 2561 2573	illustrating
+E46	Event:T46 
+T47	Event 2578 2588	transition
+E47	Event:T47 
+T49	Event 36 44	movement
+E49	Event:T49 
+T1	Event 55 63	based on
+E1	Event:T1 
+T50	Event 0 11	Art Nouveau
+E50	Event:T50 
+T52	Event 196 198	It
+E52	Event:T52 
+T53	Event 369 380	Art Nouveau
+E53	Event:T53 
+T10	Event 484 495	Art Nouveau
+E10	Event:T10 
+T12	Event 606 612;617 621	making part
+E12	Event:T12 
+T56	Event 919 928	sensation
+E56	Event:T56 
+T57	Event 1083 1094	Art Nouveau
+E57	Event:T57 
+T58	Event 1193 1196	its
+E58	Event:T58 
+T59	Event 1197 1206	influence
+E59	Event:T59 
+T60	Event 1618 1629	Art Nouveau
+E60	Event:T60 
+T61	Event 1818 1820	it
+E61	Event:T61 
+T62	Event 1863 1874	Art Nouveau
+E62	Event:T62 
+T36	Event 1875 1883	fell out
+E36	Event:T36 
+T63	Event 1945 1947	it
+E63	Event:T63 
+T39	Event 2124 2137	contributions
+E39	Event:T39 
+T41	Event 420 434	plant-inspired
+E41	Event:T41 
+T43	Event 447 455	stylized
+E43	Event:T43 
+T8	Event 457 464	flowing
+E8	Event:T8 
+T14	Event 1887 1893	favour
+E14	Event:T14 
+T3	Event 79 81	It
+E3	Event:T3 
+T30	Event 209 219	popularity
+E30	Event:T30 
+T44	Event 402 404	It
+E44	Event:T44 
+T13	Event 555 562	work on
+E13	Event:T13 
+T45	Event 727 739	lithographed
+E45	Event:T45 
+T26	Event 1993 2006	Neoclassicism
+E26	Event:T26 
+T48	Event 2011 2020	modernism
+E48	Event:T48 
+T51	Event 2437 2445	included
+E51	Event:T51 

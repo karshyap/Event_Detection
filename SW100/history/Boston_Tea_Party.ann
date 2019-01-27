@@ -1,0 +1,86 @@
+T1	Event 35 42	protest
+E1	Event:T1 
+T3	Event 111 119	happened
+E3	Event:T3 
+T7	Event 236 239	had
+E7	Event:T7 
+T10	Event 334 339	taxed
+E10	Event:T10 
+T11	Event 362 365;369 376	had part in
+E11	Event:T11 
+T12	Event 400 403	run
+E12	Event:T12 
+T13	Event 418 423	think
+E13	Event:T13 
+T16	Event 468 472	have
+E16	Event:T16 
+T17	Event 513 521	taxation
+E17	Event:T17 
+T18	Event 530 544	representation
+E18	Event:T18 
+T19	Event 564 571	selling
+E19	Event:T19 
+T20	Event 590 594	lose
+E20	Event:T20 
+T23	Event 644 649	began
+E23	Event:T23 
+T24	Event 650 660	purchasing
+E24	Event:T24 
+T25	Event 661 669	smuggled
+E25	Event:T25 
+T26	Event 705 709	show
+E26	Event:T26 
+T27	Event 766 771	named
+E27	Event:T27 
+T29	Event 827 831	went
+E29	Event:T29 
+T30	Event 870 874	took
+E30	Event:T30 
+T31	Event 892 898	dumped
+E31	Event:T31 
+T32	Event 925 929;953 958	made angry
+E32	Event:T32 
+T33	Event 1002 1006;983 987	laws made
+E33	Event:T33 
+T35	Event 1101 1105	said
+E35	Event:T35 
+T36	Event 1129 1135	closed
+E36	Event:T36 
+T38	Event 1183 1187	lost
+E38	Event:T38 
+T39	Event 1242 1249	started
+E39	Event:T39 
+T15	Event 4 20	Boston Tea Party
+E15	Event:T15 
+T34	Event 108 110	It
+E34	Event:T34 
+T41	Event 146 162	Boston Tea Party
+E41	Event:T41 
+T4	Event 170 184	act of protest
+E4	Event:T4 
+T5	Event 250 259	speak for
+E5	Event:T5 
+T6	Event 792 802	dressed up
+E6	Event:T6 
+T8	Event 920 924	This
+E8	Event:T8 
+T9	Event 1156 1165	paid back
+E9	Event:T9 
+T21	Event 1193 1209	Boston Tea Party
+E21	Event:T21 
+T28	Event 1254 1280	American Revolutionary War
+E28	Event:T28 
+T40	Event 27 34	violent
+E40	Event:T40 
+T42	Event 302 312	frustrated
+E42	Event:T42 
+T43	Event 714 719	angry
+E43	Event:T43 
+T44	Event 1214 1217	one
+E44	Event:T44 
+T45	Event 1230 1236	things
+E45	Event:T45 
+T2	Event 440 443	pay
+E2	Event:T2 
+T37	Event 91 95	rule
+E37	Event:T37 

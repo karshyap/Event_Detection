@@ -1,0 +1,138 @@
+T1	Event 49 58	illnesses
+E1	Event:T1 
+T2	Event 72 82	associated
+E2	Event:T2 
+T4	Event 0 22	Sick building syndrome
+E4	Event:T4 
+T5	Event 188 197	suggested
+E5	Event:T5 
+T6	Event 263 269	linked
+E6	Event:T6 
+T7	Event 328 335	related
+E7	Event:T7 
+T8	Event 376 382	caused
+E8	Event:T8 
+T9	Event 386 391	flaws
+E9	Event:T9 
+T12	Event 464 470	causes
+E12	Event:T12 
+T13	Event 494 502	produced
+E13	Event:T13 
+T14	Event 554 562	volatile
+E14	Event:T14 
+T15	Event 595 598	see
+E15	Event:T15 
+T17	Event 637 648	ventilation
+E17	Event:T17 
+T19	Event 696 701	using
+E19	Event:T19 
+T20	Event 749 753	lack
+E20	Event:T20 
+T21	Event 787 797	filtration
+E21	Event:T21 
+T22	Event 799 802	see
+E22	Event:T22 
+T23	Event 848 851	try
+E23	Event:T23 
+T24	Event 855 858	fix
+E24	Event:T24 
+T25	Event 875 885	increasing
+E25	Event:T25 
+T26	Event 926 934	exchange
+E26	Event:T26 
+T29	Event 1041 1046	avoid
+E29	Event:T29 
+T30	Event 1107 1115	minimize
+E30	Event:T30 
+T33	Event 1163 1172	eliminate
+E33	Event:T33 
+T34	Event 1173 1183	conditions
+E34	Event:T34 
+T35	Event 1189 1198	encourage
+E35	Event:T35 
+T36	Event 1199 1209	allergenic
+E36	Event:T36 
+T38	Event 1302 1312	irritation
+E38	Event:T38 
+T40	Event 1362 1377	health problems
+E40	Event:T40 
+T41	Event 1408 1434	hypersensitivity reactions
+E41	Event:T41 
+T42	Event 1495 1501	report
+E42	Event:T42 
+T44	Event 1548 1557	connected
+E44	Event:T44 
+T45	Event 1570 1579	discovery
+E45	Event:T45 
+T46	Event 1615 1625	experience
+E46	Event:T46 
+T47	Event 1632 1641	illnesses
+E47	Event:T47 
+T49	Event 1704 1712	relieved
+E49	Event:T49 
+T50	Event 1738 1743	leave
+E50	Event:T50 
+T51	Event 1803 1810	effects
+E51	Event:T51 
+T52	Event 1876 1882	leaves
+E52	Event:T52 
+T53	Event 1849 1857	clear up
+E53	Event:T53 
+T54	Event 1897 1906	Sensitive
+E54	Event:T54 
+T55	Event 1923 1927;1938 1952	have health effects
+E55	Event:T55 
+T57	Event 62 70	syndrome
+E57	Event:T57 
+T58	Event 273 281	symptoms
+E58	Event:T58 
+T59	Event 285 288	SBS
+E59	Event:T59 
+T60	Event 24 27	SBS
+E60	Event:T60 
+T61	Event 219 228	remodeled
+E61	Event:T61 
+T62	Event 302 324	sick building syndrome
+E62	Event:T62 
+T63	Event 365 368	SBS
+E63	Event:T63 
+T10	Event 506 516	outgassing
+E10	Event:T10 
+T11	Event 776 782	intake
+E11	Event:T11 
+T16	Event 859 862	SBS
+E16	Event:T16 
+T18	Event 863 871	symptoms
+E18	Event:T18 
+T27	Event 1059 1062	SBS
+E27	Event:T27 
+T65	Event 1244 1252	Symptoms
+E65	Event:T65 
+T37	Event 1273 1284	complain of
+E37	Event:T37 
+T66	Event 1285 1293	symptoms
+E66	Event:T66 
+T43	Event 1513 1521	symptoms
+E43	Event:T43 
+T68	Event 1580 1583	SBS
+E68	Event:T68 
+T48	Event 1683 1686	SBS
+E48	Event:T48 
+T69	Event 1687 1695	symptoms
+E69	Event:T69 
+T70	Event 1476 1480	sick
+E70	Event:T70 
+T71	Event 1795 1802	lasting
+E71	Event:T71 
+T31	Event 1211 1229	potentially-deadly
+E31	Event:T31 
+T3	Event 1235 1241	growth
+E3	Event:T3 
+T28	Event 1128 1131	use
+E28	Event:T28 
+T32	Event 1120 1127	ongoing
+E32	Event:T32 
+T39	Event 1379 1394	skin irritation
+E39	Event:T39 
+T56	Event 1440 1465	odor and taste sensations
+E56	Event:T56 

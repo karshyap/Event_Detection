@@ -1,0 +1,104 @@
+T1	Event 0 10	Weathering
+E1	Event:T1 
+T3	Event 81 88	contact
+E3	Event:T3 
+T4	Event 129 135	living
+E4	Event:T4 
+T5	Event 144 154	Weathering
+E5	Event:T5 
+T6	Event 155 161	occurs
+E6	Event:T6 
+T7	Event 189 197	movement
+E7	Event:T7 
+T8	Event 216 223	erosion
+E8	Event:T8 
+T9	Event 225 232	Erosion
+E9	Event:T9 
+T10	Event 265 270	moved
+E10	Event:T10 
+T13	Event 347 355	movement
+E13	Event:T13 
+T15	Event 401 407	change
+E15	Event:T15 
+T16	Event 408 414	raises
+E16	Event:T16 
+T17	Event 443 447	form
+E17	Event:T17 
+T18	Event 503 509	formed
+E18	Event:T18 
+T24	Event 726 731	forms
+E24	Event:T24 
+T27	Event 826 835	influence
+E27	Event:T27 
+T30	Event 892 896	does
+E30	Event:T30 
+T31	Event 901 911	weathering
+E31	Event:T31 
+T32	Event 935 945	weathering
+E32	Event:T32 
+T33	Event 1027 1037	weathering
+E33	Event:T33 
+T34	Event 1183 1193	weathering
+E34	Event:T34 
+T35	Event 1194 1199	occur
+E35	Event:T35 
+T36	Event 1219 1224	tends
+E36	Event:T36 
+T37	Event 1228 1238	accelerate
+E37	Event:T37 
+T39	Event 1282 1289	rubbing
+E39	Event:T39 
+T40	Event 1300 1309	decreases
+E40	Event:T40 
+T41	Event 1346 1355	increases
+E41	Event:T41 
+T42	Event 1376 1382;1393 1404	making susceptible
+E42	Event:T42 
+T44	Event 1451 1458	convert
+E44	Event:T44 
+T45	Event 1555 1562	release
+E45	Event:T45 
+T46	Event 1619 1623	left
+E46	Event:T46 
+T48	Event 1651 1659	combined
+E48	Event:T48 
+T49	Event 1682 1689	creates
+E49	Event:T49 
+T11	Event 554 563	collision
+E11	Event:T11 
+T12	Event 633 644	ground down
+E12	Event:T12 
+T20	Event 1272 1280	abrasion
+E20	Event:T20 
+T2	Event 18 31	breaking down
+E2	Event:T2 
+T23	Event 200 202	It
+E23	Event:T23 
+T14	Event 366 378	taking place
+E14	Event:T14 
+T28	Event 492 499	orogeny
+E28	Event:T28 
+T29	Event 525 540	plate tectonics
+E29	Event:T29 
+T22	Event 692 699	ends up
+E22	Event:T22 
+T25	Event 759 766	ends up
+E25	Event:T25 
+T26	Event 807 815	break up
+E26	Event:T26 
+T38	Event 1639 1650	breaks down
+E38	Event:T38 
+T19	Event 1090 1108	Chemical reactions
+E19	Event:T19 
+T21	Event 1414 1432	chemical reactions
+E21	Event:T21 
+T50	Event 324 328	wind
+E50	Event:T50 
+T51	Event 515 521	result
+E51	Event:T51 
+T52	Event 851 855	wind
+E52	Event:T52 
+T53	Event 879 885	causes
+E53	Event:T53 
+T54	Event 1438 1444	effect
+E54	Event:T54 

@@ -1,0 +1,86 @@
+T1	Event 40 44	used
+E1	Event:T1 
+T3	Event 63 67	make
+E3	Event:T3 
+T4	Event 109 116	kneaded
+E4	Event:T4 
+T6	Event 201 205	used
+E6	Event:T6 
+T7	Event 217 229	construction
+E7	Event:T7 
+T8	Event 243 247	made
+E8	Event:T8 
+T9	Event 273 276	put
+E9	Event:T9 
+T10	Event 291 294	cut
+E10	Event:T10 
+T12	Event 393 397	made
+E12	Event:T12 
+T13	Event 407 412	build
+E13	Event:T13 
+T14	Event 431 435	join
+E14	Event:T14 
+T15	Event 452 457	using
+E15	Event:T15 
+T16	Event 480 489	assembled
+E16	Event:T16 
+T18	Event 547 553	called
+E18	Event:T18 
+T21	Event 589 595	called
+E21	Event:T21 
+T23	Event 642 645	has
+E23	Event:T23 
+T24	Event 665 669	used
+E24	Event:T24 
+T25	Event 697 703	called
+E25	Event:T25 
+T27	Event 737 741	used
+E27	Event:T27 
+T30	Event 832 836	made
+E30	Event:T30 
+T31	Event 857 862	fired
+E31	Event:T31 
+T32	Event 923 928	found
+E32	Event:T32 
+T33	Event 967 972	found
+E33	Event:T33 
+T35	Event 1151 1156	Fired
+E35	Event:T35 
+T36	Event 1244 1248	used
+E36	Event:T36 
+T39	Event 1381 1386	Fired
+E39	Event:T39 
+T40	Event 1408 1417	resistant
+E40	Event:T40 
+T42	Event 1461 1466	allow
+E42	Event:T42 
+T44	Event 1523 1531	prevents
+E44	Event:T44 
+T45	Event 1536 1539	use
+E45	Event:T45 
+T46	Event 1584 1588	tend
+E46	Event:T46 
+T47	Event 1685 1694	picked up
+E47	Event:T47 
+T48	Event 13 21	man-made
+E48	Event:T48 
+T2	Event 48 52	make
+E2	Event:T2 
+T49	Event 78 82	walk
+E49	Event:T49 
+T5	Event 173 186	fire-hardened
+E5	Event:T5 
+T50	Event 190 199	air-dried
+E50	Event:T50 
+T51	Event 316 321	baked
+E51	Event:T51 
+T11	Event 355 365	depends on
+E11	Event:T11 
+T19	Event 1179 1194	longest-lasting
+E19	Event:T19 
+T20	Event 1299 1308	Sun-dried
+E20	Event:T20 
+T22	Event 909 915	shaped
+E22	Event:T22 
+T26	Event 1115 1119	come
+E26	Event:T26 

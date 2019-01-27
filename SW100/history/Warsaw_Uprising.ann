@@ -1,0 +1,126 @@
+T1	Event 64 76	World War II
+E1	Event:T1 
+T2	Event 77 83	attack
+E2	Event:T2 
+T5	Event 159 165	wanted
+E5	Event:T5 
+T6	Event 204 210	attack
+E6	Event:T6 
+T7	Event 211 219	happened
+E7	Event:T7 
+T11	Event 324 333	retreated
+E11	Event:T11 
+T12	Event 356 363	stopped
+E12	Event:T12 
+T13	Event 364 370	moving
+E13	Event:T13 
+T14	Event 385 392	allowed
+E14	Event:T14 
+T15	Event 408 415	destroy
+E15	Event:T15 
+T16	Event 429 435	defeat
+E16	Event:T16 
+T19	Event 474 480	fought
+E19	Event:T19 
+T20	Event 505 509	help
+E20	Event:T20 
+T21	Event 540 548	Uprising
+E21	Event:T21 
+T26	Event 616 628	World War II
+E26	Event:T26 
+T27	Event 634 642	uprising
+E27	Event:T27 
+T28	Event 643 648	began
+E28	Event:T28 
+T29	Event 688 692	plan
+E29	Event:T29 
+T31	Event 719 726	started
+E31	Event:T31 
+T32	Event 748 751	got
+E32	Event:T32 
+T35	Event 808 812	push
+E35	Event:T35 
+T36	Event 858 864	wanted
+E36	Event:T36 
+T37	Event 899 906	arrived
+E37	Event:T37 
+T38	Event 919 923	help
+E38	Event:T38 
+T42	Event 1002 1008	battle
+E42	Event:T42 
+T46	Event 1093 1097	move
+E46	Event:T46 
+T47	Event 1115 1119	help
+E47	Event:T47 
+T50	Event 1195 1203	captured
+E50	Event:T50 
+T51	Event 1264 1268	help
+E51	Event:T51 
+T52	Event 1300 1303	use
+E52	Event:T52 
+T53	Event 1329 1333	help
+E53	Event:T53 
+T54	Event 1363 1368	asked
+E54	Event:T54 
+T55	Event 1405 1409	help
+E55	Event:T55 
+T56	Event 1455 1459	help
+E56	Event:T56 
+T57	Event 1481 1485	sent
+E57	Event:T57 
+T58	Event 1495 1500	drops
+E58	Event:T58 
+T60	Event 1543 1547	sent
+E60	Event:T60 
+T61	Event 1552 1556	drop
+E61	Event:T61 
+T64	Event 1628 1634	killed
+E64	Event:T64 
+T65	Event 1662 1669	wounded
+E65	Event:T65 
+T67	Event 1734 1742	executed
+E67	Event:T67 
+T68	Event 1755 1761	hidden
+E68	Event:T68 
+T69	Event 1776 1781	found
+E69	Event:T69 
+T71	Event 1834 1840	killed
+E71	Event:T71 
+T72	Event 1845 1852	missing
+E72	Event:T72 
+T73	Event 1864 1871	wounded
+E73	Event:T73 
+T74	Event 1884 1892	fighting
+E74	Event:T74 
+T76	Event 1950 1959	destroyed
+E76	Event:T76 
+T78	Event 1975 1984	surrender
+E78	Event:T78 
+T80	Event 2017 2026	destroyed
+E80	Event:T80 
+T82	Event 169 173	free
+E82	Event:T82 
+T10	Event 868 872	free
+E10	Event:T10 
+T33	Event 4 19	Warsaw Uprising
+E33	Event:T33 
+T4	Event 268 277	got close
+E4	Event:T4 
+T8	Event 380 384	This
+E8	Event:T8 
+T9	Event 694 711	Operation Tempest
+E9	Event:T9 
+T17	Event 956 968	take control
+E17	Event:T17 
+T18	Event 1032 1043	got control
+E18	Event:T18 
+T24	Event 908 912	This
+E24	Event:T24 
+T25	Event 1174 1179;1187 1194	under command
+E25	Event:T25 
+T30	Event 29 50	powstanie warszawskie
+E30	Event:T30 
+T22	Event 565 576	attack done
+E22	Event:T22 
+T3	Event 667 669	It
+E3	Event:T3 

@@ -1,0 +1,116 @@
+T1	Event 137 140	has
+E1	Event:T1 
+T2	Event 222 227	faced
+E2	Event:T2 
+T3	Event 237 245	problems
+E3	Event:T3 
+T4	Event 260 268	problems
+E4	Event:T4 
+T6	Event 305 317	unemployment
+E6	Event:T6 
+T7	Event 345 352	Trading
+E7	Event:T7 
+T9	Event 386 395	came down
+E9	Event:T9 
+T10	Event 412 419	reduced
+E10	Event:T10 
+T12	Event 468 476	combined
+E12	Event:T12 
+T14	Event 504 512	resulted
+E14	Event:T14 
+T15	Event 553 560	started
+E15	Event:T15 
+T16	Event 532 548	Second World War
+E16	Event:T16 
+T17	Event 615 620	found
+E17	Event:T17 
+T19	Event 669 674	faced
+E19	Event:T19 
+T20	Event 573 589	Second World War
+E20	Event:T20 
+T22	Event 751 760	discussed
+E22	Event:T22 
+T23	Event 828 832;837 841	felt need
+E23	Event:T23 
+T25	Event 845 849	have
+E25	Event:T25 
+T26	Event 873 877	help
+E26	Event:T26 
+T27	Event 795 811	Second World War
+E27	Event:T27 
+T28	Event 945 954	discussed
+E28	Event:T28 
+T29	Event 971 977	signed
+E29	Event:T29 
+T33	Event 1174 1179	apply
+E33	Event:T33 
+T34	Event 1183 1189	become
+E34	Event:T34 
+T35	Event 1226 1233	applies
+E35	Event:T35 
+T37	Event 1276 1284	examines
+E37	Event:T37 
+T38	Event 1289 1300	application
+E38	Event:T38 
+T39	Event 1305 1319	found suitable
+E39	Event:T39 
+T40	Event 1341 1346;1351 1357	gives report
+E40	Event:T40 
+T41	Event 1415 1421	clears
+E41	Event:T41 
+T42	Event 1426 1437	application
+E42	Event:T42 
+T43	Event 1455 1459	join
+E43	Event:T43 
+T44	Event 1485 1492	joining
+E44	Event:T44 
+T45	Event 1513 1520;1527 1539	fulfill requirements
+E45	Event:T45 
+T47	Event 1582 1585;1598 1610	has voting right
+E47	Event:T47 
+T50	Event 1636 1639;1652 1657	has right
+E50	Event:T50 
+T52	Event 1661 1665	draw
+E52	Event:T52 
+T55	Event 1740 1752	subscription
+E55	Event:T55 
+T57	Event 1820 1828	relating
+E57	Event:T57 
+T58	Event 1842 1850	dealings
+E58	Event:T58 
+T60	Event 1785 1789;1802 1819	does supervisory works
+E60	Event:T60 
+T63	Event 1916 1923	Helping
+E63	Event:T63 
+T64	Event 1941 1946	trade
+E64	Event:T64 
+T67	Event 2046 2053	Helping
+E67	Event:T67 
+T68	Event 2083 2094	development
+E68	Event:T68 
+T69	Event 2103 2111	provides
+E69	Event:T69 
+T70	Event 247 251	Some
+E70	Event:T70 
+T8	Event 594 598	over
+E8	Event:T8 
+T11	Event 769 777	meetings
+E11	Event:T11 
+T30	Event 1106 1121	came into being
+E30	Event:T30 
+T36	Event 1678 1688	depends on
+E36	Event:T36 
+T46	Event 1892 1902	works done
+E46	Event:T46 
+T48	Event 1983 1996	Looking after
+E48	Event:T48 
+T49	Event 2012 2025	Looking after
+E49	Event:T49 
+T51	Event 2142 2155	consultations
+E51	Event:T51 
+T21	Event 720 732	thought over
+E21	Event:T21 
+T5	Event 274 281	falling
+E5	Event:T5 
+T13	Event 493 503	depression
+E13	Event:T13 

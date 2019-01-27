@@ -1,0 +1,72 @@
+T2	Event 72 79	founded
+E2	Event:T2 
+T3	Event 139 145	funded
+E3	Event:T3 
+T4	Event 212 215	has
+E4	Event:T4 
+T6	Event 282 294	achievements
+E6	Event:T6 
+T8	Event 303 321	taken into account
+E8	Event:T8 
+T9	Event 398 403	based
+E9	Event:T9 
+T10	Event 430 435	study
+E10	Event:T10 
+T12	Event 513 520	studied
+E12	Event:T12 
+T14	Event 619 624	based
+E14	Event:T14 
+T15	Event 672 675	use
+E15	Event:T15 
+T16	Event 698 706	research
+E16	Event:T16 
+T19	Event 846 857	established
+E19	Event:T19 
+T20	Event 889 897	enrolled
+E20	Event:T20 
+T21	Event 948 953	based
+E21	Event:T21 
+T22	Event 1008 1011	has
+E22	Event:T22 
+T28	Event 1373 1381	enrolled
+E28	Event:T28 
+T31	Event 1636 1643	founded
+E31	Event:T31 
+T32	Event 1681 1688	studied
+E32	Event:T32 
+T34	Event 1714 1719	rated
+E34	Event:T34 
+T35	Event 1768 1780	satisfaction
+E35	Event:T35 
+T37	Event 1895 1902	surveys
+E37	Event:T37 
+T38	Event 1953 1959	ranked
+E38	Event:T38 
+T40	Event 2049 2054	rated
+E40	Event:T40 
+T43	Event 2221 2227	ranked
+E43	Event:T43 
+T44	Event 2376 2382	ranked
+E44	Event:T44 
+T49	Event 2655 2665	recognized
+E49	Event:T49 
+T52	Event 2763 2771	Studying
+E52	Event:T52 
+T53	Event 2790 2799	expensive
+E53	Event:T53 
+T54	Event 2805 2813	studying
+E54	Event:T54 
+T55	Event 30 47	distance learning
+E55	Event:T55 
+T1	Event 326 331	entry
+E1	Event:T1 
+T11	Event 1096 1099	has
+E11	Event:T11 
+T13	Event 1190 1196	awards
+E13	Event:T13 
+T5	Event 2514 2532	gain accreditation
+E5	Event:T5 
+T7	Event 1383 1392	including
+E7	Event:T7 
+T17	Event 2635 2646	accrediting
+E17	Event:T17 

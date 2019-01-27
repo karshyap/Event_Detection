@@ -1,0 +1,70 @@
+T2	Event 46 54	invasion
+E2	Event:T2 
+T3	Event 123 128	ruled
+E3	Event:T3 
+T4	Event 166 173	invaded
+E4	Event:T4 
+T5	Event 192 197	death
+E5	Event:T5 
+T6	Event 238 246	believed
+E6	Event:T6 
+T7	Event 250 253;263 268	had right
+E7	Event:T7 
+T8	Event 323 330	crowned
+E8	Event:T8 
+T9	Event 396 402	fought
+E9	Event:T9 
+T11	Event 465 471	killed
+E11	Event:T11 
+T12	Event 479 485	battle
+E12	Event:T12 
+T13	Event 499 503	left
+E13	Event:T13 
+T14	Event 537 544	crowned
+E14	Event:T14 
+T16	Event 590 597	brought
+E16	Event:T16 
+T20	Event 666 674	conquest
+E20	Event:T20 
+T21	Event 675 681	linked
+E21	Event:T21 
+T24	Event 779 786	created
+E24	Event:T24 
+T25	Event 838 846	conquest
+E25	Event:T25 
+T26	Event 847 854	changed
+E26	Event:T26 
+T27	Event 893 896;901 906	set stage
+E27	Event:T27 
+T28	Event 911 918	rivalry
+E28	Event:T28 
+T29	Event 944 952	continue
+E29	Event:T29 
+T30	Event 959 965	breaks
+E30	Event:T30 
+T31	Event 1027 1034	invaded
+E31	Event:T31 
+T32	Event 1052 1060	invasion
+E32	Event:T32 
+T33	Event 1089 1096	compare
+E33	Event:T33 
+T1	Event 4 19	Norman conquest
+E1	Event:T1 
+T10	Event 410 428	Battle of Hastings
+E10	Event:T10 
+T15	Event 574 589	Norman conquest
+E15	Event:T15 
+T17	Event 776 778	It
+E17	Event:T17 
+T18	Event 611 617	change
+E18	Event:T18 
+T19	Event 732 736;760 774	made less important
+E19	Event:T19 
+T22	Event 311 314	had
+E22	Event:T22 
+T23	Event 1132 1150	Operation Sea Lion
+E23	Event:T23 
+T34	Event 1117 1127	Jacobitism
+E34	Event:T34 
+T35	Event 1101 1115	Spanish Armada
+E35	Event:T35 

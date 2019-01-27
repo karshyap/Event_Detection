@@ -1,0 +1,152 @@
+T2	Event 107 112;94 98	bonds gets
+E2	Event:T2 
+T3	Event 0 21	Cheletropic reactions
+E3	Event:T3 
+T5	Event 148 156	involves
+E5	Event:T5 
+T7	Event 212 222	associated
+E7	Event:T7 
+T8	Event 239 250	interacting
+E8	Event:T8 
+T9	Event 263 277	reorganization
+E9	Event:T9 
+T11	Event 295 301	occurs
+E11	Event:T11 
+T12	Event 325 346	Cheletropic reactions
+E12	Event:T12 
+T15	Event 460 465;476 480	bonds made
+E15	Event:T15 
+T16	Event 518 523	shown
+E16	Event:T16 
+T18	Event 644 651	ends up
+E18	Event:T18 
+T19	Event 680 686	result
+E19	Event:T19 
+T20	Event 690 696;705 710	making bonds
+E20	Event:T20 
+T21	Event 751 756	known
+E21	Event:T21 
+T24	Event 837 845	reaction
+E24	Event:T24 
+T25	Event 851 858	driving
+E25	Event:T25 
+T27	Event 875 884	reactions
+E27	Event:T27 
+T28	Event 918 927	releasing
+E28	Event:T28 
+T30	Event 964 972	analysis
+E30	Event:T30 
+T31	Event 1015 1023	involved
+E31	Event:T31 
+T33	Event 1055 1062	confirm
+E33	Event:T33 
+T36	Event 1139 1146	confirm
+E36	Event:T36 
+T37	Event 1151 1163	conservation
+E37	Event:T37 
+T38	Event 1117 1138	Cheletropic reactions
+E38	Event:T38 
+T40	Event 1249 1256	donates
+E40	Event:T40 
+T42	Event 1312 1319	explain
+E42	Event:T42 
+T43	Event 1324 1332	reaction
+E43	Event:T43 
+T44	Event 1357 1365	approach
+E44	Event:T44 
+T45	Event 1638 1644	rotate
+E45	Event:T45 
+T46	Event 1692 1699;1704 1709	forming bonds
+E46	Event:T46 
+T48	Event 1728 1736	rotation
+E48	Event:T48 
+T51	Event 1845 1856	approaching
+E51	Event:T51 
+T52	Event 1882 1887	using
+E52	Event:T52 
+T53	Event 1919 1924	shown
+E53	Event:T53 
+T54	Event 1936 1944	rotation
+E54	Event:T54 
+T55	Event 2039 2049	approaches
+E55	Event:T55 
+T56	Event 2092 2096	tell
+E56	Event:T56 
+T58	Event 2131 2139	rotating
+E58	Event:T58 
+T59	Event 2064 2075	Disrotatory
+E59	Event:T59 
+T63	Event 2236 2241	shown
+E63	Event:T63 
+T64	Event 2265 2270	Using
+E64	Event:T64 
+T65	Event 2294 2298	tell
+E65	Event:T65 
+T66	Event 2376 2379	use
+E66	Event:T66 
+T68	Event 2427 2430	use
+E68	Event:T68 
+T1	Event 36 55	pericyclic reaction
+E1	Event:T1 
+T4	Event 116 135	pericyclic reaction
+E4	Event:T4 
+T6	Event 159 175	transition state
+E6	Event:T6 
+T10	Event 365 379	cycloadditions
+E10	Event:T10 
+T13	Event 391 412	cheletropic reactions
+E13	Event:T13 
+T73	Event 386 390;413 418	sets apart
+E73	Event:T73 
+T14	Event 820 829	given off
+E14	Event:T14 
+T17	Event 761 783	cheletropic extrusions
+E17	Event:T17 
+T22	Event 1027 1048	cheletropic reactions
+E22	Event:T22 
+T23	Event 1075 1091	predictions made
+E23	Event:T23 
+T26	Event 1203 1230	pericyclic transition state
+E26	Event:T26 
+T32	Event 1483 1490	pointed
+E32	Event:T32 
+T35	Event 1577 1587	approaches
+E35	Event:T35 
+T39	Event 1667 1677	approaches
+E39	Event:T39 
+T29	Event 1418 1426	approach
+E29	Event:T29 
+T34	Event 1555 1563	approach
+E34	Event:T34 
+T47	Event 1987 1997	approaches
+E47	Event:T47 
+T50	Event 2080 2091	conrotatory
+E50	Event:T50 
+T60	Event 2365 2375	approaches
+E60	Event:T60 
+T61	Event 2416 2426	approaches
+E61	Event:T61 
+T74	Event 2506 2516	approaches
+E74	Event:T74 
+T75	Event 2563 2573	approaches
+E75	Event:T75 
+T76	Event 1953 1964	disrotatory
+E76	Event:T76 
+T77	Event 2011 2022	conrotatory
+E77	Event:T77 
+T57	Event 2464 2473	goes with
+E57	Event:T57 
+T41	Event 1755 1767	depending on
+E41	Event:T41 
+T49	Event 2579 2583	have
+E49	Event:T49 
+T62	Event 2596 2602	motion
+E62	Event:T62 
+T70	Event 2522 2526	have
+E70	Event:T70 
+T71	Event 2539 2545	motion
+E71	Event:T71 
+T69	Event 2443 2449	motion
+E69	Event:T69 
+T67	Event 2392 2398	motion
+E67	Event:T67 
